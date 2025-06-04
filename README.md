@@ -1,7 +1,7 @@
 # Big-Data-Assignment-Spark-Kafka-UE22CS343AB2-
 This repository contains solutions to two tasks based on real-world big data processing using Apache Spark and Apache Kafka.
 
-###Task 1 – Olympic Data Analysis (Spark)
+### Task 1 – Olympic Data Analysis (Spark)
 Task1.py: A PySpark script to analyze Olympic data from 2012, 2016, and 2020.
 
 Identifies top-performing athletes by sport across three Olympic Games.
@@ -10,7 +10,7 @@ Recognizes top 5 international coaches from China, India, and the USA based on m
 
 Final output: a single .txt file listing top athletes and coaches in the required format.
 
-###Task 2 – Streaming Analytics Pipeline (Kafka)
+### Task 2 – Streaming Analytics Pipeline (Kafka)
 kafka-producer.py: Kafka producer that streams raw event logs to different topics based on event type.
 
 kafka-consumer1.py: Computes most used programming language and most difficult category to solve (Client 1).
