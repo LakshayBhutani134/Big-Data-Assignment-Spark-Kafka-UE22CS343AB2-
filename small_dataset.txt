@@ -1,0 +1,818 @@
+problem u_092 p_00139 Greedy Hard s_00158 Passed Ruby 1877
+solution u_060 p_00180 s_00022 20
+competition c_0049 u_097 cp_00078 Greedy Medium cs_00009 Passed Ruby 1971 44
+solution u_038 p_00148 s_00289 139
+problem u_011 p_00237 Arrays Hard s_00332 Passed Java 1991
+competition c_0044 u_046 cp_00114 Heaps Easy cs_00024 Passed Rust 1925 14
+problem u_083 p_00053 Heaps Hard s_00380 Failed C++ 1380
+problem u_029 p_00064 LinkedLists Easy s_00261 Failed Python 781
+problem u_016 p_00004 Graphs Hard s_00361 Failed Java 1314
+problem u_092 p_00135 Graphs Easy s_00284 Passed C++ 1356
+problem u_087 p_00213 Stacks&Queues Medium s_00480 Failed Go 1840
+problem u_026 p_00287 DP Hard s_00132 TLE Rust 2614
+competition c_0003 u_079 cp_00037 Graphs Medium cs_00177 Failed Python 1004 33
+competition c_0037 u_100 cp_00017 Stacks&Queues Hard cs_00186 TLE C++ 2570 38
+problem u_021 p_00086 LinkedLists Medium s_00455 TLE C 2769
+problem u_023 p_00234 BitManipulation Easy s_00065 Passed Rust 331
+problem u_008 p_00089 Arrays Easy s_00290 TLE Java 2313
+competition c_0021 u_040 cp_00024 DP Easy cs_00167 Failed JavaScript 343 27
+problem u_040 p_00298 Heaps Hard s_00337 TLE JavaScript 2913
+problem u_015 p_00057 Graphs Easy s_00322 TLE Ruby 2074
+solution u_070 p_00288 s_00082 454
+solution u_038 p_00220 s_00243 102
+problem u_038 p_00003 Heaps Medium s_00256 TLE Ruby 2223
+competition c_0042 u_095 cp_00128 Trees Hard cs_00210 Failed Java 1940 48
+problem u_083 p_00126 Greedy Easy s_00401 Failed Python 970
+problem u_004 p_00299 BitManipulation Hard s_00408 Failed JavaScript 1934
+problem u_016 p_00093 BitManipulation Easy s_00035 Failed C++ 466
+problem u_039 p_00040 Stacks&Queues Medium s_00314 Passed Go 1399
+problem u_096 p_00200 Graphs Medium s_00388 Failed Java 1769
+problem u_067 p_00279 Trees Hard s_00419 Passed JavaScript 1759
+problem u_088 p_00198 Strings Easy s_00386 Failed C++ 582
+problem u_070 p_00185 Arrays Medium s_00334 Failed Go 290
+competition c_0023 u_070 cp_00017 Stacks&Queues Hard cs_00062 Failed Ruby 1143 32
+problem u_065 p_00273 Graphs Easy s_00381 Failed C++ 184
+competition c_0031 u_019 cp_00084 Arrays Medium cs_00190 Passed Java 1386 7
+competition c_0050 u_021 cp_00013 Heaps Medium cs_00154 Passed C++ 1375 53
+problem u_086 p_00148 Greedy Medium s_00059 Passed Rust 1907
+problem u_067 p_00292 Strings Easy s_00253 TLE JavaScript 2432
+problem u_056 p_00188 Stacks&Queues Hard s_00471 TLE Rust 2884
+problem u_096 p_00199 Strings Hard s_00097 Passed Java 390
+competition c_0024 u_065 cp_00126 Trees Hard cs_00002 TLE Python 2076 18
+problem u_016 p_00078 DP Easy s_00195 Failed Java 307
+problem u_099 p_00150 Arrays Easy s_00203 Passed Ruby 1738
+competition c_0031 u_057 cp_00020 Graphs Medium cs_00193 TLE Go 2886 21
+competition c_0030 u_066 cp_00111 Heaps Easy cs_00174 TLE Rust 2230 41
+problem u_061 p_00254 Strings Hard s_00351 Failed Ruby 1551
+problem u_075 p_00151 Heaps Easy s_00093 Failed JavaScript 1423
+competition c_0039 u_049 cp_00060 LinkedLists Easy cs_00247 Passed C++ 319 8
+competition c_0022 u_033 cp_00111 Heaps Easy cs_00131 TLE Go 2632 56
+competition c_0013 u_066 cp_00075 Heaps Easy cs_00055 TLE JavaScript 2947 33
+problem u_013 p_00278 Graphs Medium s_00377 Passed C 600
+competition c_0043 u_060 cp_00019 Greedy Easy cs_00242 Failed Ruby 1642 32
+competition c_0024 u_042 cp_00146 Arrays Easy cs_00237 TLE Go 2565 23
+competition c_0049 u_008 cp_00106 Heaps Medium cs_00149 TLE C 2598 49
+solution u_036 p_00149 s_00320 384
+competition c_0025 u_014 cp_00003 BitManipulation Easy cs_00180 Passed Ruby 782 36
+problem u_003 p_00151 Heaps Easy s_00034 TLE Rust 2712
+competition c_0048 u_006 cp_00064 Strings Easy cs_00192 Passed JavaScript 1541 45
+competition c_0012 u_082 cp_00104 LinkedLists Easy cs_00060 TLE Java 2771 9
+competition c_0006 u_047 cp_00079 DP Easy cs_00250 Passed Java 1148 46
+competition c_0020 u_078 cp_00137 Strings Easy cs_00090 TLE Java 2696 41
+competition c_0027 u_099 cp_00013 Heaps Medium cs_00125 Failed Ruby 241 36
+problem u_081 p_00244 LinkedLists Medium s_00040 TLE Java 2822
+solution u_010 p_00055 s_00081 172
+problem u_021 p_00041 LinkedLists Easy s_00498 TLE Rust 2500
+problem u_001 p_00096 Strings Medium s_00254 Failed C 1543
+problem u_072 p_00074 Strings Hard s_00467 TLE C++ 2025
+problem u_059 p_00100 Greedy Medium s_00238 Passed Go 595
+problem u_055 p_00012 Trees Medium s_00027 Passed Rust 897
+problem u_009 p_00044 Strings Easy s_00291 Passed Python 1345
+problem u_087 p_00235 Stacks&Queues Hard s_00218 Passed C++ 483
+competition c_0027 u_042 cp_00144 Trees Hard cs_00248 TLE Rust 2454 27
+problem u_007 p_00220 Strings Easy s_00219 TLE Ruby 2310
+problem u_091 p_00246 Trees Hard s_00374 Failed Python 1610
+problem u_031 p_00109 Heaps Hard s_00086 Passed Rust 1495
+solution u_002 p_00127 s_00229 357
+problem u_046 p_00218 Graphs Easy s_00099 Failed Python 266
+problem u_054 p_00039 Heaps Medium s_00213 Failed Java 1998
+competition c_0040 u_009 cp_00063 BitManipulation Easy cs_00025 TLE C++ 2628 60
+problem u_046 p_00209 BitManipulation Easy s_00115 TLE JavaScript 2611
+problem u_027 p_00052 LinkedLists Hard s_00080 Passed C++ 1851
+problem u_092 p_00167 Trees Medium s_00344 TLE Ruby 2554
+problem u_067 p_00030 LinkedLists Easy s_00216 TLE C 2652
+problem u_001 p_00255 Greedy Medium s_00190 Failed C 633
+problem u_060 p_00254 Strings Hard s_00101 TLE Ruby 2287
+problem u_084 p_00200 Graphs Medium s_00001 TLE C++ 2160
+solution u_094 p_00072 s_00232 183
+problem u_094 p_00138 Trees Medium s_00070 Passed C++ 1803
+competition c_0003 u_002 cp_00039 Greedy Hard cs_00209 TLE C++ 2751 15
+competition c_0020 u_056 cp_00020 Graphs Medium cs_00095 Failed Python 860 30
+problem u_025 p_00160 Greedy Hard s_00126 Failed Go 645
+problem u_033 p_00265 LinkedLists Easy s_00042 Failed Java 654
+problem u_037 p_00062 Greedy Hard s_00024 TLE Python 2060
+problem u_030 p_00052 LinkedLists Hard s_00485 Passed JavaScript 1688
+competition c_0028 u_095 cp_00067 DP Medium cs_00058 TLE Python 2669 18
+problem u_002 p_00255 Greedy Medium s_00404 TLE Java 2802
+problem u_028 p_00034 Stacks&Queues Medium s_00228 Passed Rust 645
+problem u_016 p_00009 BitManipulation Medium s_00415 Passed C++ 1166
+problem u_043 p_00046 BitManipulation Medium s_00143 TLE JavaScript 2861
+competition c_0025 u_093 cp_00028 Strings Easy cs_00134 Passed Python 347 18
+problem u_082 p_00137 Stacks&Queues Easy s_00267 Passed Ruby 1021
+problem u_094 p_00133 DP Easy s_00198 Failed C++ 1797
+problem u_070 p_00131 BitManipulation Hard s_00199 TLE JavaScript 2082
+problem u_067 p_00058 Strings Easy s_00357 TLE Go 2179
+competition c_0040 u_089 cp_00119 Heaps Easy cs_00204 TLE Go 2078 30
+problem u_061 p_00083 Heaps Medium s_00437 Failed C 1564
+problem u_026 p_00041 LinkedLists Easy s_00067 Failed C 602
+problem u_090 p_00249 Arrays Hard s_00107 TLE JavaScript 2809
+problem u_001 p_00295 DP Hard s_00137 Failed Rust 1331
+problem u_066 p_00089 Arrays Easy s_00355 Passed C 1639
+problem u_065 p_00086 LinkedLists Medium s_00305 Passed Ruby 1149
+problem u_086 p_00044 Strings Easy s_00020 Passed C 1098
+problem u_058 p_00121 Trees Medium s_00148 Failed JavaScript 178
+problem u_033 p_00296 Strings Medium s_00369 TLE Java 2516
+solution u_031 p_00109 s_00086 159
+problem u_047 p_00202 DP Hard s_00399 Failed C 1013
+problem u_069 p_00111 LinkedLists Easy s_00421 Failed Go 1673
+problem u_002 p_00043 BitManipulation Hard s_00409 Passed Ruby 1307
+competition c_0049 u_074 cp_00054 BitManipulation Easy cs_00116 Passed Java 1284 20
+competition c_0018 u_060 cp_00075 Heaps Easy cs_00183 TLE Go 2330 45
+problem u_089 p_00096 Strings Medium s_00379 TLE Go 2385
+problem u_027 p_00128 Stacks&Queues Hard s_00331 Passed Go 1622
+problem u_073 p_00037 Heaps Easy s_00234 Passed Python 531
+problem u_012 p_00258 Strings Medium s_00326 Passed Go 449
+competition c_0008 u_027 cp_00123 LinkedLists Easy cs_00102 Passed Java 1724 11
+competition c_0010 u_058 cp_00079 DP Easy cs_00137 Failed Ruby 1326 16
+problem u_032 p_00273 Graphs Easy s_00402 Failed Python 294
+competition c_0018 u_081 cp_00147 Heaps Medium cs_00198 Failed Python 1306 11
+competition c_0003 u_055 cp_00147 Heaps Medium cs_00228 TLE C++ 2543 31
+problem u_100 p_00026 Heaps Hard s_00121 TLE C 2355
+competition c_0042 u_026 cp_00045 Greedy Hard cs_00207 Failed Ruby 319 10
+competition c_0037 u_047 cp_00147 Heaps Medium cs_00188 Failed C++ 1820 54
+problem u_044 p_00041 LinkedLists Easy s_00325 Failed Go 1498
+competition c_0018 u_041 cp_00049 Strings Medium cs_00157 Passed JavaScript 1089 18
+problem u_008 p_00145 Arrays Hard s_00050 TLE Python 2271
+solution u_074 p_00221 s_00287 294
+problem u_019 p_00031 Strings Easy s_00064 Failed Java 698
+solution u_094 p_00138 s_00070 117
+problem u_064 p_00280 Heaps Easy s_00208 Failed JavaScript 1813
+problem u_017 p_00212 Trees Hard s_00435 TLE C++ 2955
+problem u_088 p_00261 LinkedLists Medium s_00327 Passed Rust 1363
+competition c_0041 u_064 cp_00080 Greedy Easy cs_00067 TLE Ruby 2053 10
+competition c_0015 u_069 cp_00018 BitManipulation Hard cs_00224 Failed C++ 1272 27
+problem u_016 p_00279 Trees Hard s_00200 Passed C 151
+competition c_0028 u_024 cp_00134 LinkedLists Medium cs_00010 Passed Python 1636 20
+problem u_023 p_00099 DP Hard s_00285 Passed C 738
+problem u_063 p_00139 Greedy Hard s_00353 Passed Go 1380
+solution u_077 p_00224 s_00003 635
+problem u_015 p_00199 Strings Hard s_00352 TLE C 2493
+problem u_077 p_00224 BitManipulation Medium s_00003 Passed C++ 126
+problem u_093 p_00284 Stacks&Queues Easy s_00033 Passed JavaScript 106
+problem u_019 p_00213 Stacks&Queues Medium s_00375 Failed Java 1607
+problem u_043 p_00186 Greedy Hard s_00280 TLE Java 2264
+problem u_048 p_00124 Greedy Easy s_00077 Failed Java 1860
+competition c_0011 u_010 cp_00062 BitManipulation Easy cs_00214 TLE C++ 2903 17
+problem u_001 p_00194 DP Medium s_00242 Passed Rust 1673
+problem u_014 p_00099 DP Hard s_00413 TLE Ruby 2413
+competition c_0034 u_054 cp_00053 Arrays Easy cs_00133 Passed Python 697 43
+competition c_0009 u_089 cp_00044 DP Easy cs_00179 TLE C++ 2401 33
+competition c_0022 u_042 cp_00113 Greedy Easy cs_00142 Failed JavaScript 276 15
+problem u_090 p_00003 Heaps Medium s_00103 Failed Rust 1980
+competition c_0007 u_056 cp_00139 Heaps Hard cs_00213 Passed Python 634 51
+competition c_0024 u_019 cp_00145 Graphs Easy cs_00195 Passed C 677 37
+competition c_0045 u_092 cp_00069 Arrays Medium cs_00128 Passed Rust 154 10
+problem u_060 p_00109 Heaps Hard s_00068 Passed C 1916
+problem u_075 p_00033 Trees Hard s_00356 Failed Go 292
+problem u_055 p_00172 LinkedLists Hard s_00278 Passed C 1270
+competition c_0012 u_051 cp_00006 BitManipulation Medium cs_00236 TLE Rust 2292 52
+problem u_045 p_00281 LinkedLists Hard s_00142 TLE C++ 2687
+problem u_046 p_00244 LinkedLists Medium s_00286 TLE Rust 2011
+problem u_019 p_00194 DP Medium s_00210 TLE Go 2203
+problem u_024 p_00078 DP Easy s_00163 TLE C 2307
+competition c_0015 u_041 cp_00138 Trees Hard cs_00117 Failed Python 1682 13
+competition c_0033 u_085 cp_00010 Heaps Medium cs_00046 Failed Python 1072 48
+competition c_0017 u_051 cp_00004 Greedy Hard cs_00219 TLE Java 2022 29
+competition c_0019 u_040 cp_00007 LinkedLists Hard cs_00211 Passed JavaScript 1833 31
+problem u_084 p_00198 Strings Easy s_00013 TLE Rust 2774
+problem u_002 p_00127 Strings Hard s_00229 Passed Python 777
+problem u_054 p_00093 BitManipulation Easy s_00451 TLE Java 2799
+competition c_0036 u_059 cp_00028 Strings Easy cs_00122 TLE C++ 2359 8
+competition c_0004 u_087 cp_00140 Stacks&Queues Easy cs_00041 Passed Ruby 722 58
+problem u_023 p_00192 BitManipulation Medium s_00118 Passed JavaScript 206
+problem u_063 p_00149 LinkedLists Medium s_00258 Failed Java 1011
+competition c_0049 u_054 cp_00013 Heaps Medium cs_00127 Passed C 1137 34
+competition c_0040 u_012 cp_00103 Greedy Easy cs_00022 Failed C++ 495 56
+competition c_0022 u_097 cp_00055 Stacks&Queues Medium cs_00143 TLE Rust 2023 18
+problem u_003 p_00177 Greedy Easy s_00153 Failed Java 787
+problem u_010 p_00148 Greedy Medium s_00175 Passed Rust 1159
+problem u_046 p_00131 BitManipulation Hard s_00160 Failed C++ 960
+solution u_066 p_00257 s_00420 263
+problem u_060 p_00180 Strings Hard s_00022 Passed Java 1367
+problem u_041 p_00253 Stacks&Queues Easy s_00111 TLE Rust 2729
+problem u_051 p_00272 Graphs Easy s_00371 Passed C++ 519
+problem u_021 p_00136 Strings Hard s_00186 Passed Ruby 1816
+competition c_0037 u_077 cp_00134 LinkedLists Medium cs_00146 TLE Go 2728 52
+competition c_0046 u_096 cp_00092 Arrays Easy cs_00126 Passed C++ 1593 21
+solution u_017 p_00127 s_00390 554
+competition c_0033 u_068 cp_00040 Strings Easy cs_00164 Passed Go 832 29
+problem u_081 p_00223 Stacks&Queues Medium s_00194 Failed JavaScript 1572
+problem u_082 p_00292 Strings Easy s_00147 Failed Ruby 1600
+problem u_100 p_00032 LinkedLists Medium s_00432 Passed JavaScript 260
+competition c_0047 u_013 cp_00034 DP Easy cs_00120 Passed Python 1678 47
+competition c_0042 u_088 cp_00103 Greedy Easy cs_00130 Passed Rust 528 50
+problem u_047 p_00202 DP Hard s_00500 TLE Rust 2617
+problem u_019 p_00181 BitManipulation Easy s_00396 Failed JavaScript 1952
+problem u_089 p_00101 Arrays Easy s_00428 Passed Ruby 1897
+problem u_083 p_00182 Greedy Medium s_00167 Failed C 1279
+problem u_044 p_00084 Greedy Easy s_00324 TLE Java 2293
+competition c_0007 u_006 cp_00058 Greedy Medium cs_00001 TLE Python 2440 32
+problem u_068 p_00149 LinkedLists Medium s_00023 TLE C++ 2975
+competition c_0027 u_058 cp_00068 Trees Hard cs_00239 Failed C 1462 21
+solution u_065 p_00086 s_00305 673
+competition c_0008 u_039 cp_00060 LinkedLists Easy cs_00064 Failed Rust 1304 30
+solution u_090 p_00254 s_00342 29
+problem u_051 p_00248 Heaps Easy s_00189 Passed Python 1468
+competition c_0047 u_084 cp_00005 Graphs Hard cs_00003 Failed Rust 1994 46
+problem u_005 p_00237 Arrays Hard s_00362 TLE C++ 2247
+competition c_0027 u_031 cp_00018 BitManipulation Hard cs_00144 TLE Go 2126 46
+problem u_051 p_00260 DP Hard s_00489 Failed Ruby 972
+competition c_0002 u_005 cp_00016 Arrays Medium cs_00042 TLE C++ 2086 34
+problem u_091 p_00090 Arrays Hard s_00323 TLE Python 2270
+competition c_0044 u_069 cp_00009 LinkedLists Medium cs_00229 Failed Ruby 1091 9
+problem u_090 p_00214 Strings Hard s_00302 Failed Python 673
+problem u_048 p_00240 Arrays Medium s_00089 TLE Python 2550
+problem u_089 p_00116 Trees Hard s_00017 TLE Ruby 2213
+problem u_043 p_00090 Arrays Hard s_00155 TLE C 2571
+problem u_005 p_00133 DP Easy s_00257 Passed Rust 788
+solution u_009 p_00044 s_00291 408
+problem u_036 p_00176 Trees Medium s_00296 Failed Rust 106
+problem u_086 p_00262 LinkedLists Medium s_00307 Failed C++ 802
+problem u_070 p_00184 Heaps Easy s_00181 Failed Ruby 1959
+competition c_0026 u_087 cp_00113 Greedy Easy cs_00104 TLE C 2760 27
+competition c_0042 u_058 cp_00116 Stacks&Queues Hard cs_00100 Failed C++ 821 37
+problem u_099 p_00167 Trees Medium s_00246 Passed Rust 1466
+competition c_0035 u_095 cp_00077 LinkedLists Hard cs_00222 Passed C 341 22
+problem u_078 p_00234 BitManipulation Easy s_00382 Passed Go 692
+problem u_022 p_00068 BitManipulation Medium s_00105 Passed Java 730
+problem u_078 p_00259 Stacks&Queues Easy s_00109 Passed Ruby 949
+problem u_037 p_00273 Graphs Easy s_00292 Passed Ruby 918
+problem u_086 p_00177 Greedy Easy s_00469 Failed Rust 1433
+solution u_019 p_00139 s_00091 73
+problem u_015 p_00199 Strings Hard s_00395 Failed Go 1242
+problem u_059 p_00131 BitManipulation Hard s_00349 Failed Python 1151
+problem u_010 p_00276 Heaps Hard s_00072 Passed Go 623
+competition c_0017 u_010 cp_00084 Arrays Medium cs_00159 TLE JavaScript 2817 55
+solution u_071 p_00123 s_00365 595
+problem u_027 p_00053 Heaps Hard s_00185 Passed JavaScript 1820
+competition c_0043 u_048 cp_00043 LinkedLists Hard cs_00168 Passed Go 1499 48
+problem u_091 p_00154 Stacks&Queues Hard s_00309 TLE Rust 2171
+problem u_090 p_00254 Strings Hard s_00342 Passed Ruby 117
+competition c_0004 u_089 cp_00108 Arrays Medium cs_00113 Passed Go 829 25
+competition c_0023 u_060 cp_00016 Arrays Medium cs_00184 TLE Ruby 2987 24
+competition c_0007 u_034 cp_00013 Heaps Medium cs_00044 Failed JavaScript 1161 26
+problem u_034 p_00128 Stacks&Queues Hard s_00120 TLE Python 2850
+competition c_0040 u_043 cp_00087 DP Medium cs_00156 TLE Java 2959 48
+problem u_018 p_00139 Greedy Hard s_00431 Failed Ruby 1528
+problem u_047 p_00218 Graphs Easy s_00433 TLE Go 2400
+problem u_040 p_00140 Heaps Easy s_00025 Failed Python 1505
+competition c_0007 u_008 cp_00045 Greedy Hard cs_00206 Passed Ruby 929 57
+problem u_026 p_00005 LinkedLists Medium s_00370 TLE Java 2746
+problem u_098 p_00211 BitManipulation Hard s_00275 Failed Go 1259
+problem u_092 p_00068 BitManipulation Medium s_00306 TLE Python 2039
+problem u_028 p_00140 Heaps Easy s_00260 TLE C 2335
+problem u_019 p_00068 BitManipulation Medium s_00479 Failed Rust 986
+problem u_038 p_00153 Graphs Easy s_00176 Passed Go 615
+competition c_0005 u_040 cp_00107 LinkedLists Easy cs_00049 Failed C 1109 7
+problem u_063 p_00003 Heaps Medium s_00183 TLE Java 2564
+problem u_052 p_00112 Strings Easy s_00170 Passed JavaScript 1765
+problem u_097 p_00201 Strings Medium s_00217 TLE Ruby 2607
+problem u_010 p_00055 Trees Hard s_00081 Passed C 1824
+problem u_096 p_00019 BitManipulation Easy s_00454 TLE Java 2699
+problem u_001 p_00185 Arrays Medium s_00157 TLE C++ 2683
+competition c_0025 u_004 cp_00059 Graphs Medium cs_00201 Passed Go 746 23
+competition c_0021 u_037 cp_00113 Greedy Easy cs_00175 TLE C 2078 31
+problem u_071 p_00193 BitManipulation Medium s_00179 Failed Go 248
+competition c_0011 u_099 cp_00089 Arrays Easy cs_00047 Failed Python 901 56
+problem u_096 p_00094 BitManipulation Easy s_00241 TLE C++ 2133
+competition c_0036 u_091 cp_00104 LinkedLists Easy cs_00112 Passed JavaScript 228 26
+problem u_007 p_00169 LinkedLists Easy s_00191 Passed Python 274
+problem u_062 p_00014 Heaps Hard s_00244 Passed Python 853
+problem u_098 p_00047 Trees Easy s_00006 Passed C 255
+problem u_074 p_00093 BitManipulation Easy s_00348 Failed JavaScript 1115
+problem u_040 p_00262 LinkedLists Medium s_00028 Failed Ruby 891
+competition c_0042 u_070 cp_00122 Graphs Medium cs_00196 TLE Rust 2038 27
+problem u_042 p_00047 Trees Easy s_00389 Passed Python 1229
+competition c_0034 u_009 cp_00068 Trees Hard cs_00240 TLE Rust 2988 46
+problem u_050 p_00189 Graphs Hard s_00201 Failed C++ 1307
+competition c_0033 u_086 cp_00069 Arrays Medium cs_00072 Passed JavaScript 1419 44
+problem u_041 p_00129 DP Easy s_00329 TLE Java 2335
+problem u_100 p_00044 Strings Easy s_00445 Failed Ruby 1794
+solution u_037 p_00273 s_00292 292
+competition c_0001 u_073 cp_00076 Stacks&Queues Easy cs_00061 Passed Python 1834 27
+problem u_037 p_00084 Greedy Easy s_00094 Passed Python 118
+competition c_0036 u_077 cp_00115 Heaps Easy cs_00145 TLE JavaScript 2405 14
+problem u_044 p_00016 Trees Medium s_00434 TLE C 2665
+problem u_008 p_00100 Greedy Medium s_00102 TLE Ruby 2990
+competition c_0045 u_052 cp_00102 LinkedLists Easy cs_00082 Passed Go 746 15
+problem u_043 p_00202 DP Hard s_00293 Failed C 1738
+problem u_059 p_00065 Strings Easy s_00071 Passed C++ 273
+solution u_062 p_00014 s_00244 212
+problem u_006 p_00282 Strings Medium s_00391 Failed Python 1942
+competition c_0040 u_030 cp_00012 Arrays Medium cs_00093 Passed Python 1373 42
+problem u_077 p_00049 Trees Hard s_00015 TLE C++ 2937
+competition c_0042 u_065 cp_00009 LinkedLists Medium cs_00216 TLE Java 2158 55
+competition c_0029 u_015 cp_00062 BitManipulation Easy cs_00135 Failed JavaScript 700 14
+problem u_026 p_00172 LinkedLists Hard s_00452 Failed JavaScript 881
+competition c_0020 u_031 cp_00005 Graphs Hard cs_00070 TLE C 2411 43
+problem u_038 p_00013 Trees Hard s_00418 TLE Ruby 2066
+problem u_041 p_00080 LinkedLists Hard s_00450 Passed Go 1385
+competition c_0024 u_018 cp_00118 Stacks&Queues Easy cs_00029 Passed Go 120 25
+solution u_018 p_00266 s_00236 392
+problem u_086 p_00009 BitManipulation Medium s_00240 TLE Python 2536
+solution u_066 p_00038 s_00009 488
+competition c_0002 u_068 cp_00123 LinkedLists Easy cs_00098 Failed Ruby 789 54
+problem u_050 p_00289 Heaps Medium s_00038 TLE JavaScript 2328
+competition c_0045 u_058 cp_00138 Trees Hard cs_00185 Passed Java 852 28
+problem u_065 p_00185 Arrays Medium s_00339 Passed JavaScript 1346
+solution u_095 p_00086 s_00125 545
+problem u_044 p_00216 DP Easy s_00496 TLE Ruby 2273
+problem u_015 p_00254 Strings Hard s_00168 Failed Ruby 1095
+problem u_018 p_00266 Trees Easy s_00236 Passed C++ 1402
+problem u_014 p_00147 Graphs Medium s_00044 Passed C 781
+problem u_014 p_00289 Heaps Medium s_00162 Passed Ruby 189
+problem u_079 p_00195 Trees Easy s_00364 Failed Python 1358
+problem u_044 p_00180 Strings Hard s_00085 Failed Go 1588
+problem u_043 p_00152 Greedy Easy s_00255 TLE Ruby 2988
+problem u_066 p_00144 Graphs Easy s_00012 Passed C++ 1600
+competition c_0039 u_045 cp_00058 Greedy Medium cs_00101 TLE JavaScript 2728 11
+problem u_070 p_00002 LinkedLists Easy s_00272 Failed C 1593
+problem u_081 p_00190 Arrays Hard s_00220 Failed C++ 1217
+problem u_048 p_00044 Strings Easy s_00087 Failed JavaScript 1426
+problem u_090 p_00214 Strings Hard s_00358 TLE Python 2571
+competition c_0029 u_023 cp_00011 BitManipulation Hard cs_00162 TLE JavaScript 2790 34
+problem u_005 p_00282 Strings Medium s_00130 TLE C 2335
+competition c_0015 u_046 cp_00029 LinkedLists Hard cs_00023 Failed JavaScript 882 31
+competition c_0022 u_024 cp_00148 DP Hard cs_00086 Passed Go 1910 57
+competition c_0026 u_083 cp_00041 LinkedLists Medium cs_00165 TLE Java 2688 20
+problem u_020 p_00179 BitManipulation Hard s_00054 TLE Java 2042
+problem u_070 p_00288 DP Hard s_00082 Passed Ruby 207
+problem u_098 p_00098 DP Medium s_00354 TLE C++ 2024
+competition c_0037 u_019 cp_00142 Trees Easy cs_00103 Failed Rust 1831 39
+problem u_034 p_00258 Strings Medium s_00122 TLE Python 2858
+problem u_049 p_00210 Trees Medium s_00239 TLE C 2235
+problem u_004 p_00119 Trees Easy s_00113 Failed Rust 1320
+problem u_006 p_00069 LinkedLists Medium s_00343 TLE Rust 2578
+problem u_058 p_00006 Greedy Easy s_00197 Passed Go 554
+problem u_021 p_00136 Strings Hard s_00405 TLE Java 2974
+competition c_0013 u_021 cp_00042 LinkedLists Easy cs_00050 TLE C 2546 57
+competition c_0028 u_009 cp_00024 DP Easy cs_00232 Passed Ruby 732 49
+problem u_006 p_00055 Trees Hard s_00274 Passed Java 480
+competition c_0022 u_091 cp_00102 LinkedLists Easy cs_00084 Failed Python 1899 14
+problem u_022 p_00294 Stacks&Queues Medium s_00373 TLE JavaScript 2602
+problem u_071 p_00230 Greedy Hard s_00010 Failed Python 1785
+problem u_003 p_00193 BitManipulation Medium s_00465 TLE Go 2601
+solution u_097 p_00089 s_00096 62
+problem u_092 p_00250 Trees Medium s_00457 TLE C 2429
+competition c_0038 u_043 cp_00127 LinkedLists Hard cs_00249 Failed Rust 1988 60
+problem u_058 p_00024 DP Easy s_00145 TLE Rust 2668
+solution u_030 p_00052 s_00485 276
+problem u_098 p_00164 Strings Easy s_00230 Failed JavaScript 251
+problem u_034 p_00221 Greedy Medium s_00259 TLE C 2468
+problem u_065 p_00113 Greedy Hard s_00308 Passed Go 1137
+problem u_061 p_00235 Stacks&Queues Hard s_00128 Failed C++ 1905
+competition c_0027 u_093 cp_00103 Greedy Easy cs_00231 TLE Rust 2789 54
+problem u_024 p_00191 Arrays Medium s_00002 TLE JavaScript 2636
+competition c_0043 u_006 cp_00097 LinkedLists Hard cs_00017 Failed Java 1018 7
+problem u_029 p_00201 Strings Medium s_00439 Failed Java 1242
+competition c_0005 u_079 cp_00111 Heaps Easy cs_00045 TLE C++ 2760 52
+solution u_035 p_00071 s_00430 120
+problem u_062 p_00025 DP Hard s_00456 TLE Go 2970
+competition c_0044 u_050 cp_00086 Heaps Easy cs_00015 TLE Go 2494 59
+competition c_0003 u_015 cp_00025 Stacks&Queues Medium cs_00021 Passed C 1632 54
+problem u_013 p_00295 DP Hard s_00215 TLE C++ 2727
+competition c_0027 u_002 cp_00020 Graphs Medium cs_00124 Failed Go 1980 16
+problem u_062 p_00165 DP Hard s_00276 Failed C 147
+problem u_087 p_00263 Stacks&Queues Medium s_00294 Failed JavaScript 1809
+problem u_018 p_00140 Heaps Easy s_00426 Passed C++ 1515
+problem u_060 p_00279 Trees Hard s_00136 TLE Rust 2661
+competition c_0004 u_057 cp_00131 Strings Medium cs_00004 Passed Ruby 756 25
+competition c_0024 u_017 cp_00076 Stacks&Queues Easy cs_00032 TLE Java 2130 52
+problem u_081 p_00092 LinkedLists Medium s_00446 Failed Python 710
+competition c_0039 u_027 cp_00130 Arrays Hard cs_00053 Passed Java 847 32
+competition c_0001 u_035 cp_00004 Greedy Hard cs_00089 Passed C++ 724 45
+competition c_0043 u_092 cp_00023 Heaps Easy cs_00005 Passed Go 411 7
+competition c_0020 u_040 cp_00126 Trees Hard cs_00094 Passed Go 823 58
+problem u_076 p_00166 Trees Medium s_00394 Passed Ruby 342
+problem u_065 p_00009 BitManipulation Medium s_00135 Passed C 1888
+competition c_0005 u_034 cp_00030 Stacks&Queues Hard cs_00051 Passed Ruby 1269 14
+problem u_039 p_00128 Stacks&Queues Hard s_00202 TLE C++ 2235
+solution u_007 p_00169 s_00191 216
+problem u_047 p_00211 BitManipulation Hard s_00184 Passed Java 1093
+competition c_0029 u_099 cp_00001 Heaps Easy cs_00107 Failed Java 747 11
+competition c_0009 u_100 cp_00117 Arrays Hard cs_00109 TLE JavaScript 2463 42
+problem u_013 p_00120 Graphs Easy s_00187 TLE C++ 2601
+problem u_098 p_00295 DP Hard s_00138 TLE Ruby 2633
+problem u_008 p_00295 DP Hard s_00313 TLE Rust 2851
+competition c_0037 u_054 cp_00146 Arrays Easy cs_00057 TLE Go 2547 12
+competition c_0035 u_058 cp_00120 Strings Hard cs_00197 Failed Go 1411 43
+problem u_091 p_00131 BitManipulation Hard s_00150 Passed Java 1497
+competition c_0008 u_003 cp_00139 Heaps Hard cs_00028 Failed JavaScript 1523 19
+problem u_012 p_00202 DP Hard s_00378 Passed Go 1871
+problem u_095 p_00086 LinkedLists Medium s_00125 Passed C++ 676
+problem u_054 p_00268 Stacks&Queues Hard s_00492 Failed C 1064
+problem u_036 p_00163 Graphs Easy s_00414 Failed Go 1869
+competition c_0006 u_057 cp_00036 Heaps Medium cs_00226 Passed Ruby 392 46
+problem u_094 p_00193 BitManipulation Medium s_00299 TLE Ruby 2797
+problem u_085 p_00211 BitManipulation Hard s_00211 TLE JavaScript 2895
+competition c_0039 u_078 cp_00129 Greedy Medium cs_00097 Passed Ruby 1514 15
+competition c_0012 u_067 cp_00020 Graphs Medium cs_00034 TLE Ruby 2076 9
+competition c_0031 u_068 cp_00118 Stacks&Queues Easy cs_00171 Failed JavaScript 573 10
+competition c_0034 u_081 cp_00114 Heaps Easy cs_00105 TLE Ruby 2237 43
+problem u_080 p_00093 BitManipulation Easy s_00060 Failed Java 1185
+competition c_0028 u_033 cp_00037 Graphs Medium cs_00203 Passed C++ 272 55
+problem u_082 p_00102 LinkedLists Hard s_00483 TLE Ruby 2744
+problem u_027 p_00123 LinkedLists Hard s_00363 Failed Ruby 236
+problem u_094 p_00198 Strings Easy s_00178 Passed Ruby 439
+competition c_0018 u_097 cp_00083 Greedy Medium cs_00074 Failed C 790 40
+competition c_0036 u_020 cp_00036 Heaps Medium cs_00026 Failed Ruby 589 24
+problem u_094 p_00112 Strings Easy s_00100 TLE Ruby 2599
+problem u_094 p_00072 BitManipulation Easy s_00232 Passed Go 1028
+competition c_0028 u_007 cp_00112 Strings Medium cs_00035 Failed Ruby 781 30
+competition c_0033 u_007 cp_00112 Strings Medium cs_00043 Failed Go 1887 51
+problem u_079 p_00105 Graphs Hard s_00288 TLE C 2774
+problem u_009 p_00292 Strings Easy s_00139 TLE JavaScript 2215
+problem u_081 p_00073 DP Medium s_00156 Passed Ruby 524
+competition c_0042 u_074 cp_00053 Arrays Easy cs_00182 Failed Python 1336 37
+problem u_090 p_00248 Heaps Easy s_00146 Passed JavaScript 1793
+problem u_035 p_00080 LinkedLists Hard s_00328 Passed Go 394
+competition c_0023 u_063 cp_00114 Heaps Easy cs_00153 Failed Ruby 377 32
+problem u_081 p_00104 Strings Medium s_00340 Failed Java 955
+problem u_074 p_00221 Greedy Medium s_00287 Passed Go 1147
+problem u_086 p_00110 Graphs Medium s_00212 Passed Rust 1735
+problem u_080 p_00215 Stacks&Queues Medium s_00282 Failed Go 907
+problem u_080 p_00212 Trees Hard s_00046 Failed C 198
+problem u_097 p_00279 Trees Hard s_00321 Passed Rust 596
+problem u_088 p_00182 Greedy Medium s_00223 Passed C 1922
+competition c_0025 u_005 cp_00145 Graphs Easy cs_00037 Failed C++ 1688 40
+problem u_063 p_00018 Arrays Easy s_00173 Passed C++ 1427
+competition c_0041 u_066 cp_00142 Trees Easy cs_00110 Failed Go 992 9
+competition c_0013 u_045 cp_00043 LinkedLists Hard cs_00080 Failed Go 1598 43
+problem u_001 p_00158 Graphs Easy s_00133 TLE Java 2012
+problem u_066 p_00257 DP Medium s_00420 Passed Go 1884
+competition c_0039 u_015 cp_00124 BitManipulation Medium cs_00007 Failed Rust 1825 34
+solution u_091 p_00131 s_00150 514
+competition c_0014 u_021 cp_00054 BitManipulation Easy cs_00020 Passed JavaScript 431 41
+problem u_005 p_00114 Arrays Medium s_00165 TLE Ruby 2029
+problem u_057 p_00047 Trees Easy s_00406 Passed C 942
+competition c_0007 u_043 cp_00139 Heaps Hard cs_00136 Failed C 210 35
+problem u_028 p_00185 Arrays Medium s_00110 Passed Ruby 717
+competition c_0005 u_026 cp_00024 DP Easy cs_00202 Passed JavaScript 915 51
+problem u_029 p_00210 Trees Medium s_00005 Failed JavaScript 194
+problem u_069 p_00218 Graphs Easy s_00152 TLE Rust 2962
+competition c_0035 u_056 cp_00006 BitManipulation Medium cs_00172 Failed C++ 594 55
+problem u_096 p_00296 Strings Medium s_00473 Passed C++ 878
+competition c_0034 u_077 cp_00089 Arrays Easy cs_00191 Passed Ruby 170 34
+problem u_069 p_00094 BitManipulation Easy s_00018 TLE Java 2897
+problem u_059 p_00146 BitManipulation Hard s_00141 Passed Ruby 1825
+problem u_097 p_00089 Arrays Easy s_00096 Passed Go 677
+problem u_008 p_00128 Stacks&Queues Hard s_00350 Failed Rust 137
+competition c_0040 u_031 cp_00020 Graphs Medium cs_00140 TLE C++ 2969 26
+problem u_022 p_00209 BitManipulation Easy s_00073 Failed Rust 556
+problem u_067 p_00283 LinkedLists Easy s_00300 TLE Ruby 2910
+competition c_0016 u_005 cp_00122 Graphs Medium cs_00181 TLE Ruby 2444 30
+problem u_037 p_00260 DP Hard s_00055 TLE Java 2154
+problem u_095 p_00158 Graphs Easy s_00166 TLE Rust 2330
+solution u_083 p_00021 s_00346 293
+competition c_0003 u_011 cp_00108 Arrays Medium cs_00245 Failed Rust 1579 15
+solution u_091 p_00065 s_00233 569
+problem u_027 p_00119 Trees Easy s_00427 TLE C 2105
+problem u_068 p_00013 Trees Hard s_00112 Failed Rust 1324
+solution u_059 p_00065 s_00071 468
+solution u_065 p_00051 s_00188 663
+problem u_032 p_00120 Graphs Easy s_00169 Passed C 1697
+problem u_056 p_00002 LinkedLists Easy s_00453 Failed C++ 624
+problem u_001 p_00103 Trees Hard s_00459 Failed Java 1248
+competition c_0010 u_089 cp_00082 Strings Medium cs_00152 TLE C 2056 11
+competition c_0011 u_005 cp_00115 Heaps Easy cs_00230 Passed Go 803 46
+competition c_0008 u_009 cp_00097 LinkedLists Hard cs_00221 TLE C 2571 20
+competition c_0034 u_038 cp_00098 BitManipulation Hard cs_00155 TLE JavaScript 2681 39
+problem u_067 p_00285 Heaps Easy s_00462 TLE JavaScript 2084
+problem u_046 p_00048 Greedy Medium s_00271 Failed Rust 179
+competition c_0039 u_050 cp_00071 Arrays Hard cs_00092 TLE Python 2579 15
+problem u_023 p_00180 Strings Hard s_00424 Passed JavaScript 1878
+problem u_021 p_00208 Greedy Medium s_00051 Passed Python 1369
+competition c_0002 u_094 cp_00091 Strings Easy cs_00066 Failed Ruby 1234 59
+problem u_082 p_00137 Stacks&Queues Easy s_00484 Failed Go 1267
+problem u_072 p_00248 Heaps Easy s_00448 TLE Ruby 2338
+competition c_0027 u_063 cp_00061 Heaps Hard cs_00238 TLE C++ 2525 34
+problem u_062 p_00186 Greedy Hard s_00177 TLE C 2678
+problem u_036 p_00192 BitManipulation Medium s_00383 Failed C++ 302
+problem u_074 p_00218 Graphs Easy s_00151 Failed Rust 1863
+solution u_006 p_00055 s_00274 458
+competition c_0036 u_036 cp_00017 Stacks&Queues Hard cs_00085 Failed Ruby 1921 51
+competition c_0046 u_015 cp_00009 LinkedLists Medium cs_00099 Passed C++ 1444 58
+problem u_003 p_00140 Heaps Easy s_00297 TLE Rust 2714
+competition c_0011 u_070 cp_00015 LinkedLists Medium cs_00200 Failed Go 1890 9
+competition c_0020 u_015 cp_00103 Greedy Easy cs_00056 TLE Java 2820 22
+problem u_002 p_00241 Strings Easy s_00263 Passed JavaScript 600
+competition c_0008 u_047 cp_00042 LinkedLists Easy cs_00033 TLE Rust 2251 38
+solution u_081 p_00073 s_00156 93
+problem u_081 p_00222 Trees Hard s_00014 Failed Ruby 1722
+problem u_026 p_00125 Strings Easy s_00214 Passed C 563
+solution u_014 p_00007 s_00037 29
+competition c_0023 u_011 cp_00150 BitManipulation Hard cs_00241 Passed Rust 1526 45
+problem u_033 p_00232 Trees Medium s_00117 Failed Python 515
+competition c_0006 u_049 cp_00088 LinkedLists Medium cs_00246 Passed C++ 1384 8
+problem u_050 p_00023 Greedy Hard s_00398 TLE C++ 2080
+problem u_056 p_00089 Arrays Easy s_00098 Passed C 592
+competition c_0033 u_067 cp_00144 Trees Hard cs_00014 TLE C 2025 46
+solution u_082 p_00126 s_00460 645
+competition c_0020 u_007 cp_00057 LinkedLists Hard cs_00121 Passed JavaScript 1877 8
+problem u_025 p_00142 Heaps Easy s_00444 Passed Go 1893
+competition c_0032 u_053 cp_00004 Greedy Hard cs_00212 Passed Go 878 35
+problem u_012 p_00183 LinkedLists Hard s_00108 Passed Python 502
+problem u_083 p_00021 BitManipulation Medium s_00346 Passed Ruby 839
+solution u_041 p_00216 s_00049 240
+solution u_027 p_00128 s_00331 582
+problem u_043 p_00025 DP Hard s_00411 Passed Python 388
+solution u_086 p_00110 s_00212 112
+problem u_063 p_00274 Trees Easy s_00279 TLE Java 2662
+solution u_079 p_00137 s_00269 271
+problem u_082 p_00220 Strings Easy s_00486 TLE C++ 2648
+problem u_093 p_00079 Stacks&Queues Medium s_00047 TLE Ruby 2426
+competition c_0007 u_079 cp_00105 Trees Hard cs_00132 Failed JavaScript 114 37
+problem u_083 p_00188 Stacks&Queues Hard s_00119 Passed Go 303
+problem u_094 p_00286 LinkedLists Medium s_00359 Passed Go 1373
+competition c_0018 u_054 cp_00009 LinkedLists Medium cs_00091 Failed JavaScript 1856 8
+problem u_089 p_00058 Strings Easy s_00372 Failed JavaScript 1006
+problem u_077 p_00016 Trees Medium s_00088 Failed Java 910
+competition c_0035 u_027 cp_00112 Strings Medium cs_00065 Failed Go 1908 51
+competition c_0043 u_056 cp_00128 Trees Hard cs_00068 TLE Go 2924 56
+competition c_0016 u_035 cp_00045 Greedy Hard cs_00088 Passed JavaScript 896 46
+problem u_035 p_00113 Greedy Hard s_00123 Passed Go 1196
+problem u_040 p_00114 Arrays Medium s_00265 Passed Python 1440
+problem u_067 p_00256 BitManipulation Hard s_00235 TLE Rust 2366
+problem u_093 p_00059 Greedy Hard s_00385 Failed Java 870
+problem u_057 p_00223 Stacks&Queues Medium s_00481 TLE Python 2813
+problem u_097 p_00296 Strings Medium s_00019 Failed JavaScript 619
+competition c_0042 u_038 cp_00068 Trees Hard cs_00205 Failed Java 591 55
+problem u_037 p_00156 Greedy Medium s_00264 TLE Ruby 2259
+competition c_0016 u_086 cp_00062 BitManipulation Easy cs_00115 Passed Java 800 13
+competition c_0026 u_070 cp_00026 Graphs Easy cs_00040 Passed Go 365 10
+problem u_088 p_00282 Strings Medium s_00048 Failed JavaScript 152
+problem u_029 p_00164 Strings Easy s_00458 TLE Go 2608
+problem u_082 p_00126 Greedy Easy s_00460 Passed C 972
+solution u_038 p_00153 s_00176 358
+solution u_023 p_00234 s_00065 564
+problem u_018 p_00126 Greedy Easy s_00045 Failed Go 1715
+problem u_092 p_00001 Strings Hard s_00083 TLE Ruby 2514
+competition c_0039 u_069 cp_00138 Trees Hard cs_00052 Failed Java 1578 27
+competition c_0049 u_090 cp_00110 Greedy Medium cs_00008 Failed Go 815 13
+competition c_0013 u_061 cp_00115 Heaps Easy cs_00069 Passed JavaScript 1759 51
+problem u_096 p_00051 BitManipulation Hard s_00180 Failed Java 1296
+problem u_095 p_00036 Greedy Easy s_00449 TLE Rust 2623
+problem u_065 p_00137 Stacks&Queues Easy s_00410 Failed Rust 912
+problem u_092 p_00019 BitManipulation Easy s_00222 Passed JavaScript 1603
+problem u_039 p_00238 BitManipulation Easy s_00004 Failed Rust 1041
+problem u_009 p_00271 BitManipulation Easy s_00224 Passed JavaScript 1691
+problem u_079 p_00137 Stacks&Queues Easy s_00269 Passed Ruby 1304
+problem u_026 p_00053 Heaps Hard s_00134 Failed C 1206
+competition c_0003 u_003 cp_00125 LinkedLists Hard cs_00138 TLE C++ 2663 6
+problem u_041 p_00057 Graphs Easy s_00333 TLE JavaScript 2713
+problem u_099 p_00088 Stacks&Queues Easy s_00347 TLE JavaScript 2369
+competition c_0015 u_015 cp_00016 Arrays Medium cs_00227 Failed Python 584 15
+problem u_100 p_00271 BitManipulation Easy s_00206 Failed C 994
+problem u_044 p_00158 Graphs Easy s_00193 Failed Go 482
+problem u_073 p_00053 Heaps Hard s_00335 Failed Go 332
+competition c_0004 u_091 cp_00053 Arrays Easy cs_00151 Failed Java 1599 47
+problem u_009 p_00102 LinkedLists Hard s_00149 TLE Java 2402
+problem u_085 p_00274 Trees Easy s_00159 TLE Java 2845
+problem u_094 p_00110 Graphs Medium s_00472 Failed C 408
+competition c_0011 u_073 cp_00034 DP Easy cs_00169 Passed JavaScript 1301 50
+competition c_0011 u_093 cp_00069 Arrays Medium cs_00139 Passed Ruby 1749 47
+competition c_0049 u_098 cp_00097 LinkedLists Hard cs_00170 Failed C++ 1262 60
+problem u_074 p_00244 LinkedLists Medium s_00262 Failed Go 1354
+problem u_041 p_00284 Stacks&Queues Easy s_00104 TLE Python 2121
+competition c_0020 u_042 cp_00019 Greedy Easy cs_00129 TLE Rust 2249 14
+problem u_019 p_00190 Arrays Hard s_00231 Passed Python 322
+competition c_0043 u_033 cp_00069 Arrays Medium cs_00048 Failed JavaScript 576 59
+problem u_058 p_00255 Greedy Medium s_00360 TLE Rust 2257
+problem u_059 p_00031 Strings Easy s_00164 Passed Rust 1608
+problem u_060 p_00042 Arrays Medium s_00079 Failed C++ 1520
+problem u_087 p_00115 Graphs Hard s_00442 Failed Java 804
+problem u_058 p_00196 BitManipulation Easy s_00273 Passed C++ 1487
+problem u_071 p_00075 Graphs Hard s_00084 TLE Go 2132
+problem u_012 p_00272 Graphs Easy s_00011 Failed Go 1433
+problem u_007 p_00012 Trees Medium s_00252 Failed C++ 886
+problem u_080 p_00202 DP Hard s_00499 TLE Ruby 2323
+solution u_006 p_00115 s_00063 294
+competition c_0025 u_079 cp_00114 Heaps Easy cs_00059 Failed JavaScript 1836 60
+problem u_066 p_00210 Trees Medium s_00171 Passed Go 1518
+problem u_005 p_00058 Strings Easy s_00095 TLE JavaScript 2798
+problem u_040 p_00214 Strings Hard s_00403 Failed Python 106
+problem u_055 p_00300 Graphs Medium s_00475 Failed JavaScript 608
+problem u_004 p_00035 Stacks&Queues Easy s_00393 Passed Ruby 1587
+problem u_029 p_00074 Strings Hard s_00497 Failed Rust 740
+problem u_051 p_00048 Greedy Medium s_00461 Passed Go 560
+problem u_086 p_00229 Greedy Hard s_00209 TLE Rust 2463
+problem u_082 p_00260 DP Hard s_00441 Passed Rust 1104
+problem u_066 p_00038 Heaps Hard s_00009 Passed Python 305
+problem u_018 p_00157 Graphs Easy s_00303 Failed Rust 1430
+problem u_033 p_00263 Stacks&Queues Medium s_00443 Failed Python 937
+competition c_0014 u_078 cp_00096 Heaps Medium cs_00189 Passed C++ 901 34
+problem u_005 p_00129 DP Easy s_00032 Failed Python 778
+competition c_0045 u_066 cp_00049 Strings Medium cs_00158 TLE Ruby 2211 48
+problem u_006 p_00133 DP Easy s_00131 Passed C 645
+problem u_070 p_00127 Strings Hard s_00154 Failed Go 1889
+problem u_041 p_00216 DP Easy s_00049 Passed JavaScript 1761
+problem u_050 p_00002 LinkedLists Easy s_00249 Passed Java 611
+competition c_0004 u_083 cp_00020 Graphs Medium cs_00006 Passed Go 1821 29
+competition c_0021 u_097 cp_00076 Stacks&Queues Easy cs_00054 Passed Rust 950 34
+competition c_0008 u_082 cp_00148 DP Hard cs_00234 Passed Ruby 319 60
+problem u_097 p_00299 BitManipulation Hard s_00317 TLE Ruby 2219
+problem u_020 p_00275 Heaps Easy s_00114 Passed C 1022
+problem u_088 p_00271 BitManipulation Easy s_00338 Passed Rust 1817
+problem u_036 p_00270 BitManipulation Medium s_00470 TLE Python 2870
+solution u_098 p_00047 s_00006 507
+problem u_070 p_00109 Heaps Hard s_00069 TLE Ruby 2935
+problem u_007 p_00032 LinkedLists Medium s_00345 Failed Rust 527
+problem u_065 p_00285 Heaps Easy s_00466 Failed Java 1271
+solution u_051 p_00272 s_00371 522
+problem u_099 p_00287 DP Hard s_00423 Failed JavaScript 1153
+competition c_0034 u_093 cp_00058 Greedy Medium cs_00079 Passed Python 295 41
+problem u_026 p_00174 Arrays Medium s_00036 TLE Go 2262
+solution u_036 p_00010 s_00488 251
+competition c_0018 u_054 cp_00102 LinkedLists Easy cs_00073 Failed C++ 1631 20
+competition c_0043 u_013 cp_00111 Heaps Easy cs_00163 Passed Python 463 34
+solution u_032 p_00120 s_00169 27
+problem u_069 p_00063 Greedy Easy s_00476 Passed Rust 1104
+competition c_0050 u_083 cp_00063 BitManipulation Easy cs_00148 Failed Python 318 29
+competition c_0018 u_008 cp_00108 Arrays Medium cs_00119 Passed C 325 49
+solution u_011 p_00237 s_00332 521
+competition c_0040 u_086 cp_00042 LinkedLists Easy cs_00078 TLE Go 2410 60
+problem u_079 p_00204 LinkedLists Medium s_00245 TLE Go 2904
+problem u_018 p_00228 BitManipulation Easy s_00062 Passed C++ 424
+solution u_004 p_00035 s_00393 429
+problem u_028 p_00300 Graphs Medium s_00030 Passed C 1822
+problem u_095 p_00031 Strings Easy s_00463 Failed JavaScript 1045
+problem u_006 p_00115 Graphs Hard s_00063 Passed Go 1624
+competition c_0048 u_098 cp_00140 Stacks&Queues Easy cs_00114 TLE Ruby 2661 55
+problem u_016 p_00185 Arrays Medium s_00053 TLE C 2381
+problem u_035 p_00071 DP Medium s_00430 Passed C++ 584
+problem u_094 p_00181 BitManipulation Easy s_00129 TLE JavaScript 2917
+competition c_0025 u_066 cp_00043 LinkedLists Hard cs_00147 Passed Python 1399 34
+competition c_0012 u_098 cp_00085 Stacks&Queues Easy cs_00108 TLE Ruby 2190 11
+problem u_059 p_00275 Heaps Easy s_00266 Passed JavaScript 246
+competition c_0017 u_063 cp_00109 BitManipulation Hard cs_00166 Failed Rust 1467 14
+competition c_0011 u_031 cp_00108 Arrays Medium cs_00215 Failed Python 421 43
+problem u_038 p_00220 Strings Easy s_00243 Passed Java 790
+competition c_0043 u_094 cp_00145 Graphs Easy cs_00106 Failed Python 1101 47
+problem u_098 p_00092 LinkedLists Medium s_00316 TLE Ruby 2713
+problem u_061 p_00077 Arrays Hard s_00490 Failed Ruby 610
+problem u_074 p_00180 Strings Hard s_00478 Passed Python 872
+problem u_072 p_00254 Strings Hard s_00225 TLE C 2294
+problem u_026 p_00024 DP Easy s_00031 Passed Ruby 929
+solution u_073 p_00037 s_00234 326
+competition c_0019 u_080 cp_00060 LinkedLists Easy cs_00208 TLE C 2796 20
+problem u_057 p_00114 Arrays Medium s_00007 Failed JavaScript 1005
+competition c_0050 u_062 cp_00124 BitManipulation Medium cs_00178 Failed JavaScript 1979 24
+solution u_058 p_00196 s_00273 313
+problem u_098 p_00160 Greedy Hard s_00494 Failed JavaScript 1155
+problem u_058 p_00153 Graphs Easy s_00416 TLE Go 2527
+problem u_044 p_00184 Heaps Easy s_00392 Failed Go 1824
+problem u_019 p_00139 Greedy Hard s_00091 Passed C 1964
+problem u_040 p_00276 Heaps Hard s_00474 Passed Python 1433
+problem u_076 p_00280 Heaps Easy s_00447 TLE Rust 2199
+problem u_050 p_00063 Greedy Easy s_00318 Failed Ruby 1370
+problem u_042 p_00277 LinkedLists Easy s_00182 Failed Java 1768
+solution u_052 p_00112 s_00170 587
+solution u_067 p_00279 s_00419 339
+problem u_088 p_00214 Strings Hard s_00468 TLE Java 2663
+problem u_084 p_00147 Graphs Medium s_00367 Passed JavaScript 235
+problem u_094 p_00096 Strings Medium s_00041 Failed Python 1697
+problem u_023 p_00041 LinkedLists Easy s_00052 Failed Python 1040
+problem u_045 p_00294 Stacks&Queues Medium s_00196 Passed Python 185
+problem u_054 p_00089 Arrays Easy s_00057 Failed C 1007
+competition c_0050 u_087 cp_00044 DP Easy cs_00039 Passed Ruby 244 39
+solution u_042 p_00299 s_00495 435
+problem u_062 p_00267 Arrays Easy s_00078 Passed C++ 1844
+problem u_011 p_00170 DP Easy s_00487 Passed Ruby 966
+problem u_094 p_00220 Strings Easy s_00074 Failed C++ 1158
+competition c_0032 u_074 cp_00041 LinkedLists Medium cs_00141 TLE Ruby 2175 14
+problem u_004 p_00155 Arrays Easy s_00368 TLE Rust 2575
+competition c_0035 u_092 cp_00096 Heaps Medium cs_00199 TLE Go 2075 36
+problem u_013 p_00032 LinkedLists Medium s_00397 Failed Go 1647
+competition c_0018 u_024 cp_00062 BitManipulation Easy cs_00013 TLE Ruby 2348 32
+problem u_025 p_00299 BitManipulation Hard s_00407 TLE Ruby 2198
+problem u_060 p_00150 Arrays Easy s_00039 TLE Ruby 2126
+problem u_017 p_00127 Strings Hard s_00390 Passed Java 250
+problem u_084 p_00170 DP Easy s_00144 Failed Ruby 1053
+competition c_0034 u_050 cp_00118 Stacks&Queues Easy cs_00011 Passed Rust 648 39
+problem u_039 p_00100 Greedy Medium s_00090 Failed Java 872
+problem u_045 p_00053 Heaps Hard s_00387 TLE JavaScript 2260
+competition c_0030 u_088 cp_00072 Graphs Easy cs_00235 TLE JavaScript 2272 40
+competition c_0009 u_038 cp_00034 DP Easy cs_00016 TLE C++ 2155 58
+problem u_042 p_00299 BitManipulation Hard s_00495 Passed Go 407
+competition c_0028 u_016 cp_00105 Trees Hard cs_00243 Passed Rust 1758 12
+problem u_090 p_00155 Arrays Easy s_00247 Failed Rust 1739
+problem u_034 p_00178 Strings Easy s_00310 Failed JavaScript 693
+problem u_038 p_00180 Strings Hard s_00312 TLE Go 2498
+competition c_0022 u_019 cp_00147 Heaps Medium cs_00012 Passed Go 1599 47
+competition c_0048 u_083 cp_00041 LinkedLists Medium cs_00160 Passed C++ 881 59
+solution u_069 p_00158 s_00268 177
+problem u_003 p_00111 LinkedLists Easy s_00330 TLE JavaScript 2499
+problem u_081 p_00015 DP Hard s_00436 Failed C 1356
+competition c_0031 u_012 cp_00047 Stacks&Queues Easy cs_00075 Passed C 318 31
+problem u_031 p_00294 Stacks&Queues Medium s_00283 TLE Java 2035
+competition c_0039 u_075 cp_00054 BitManipulation Easy cs_00244 Passed Python 715 33
+problem u_030 p_00195 Trees Easy s_00295 TLE Rust 2697
+competition c_0019 u_004 cp_00101 Arrays Hard cs_00087 Failed Ruby 1834 29
+competition c_0022 u_001 cp_00129 Greedy Medium cs_00225 TLE C++ 2421 49
+competition c_0045 u_099 cp_00016 Arrays Medium cs_00030 Passed Rust 1093 33
+problem u_016 p_00237 Arrays Hard s_00192 TLE C++ 2363
+problem u_016 p_00294 Stacks&Queues Medium s_00021 TLE C++ 2273
+problem u_083 p_00259 Stacks&Queues Easy s_00304 TLE Rust 2275
+problem u_007 p_00158 Graphs Easy s_00056 Failed Go 1447
+problem u_047 p_00267 Arrays Easy s_00384 TLE C 2980
+problem u_078 p_00037 Heaps Easy s_00076 TLE C 2693
+problem u_041 p_00297 Trees Medium s_00026 TLE JavaScript 2088
+problem u_057 p_00292 Strings Easy s_00491 TLE JavaScript 2837
+problem u_030 p_00088 Stacks&Queues Easy s_00400 TLE JavaScript 2246
+problem u_019 p_00295 DP Hard s_00319 Passed Rust 1135
+problem u_055 p_00058 Strings Easy s_00493 Failed Rust 1202
+problem u_004 p_00260 DP Hard s_00251 Failed C++ 628
+competition c_0036 u_005 cp_00114 Heaps Easy cs_00076 Failed Python 885 30
+problem u_032 p_00285 Heaps Easy s_00336 Passed Java 451
+problem u_098 p_00122 Graphs Easy s_00311 TLE Java 2346
+competition c_0031 u_069 cp_00146 Arrays Easy cs_00031 Passed JavaScript 1758 60
+solution u_084 p_00147 s_00367 574
+competition c_0001 u_034 cp_00135 Trees Hard cs_00083 Failed C 227 30
+problem u_052 p_00262 LinkedLists Medium s_00270 Failed Rust 187
+problem u_068 p_00265 LinkedLists Easy s_00061 Failed Python 1884
+problem u_038 p_00142 Heaps Easy s_00106 Passed Python 1295
+problem u_064 p_00025 DP Hard s_00376 Failed Java 748
+problem u_091 p_00281 LinkedLists Hard s_00412 Failed Go 531
+competition c_0006 u_097 cp_00011 BitManipulation Hard cs_00217 TLE Go 2928 25
+competition c_0048 u_063 cp_00009 LinkedLists Medium cs_00018 Failed Rust 230 57
+problem u_039 p_00063 Greedy Easy s_00226 Failed Python 577
+problem u_024 p_00021 BitManipulation Medium s_00058 TLE C 2669
+problem u_037 p_00028 LinkedLists Hard s_00482 Failed C 1596
+problem u_091 p_00065 Strings Easy s_00233 Passed Java 953
+competition c_0033 u_001 cp_00105 Trees Hard cs_00187 Passed Python 211 15
+problem u_088 p_00035 Stacks&Queues Easy s_00277 Passed Java 1171
+solution u_023 p_00180 s_00424 203
+solution u_027 p_00052 s_00080 623
+competition c_0013 u_073 cp_00020 Graphs Medium cs_00218 TLE C++ 2109 56
+problem u_019 p_00206 BitManipulation Easy s_00016 Passed Rust 865
+competition c_0030 u_031 cp_00037 Graphs Medium cs_00223 Failed Go 1115 53
+problem u_025 p_00152 Greedy Easy s_00075 TLE Go 2007
+problem u_002 p_00077 Arrays Hard s_00043 Failed C++ 1622
+problem u_070 p_00238 BitManipulation Easy s_00464 TLE Ruby 2091
+competition c_0004 u_070 cp_00043 LinkedLists Hard cs_00071 Passed Go 1354 46
+problem u_038 p_00148 Greedy Medium s_00289 Passed Rust 1965
+problem u_069 p_00219 Graphs Easy s_00417 TLE C++ 2064
+solution u_090 p_00248 s_00146 366
+solution u_058 p_00006 s_00197 484
+competition c_0042 u_002 cp_00075 Heaps Easy cs_00077 Failed Java 924 38
+problem u_024 p_00084 Greedy Easy s_00422 TLE Rust 2192
+problem u_067 p_00141 Greedy Medium s_00116 Failed C 1158
+solution u_055 p_00012 s_00027 168
+competition c_0014 u_063 cp_00104 LinkedLists Easy cs_00194 Passed Rust 170 7
+problem u_040 p_00035 Stacks&Queues Easy s_00301 Failed JavaScript 1884
+competition c_0030 u_041 cp_00085 Stacks&Queues Easy cs_00118 Passed Python 122 58
+competition c_0017 u_034 cp_00121 Arrays Medium cs_00036 Failed Go 656 39
+problem u_042 p_00017 Strings Hard s_00315 TLE Ruby 2177
+solution u_063 p_00139 s_00353 199
+solution u_037 p_00084 s_00094 30
+problem u_004 p_00021 BitManipulation Medium s_00250 TLE Go 2043
+problem u_042 p_00288 DP Hard s_00440 Failed C 881
+solution u_088 p_00035 s_00277 128
+competition c_0009 u_051 cp_00077 LinkedLists Hard cs_00019 TLE C 2584 39
+problem u_073 p_00263 Stacks&Queues Medium s_00066 TLE Python 2878
+problem u_075 p_00179 BitManipulation Hard s_00281 TLE JavaScript 2132
+problem u_063 p_00213 Stacks&Queues Medium s_00127 Passed Rust 693
+problem u_035 p_00141 Greedy Medium s_00248 Failed Python 868
+problem u_092 p_00003 Heaps Medium s_00366 TLE JavaScript 2623
+competition c_0008 u_060 cp_00125 LinkedLists Hard cs_00123 TLE JavaScript 2978 42
+problem u_021 p_00198 Strings Easy s_00205 Failed Rust 1351
+problem u_023 p_00055 Trees Hard s_00341 TLE Java 2501
+problem u_005 p_00179 BitManipulation Hard s_00204 Passed JavaScript 1332
+problem u_071 p_00123 LinkedLists Hard s_00365 Passed Ruby 366
+problem u_036 p_00149 LinkedLists Medium s_00320 Passed Rust 1102
+solution u_065 p_00185 s_00339 644
+competition c_0050 u_037 cp_00146 Arrays Easy cs_00173 Failed C 400 5
+problem u_065 p_00028 LinkedLists Hard s_00140 TLE Rust 2109
+competition c_0007 u_051 cp_00105 Trees Hard cs_00150 Passed Python 247 5
+solution u_086 p_00148 s_00059 499
+problem u_035 p_00177 Greedy Easy s_00124 Failed Rust 972
+problem u_093 p_00011 Stacks&Queues Easy s_00425 Passed Java 1348
+competition c_0039 u_066 cp_00050 Arrays Medium cs_00220 Failed C 1737 31
+problem u_007 p_00039 Heaps Medium s_00429 Passed Rust 278
+problem u_059 p_00078 DP Easy s_00221 TLE C++ 2379
+competition c_0037 u_094 cp_00071 Arrays Hard cs_00233 TLE Python 2228 47
+problem u_036 p_00010 Greedy Medium s_00488 Passed JavaScript 1188
+problem u_084 p_00133 DP Easy s_00092 TLE JavaScript 2377
+competition c_0049 u_099 cp_00028 Strings Easy cs_00063 Failed Ruby 893 49
+problem u_062 p_00083 Heaps Medium s_00174 TLE JavaScript 2363
+competition c_0019 u_040 cp_00021 Trees Medium cs_00096 TLE JavaScript 2549 9
+problem u_066 p_00190 Arrays Hard s_00438 TLE C++ 2583
+problem u_067 p_00117 Strings Easy s_00008 Passed Python 757
+problem u_013 p_00145 Arrays Hard s_00477 Failed Go 1423
+problem u_055 p_00255 Greedy Medium s_00237 Failed Go 962
+problem u_063 p_00089 Arrays Easy s_00298 Passed C++ 1173
+competition c_0042 u_091 cp_00027 LinkedLists Hard cs_00161 TLE C++ 2582 9
+problem u_096 p_00268 Stacks&Queues Hard s_00172 Passed Go 841
+problem u_065 p_00051 BitManipulation Hard s_00188 Passed Go 1468
+competition c_0012 u_025 cp_00003 BitManipulation Easy cs_00038 Passed JavaScript 1907 58
+competition c_0029 u_017 cp_00124 BitManipulation Medium cs_00176 Failed Ruby 574 57
+problem u_069 p_00138 Trees Medium s_00029 Failed Java 1554
+problem u_057 p_00119 Trees Easy s_00207 Failed Go 637
+competition c_0026 u_056 cp_00141 BitManipulation Hard cs_00027 Passed C++ 775 35
+competition c_0040 u_086 cp_00132 Graphs Medium cs_00081 TLE C++ 2714 54
+problem u_074 p_00226 Strings Hard s_00227 Failed JavaScript 458
+problem u_014 p_00007 BitManipulation Easy s_00037 Passed C++ 925
+problem u_026 p_00240 Arrays Medium s_00161 Passed C++ 750
+competition c_0035 u_022 cp_00082 Strings Medium cs_00111 Passed C 872 30
+problem u_069 p_00158 Graphs Easy s_00268 Passed Rust 1844
+EOF

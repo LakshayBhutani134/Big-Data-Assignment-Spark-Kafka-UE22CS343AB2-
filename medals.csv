@@ -1,0 +1,514 @@
+id,sport,event,year,country,medal
+a_000051,track,long distance,2016,Brazil,silver
+a_000260,boxing,featherweight,2020,Japan,silver
+a_000367,sport climbing,speed,2016,Brazil,silver
+a_000407,decathlon,400m,2016,Brazil,gold
+a_000420,decathlon,high jump,2016,Brazil,gold
+a_000043,swimming,backstroke,2012,UK,gold
+a_000315,wrestling,freestyle,2012,UK,bronze
+a_000062,gymnastics,vault,2020,Japan,bronze
+a_000059,track,long distance,2016,Brazil,gold
+a_000318,wrestling,greco-roman,2020,Japan,bronze
+a_000279,boxing,featherweight,2020,Japan,bronze
+a_000220,fencing,sabre,2012,UK,silver
+a_000129,cycling,mountain,2020,Japan,silver
+a_000119,cycling,mountain,2016,Brazil,gold
+a_000288,boxing,lightweight,2016,Brazil,silver
+a_000396,decathlon,high jump,2020,Japan,silver
+a_000278,boxing,welterweight,2016,Brazil,bronze
+a_000043,swimming,backstroke,2020,Japan,silver
+a_000362,sport climbing,lead,2012,UK,gold
+a_000361,sport climbing,bouldering,2020,Japan,gold
+a_000230,weightlifting,clean and jerk,2020,Japan,gold
+a_000058,track,relay,2016,Brazil,silver
+a_000018,swimming,medley,2012,UK,gold
+a_000264,boxing,light heavyweight,2020,Japan,gold
+a_000346,surfing,shortboard,2020,Japan,bronze
+a_000214,fencing,sabre,2012,UK,gold
+a_000217,fencing,sabre,2016,Brazil,silver
+a_000189,shooting,rifle,2016,Brazil,gold
+a_000325,karate,kata,2020,Japan,gold
+a_000045,track,middle distance,2016,Brazil,silver
+a_000358,sport climbing,bouldering,2012,UK,bronze
+a_000054,track,sprint,2020,Japan,bronze
+a_000263,boxing,middleweight,2016,Brazil,bronze
+a_000413,decathlon,100m,2016,Brazil,bronze
+a_000292,wrestling,freestyle,2012,UK,silver
+a_000090,cycling,track,2016,Brazil,gold
+a_000034,swimming,medley,2016,Brazil,silver
+a_000032,swimming,breaststroke,2016,Brazil,bronze
+a_000058,track,relay,2020,Japan,gold
+a_000057,track,hurdles,2020,Japan,silver
+a_000277,boxing,middleweight,2020,Japan,silver
+a_000024,swimming,butterfly,2012,UK,bronze
+a_000006,swimming,freestyle,2016,Brazil,silver
+a_000419,decathlon,110m hurdles,2016,Brazil,gold
+a_000068,gymnastics,bars,2016,Brazil,gold
+a_000252,boxing,flyweight,2020,Japan,gold
+a_000253,boxing,featherweight,2012,UK,silver
+a_000109,cycling,mountain,2012,UK,gold
+a_000402,decathlon,1500m,2016,Brazil,bronze
+a_000218,fencing,epee,2020,Japan,gold
+a_000071,gymnastics,beam,2016,Brazil,gold
+a_000398,decathlon,110m hurdles,2016,Brazil,silver
+a_000394,decathlon,long jump,2012,UK,bronze
+a_000246,archery,compound,2016,Brazil,bronze
+a_000130,rowing,sculling,2016,Brazil,silver
+a_000003,swimming,butterfly,2020,Japan,gold
+a_000254,boxing,lightweight,2016,Brazil,bronze
+a_000301,wrestling,greco-roman,2016,Brazil,bronze
+a_000165,rowing,sculling,2020,Japan,bronze
+a_000210,shooting,shotgun,2020,Japan,gold
+a_000215,fencing,epee,2012,UK,silver
+a_000349,surfing,shortboard,2020,Japan,gold
+a_000031,swimming,breaststroke,2012,UK,bronze
+a_000047,track,hurdles,2020,Japan,bronze
+a_000219,fencing,foil,2020,Japan,bronze
+a_000065,gymnastics,floor,2012,UK,silver
+a_000396,decathlon,high jump,2016,Brazil,silver
+a_000072,gymnastics,vault,2016,Brazil,silver
+a_000138,rowing,sweeping,2016,Brazil,silver
+a_000008,swimming,butterfly,2016,Brazil,silver
+a_000167,shooting,pistol,2012,UK,gold
+a_000234,weightlifting,clean and jerk,2012,UK,silver
+a_000045,track,middle distance,2012,UK,gold
+a_000048,track,relay,2020,Japan,bronze
+a_000243,archery,compound,2012,UK,gold
+a_000130,rowing,sculling,2012,UK,gold
+a_000109,cycling,road,2016,Brazil,bronze
+a_000364,sport climbing,bouldering,2012,UK,silver
+a_000367,sport climbing,bouldering,2016,Brazil,silver
+a_000410,decathlon,pole vault,2016,Brazil,bronze
+a_000297,wrestling,greco-roman,2016,Brazil,gold
+a_000289,boxing,lightweight,2012,UK,bronze
+a_000255,boxing,welterweight,2020,Japan,silver
+a_000067,gymnastics,vault,2020,Japan,silver
+a_000221,fencing,epee,2012,UK,gold
+a_000070,gymnastics,floor,2012,UK,bronze
+a_000021,swimming,medley,2020,Japan,silver
+a_000421,decathlon,javelin,2012,UK,gold
+a_000093,cycling,road,2020,Japan,silver
+a_000079,cycling,track,2016,Brazil,silver
+a_000397,decathlon,400m,2012,UK,gold
+a_000408,decathlon,110m hurdles,2020,Japan,gold
+a_000093,cycling,mountain,2012,UK,bronze
+a_000389,decathlon,discus,2012,UK,gold
+a_000216,fencing,foil,2012,UK,gold
+a_000067,gymnastics,vault,2012,UK,bronze
+a_000055,track,middle distance,2016,Brazil,bronze
+a_000235,weightlifting,snatch,2012,UK,bronze
+a_000245,archery,compound,2016,Brazil,silver
+a_000186,shooting,pistol,2012,UK,bronze
+a_000300,wrestling,greco-roman,2012,UK,silver
+a_000420,decathlon,1500m,2012,UK,gold
+a_000234,weightlifting,clean and jerk,2020,Japan,bronze
+a_000392,decathlon,1500m,2012,UK,silver
+a_000190,shooting,shotgun,2012,UK,gold
+a_000097,cycling,track,2020,Japan,bronze
+a_000065,gymnastics,floor,2016,Brazil,bronze
+a_000057,track,hurdles,2016,Brazil,silver
+a_000170,shooting,pistol,2020,Japan,bronze
+a_000267,boxing,featherweight,2012,UK,bronze
+a_000096,cycling,track,2012,UK,gold
+a_000027,swimming,breaststroke,2012,UK,gold
+a_000057,track,hurdles,2012,UK,silver
+a_000391,decathlon,javelin,2016,Brazil,silver
+a_000404,decathlon,long jump,2012,UK,silver
+a_000083,cycling,track,2012,UK,silver
+a_000415,decathlon,shot put,2016,Brazil,bronze
+a_000278,boxing,middleweight,2012,UK,bronze
+a_000420,decathlon,long jump,2016,Brazil,bronze
+a_000288,boxing,lightweight,2020,Japan,gold
+a_000182,shooting,pistol,2012,UK,silver
+a_000039,swimming,backstroke,2016,Brazil,silver
+a_000046,track,long distance,2020,Japan,gold
+a_000410,decathlon,pole vault,2020,Japan,silver
+a_000007,swimming,backstroke,2020,Japan,gold
+a_000422,decathlon,discus,2016,Brazil,silver
+a_000285,boxing,featherweight,2016,Brazil,gold
+a_000333,karate,kata,2016,Brazil,silver
+a_000059,track,long distance,2012,UK,bronze
+a_000075,gymnastics,rings,2016,Brazil,gold
+a_000020,swimming,medley,2016,Brazil,bronze
+a_000414,decathlon,1500m,2012,UK,bronze
+a_000075,gymnastics,beam,2016,Brazil,bronze
+a_000354,surfing,shortboard,2012,UK,bronze
+a_000306,wrestling,freestyle,2020,Japan,silver
+a_000054,track,sprint,2016,Brazil,bronze
+a_000250,archery,compound,2020,Japan,bronze
+a_000055,track,middle distance,2020,Japan,bronze
+a_000064,gymnastics,rings,2020,Japan,gold
+a_000274,boxing,lightweight,2012,UK,gold
+a_000064,gymnastics,rings,2016,Brazil,bronze
+a_000233,weightlifting,snatch,2016,Brazil,silver
+a_000400,decathlon,pole vault,2020,Japan,bronze
+a_000399,decathlon,discus,2016,Brazil,bronze
+a_000213,fencing,foil,2012,UK,silver
+a_000405,decathlon,shot put,2012,UK,bronze
+a_000240,archery,recurve,2020,Japan,gold
+a_000312,wrestling,freestyle,2012,UK,gold
+a_000198,shooting,shotgun,2016,Brazil,silver
+a_000422,decathlon,discus,2020,Japan,silver
+a_000247,archery,recurve,2020,Japan,silver
+a_000049,track,sprint,2020,Japan,gold
+a_000283,boxing,heavyweight,2020,Japan,silver
+a_000077,gymnastics,bars,2012,UK,bronze
+a_000199,shooting,shotgun,2016,Brazil,gold
+a_000422,decathlon,discus,2012,UK,silver
+a_000128,cycling,road,2016,Brazil,silver
+a_000062,gymnastics,vault,2012,UK,silver
+a_000388,decathlon,110m hurdles,2020,Japan,silver
+a_000288,boxing,flyweight,2012,UK,gold
+a_000420,decathlon,long jump,2020,Japan,silver
+a_000111,cycling,BMX,2012,UK,gold
+a_000214,fencing,sabre,2016,Brazil,gold
+a_000329,karate,kumite,2016,Brazil,silver
+a_000139,rowing,sweeping,2016,Brazil,bronze
+a_000213,fencing,foil,2020,Japan,silver
+a_000289,boxing,lightweight,2016,Brazil,gold
+a_000329,karate,kata,2012,UK,silver
+a_000087,cycling,track,2012,UK,bronze
+a_000296,wrestling,freestyle,2016,Brazil,bronze
+a_000390,decathlon,pole vault,2016,Brazil,gold
+a_000050,track,middle distance,2020,Japan,gold
+a_000223,weightlifting,clean and jerk,2016,Brazil,gold
+a_000316,wrestling,greco-roman,2012,UK,gold
+a_000215,fencing,epee,2020,Japan,silver
+a_000248,archery,recurve,2016,Brazil,bronze
+a_000317,wrestling,greco-roman,2012,UK,bronze
+a_000075,gymnastics,beam,2020,Japan,silver
+a_000215,fencing,epee,2016,Brazil,bronze
+a_000050,track,middle distance,2016,Brazil,gold
+a_000256,boxing,middleweight,2020,Japan,bronze
+a_000328,karate,kumite,2016,Brazil,gold
+a_000148,rowing,sculling,2016,Brazil,gold
+a_000116,cycling,road,2020,Japan,bronze
+a_000149,rowing,sweeping,2020,Japan,bronze
+a_000286,boxing,welterweight,2016,Brazil,silver
+a_000379,sport climbing,lead,2016,Brazil,gold
+a_000261,boxing,lightweight,2020,Japan,silver
+a_000418,decathlon,100m,2012,UK,gold
+a_000072,gymnastics,vault,2012,UK,gold
+a_000027,swimming,butterfly,2012,UK,gold
+a_000391,decathlon,javelin,2020,Japan,bronze
+a_000414,decathlon,1500m,2020,Japan,silver
+a_000399,decathlon,discus,2020,Japan,bronze
+a_000166,shooting,rifle,2016,Brazil,bronze
+a_000353,surfing,longboard,2020,Japan,bronze
+a_000391,decathlon,javelin,2012,UK,bronze
+a_000058,track,relay,2012,UK,gold
+a_000053,track,relay,2020,Japan,silver
+a_000258,boxing,heavyweight,2016,Brazil,gold
+a_000390,decathlon,pole vault,2012,UK,gold
+a_000256,boxing,middleweight,2016,Brazil,gold
+a_000286,boxing,light heavyweight,2012,UK,bronze
+a_000393,decathlon,100m,2016,Brazil,silver
+a_000409,decathlon,discus,2016,Brazil,gold
+a_000040,swimming,medley,2012,UK,silver
+a_000413,decathlon,100m,2012,UK,bronze
+a_000109,cycling,road,2012,UK,bronze
+a_000055,track,middle distance,2012,UK,silver
+a_000060,gymnastics,floor,2016,Brazil,gold
+a_000063,gymnastics,bars,2012,UK,silver
+a_000166,shooting,rifle,2012,UK,bronze
+a_000224,weightlifting,snatch,2016,Brazil,bronze
+a_000414,decathlon,1500m,2016,Brazil,gold
+a_000330,karate,kata,2020,Japan,bronze
+a_000198,shooting,pistol,2016,Brazil,bronze
+a_000345,surfing,longboard,2012,UK,gold
+a_000224,weightlifting,snatch,2020,Japan,bronze
+a_000420,decathlon,high jump,2020,Japan,gold
+a_000414,decathlon,discus,2012,UK,bronze
+a_000396,decathlon,high jump,2012,UK,bronze
+a_000020,swimming,freestyle,2020,Japan,gold
+a_000294,wrestling,freestyle,2016,Brazil,gold
+a_000400,decathlon,pole vault,2012,UK,bronze
+a_000365,sport climbing,speed,2020,Japan,bronze
+a_000332,karate,kumite,2020,Japan,silver
+a_000042,swimming,medley,2020,Japan,bronze
+a_000252,boxing,flyweight,2012,UK,bronze
+a_000146,rowing,sweeping,2012,UK,bronze
+a_000403,decathlon,100m,2016,Brazil,gold
+a_000077,gymnastics,floor,2020,Japan,gold
+a_000273,boxing,heavyweight,2016,Brazil,bronze
+a_000184,shooting,pistol,2020,Japan,gold
+a_000149,rowing,sweeping,2012,UK,silver
+a_000009,swimming,breaststroke,2016,Brazil,silver
+a_000124,cycling,BMX,2012,UK,silver
+a_000219,fencing,foil,2012,UK,bronze
+a_000218,fencing,epee,2012,UK,bronze
+a_000048,track,relay,2012,UK,silver
+a_000021,swimming,butterfly,2016,Brazil,bronze
+a_000051,track,long distance,2020,Japan,silver
+a_000181,shooting,pistol,2020,Japan,silver
+a_000410,decathlon,pole vault,2012,UK,silver
+a_000043,swimming,butterfly,2020,Japan,silver
+a_000062,gymnastics,vault,2016,Brazil,gold
+a_000321,karate,kata,2020,Japan,silver
+a_000221,fencing,epee,2016,Brazil,silver
+a_000220,fencing,sabre,2020,Japan,gold
+a_000279,boxing,featherweight,2016,Brazil,bronze
+a_000022,swimming,breaststroke,2020,Japan,silver
+a_000290,boxing,heavyweight,2020,Japan,gold
+a_000072,gymnastics,vault,2020,Japan,gold
+a_000278,boxing,welterweight,2020,Japan,gold
+a_000285,boxing,light heavyweight,2016,Brazil,gold
+a_000416,decathlon,400m,2012,UK,silver
+a_000394,decathlon,long jump,2016,Brazil,gold
+a_000292,wrestling,freestyle,2020,Japan,gold
+a_000056,track,long distance,2016,Brazil,bronze
+a_000376,sport climbing,speed,2020,Japan,silver
+a_000233,weightlifting,clean and jerk,2016,Brazil,bronze
+a_000340,surfing,longboard,2020,Japan,silver
+a_000251,archery,compound,2020,Japan,silver
+a_000422,decathlon,shot put,2012,UK,gold
+a_000422,decathlon,1500m,2016,Brazil,silver
+a_000054,track,sprint,2012,UK,silver
+a_000044,track,sprint,2012,UK,gold
+a_000046,track,long distance,2012,UK,silver
+a_000265,boxing,heavyweight,2016,Brazil,silver
+a_000088,cycling,mountain,2016,Brazil,bronze
+a_000152,rowing,sweeping,2016,Brazil,gold
+a_000387,decathlon,400m,2016,Brazil,bronze
+a_000116,cycling,mountain,2020,Japan,gold
+a_000328,karate,kumite,2020,Japan,gold
+a_000067,gymnastics,vault,2016,Brazil,bronze
+a_000412,decathlon,1500m,2020,Japan,gold
+a_000036,swimming,backstroke,2016,Brazil,gold
+a_000077,gymnastics,bars,2016,Brazil,bronze
+a_000369,sport climbing,speed,2020,Japan,gold
+a_000398,decathlon,110m hurdles,2012,UK,gold
+a_000082,cycling,road,2012,UK,gold
+a_000068,gymnastics,bars,2020,Japan,silver
+a_000181,shooting,shotgun,2016,Brazil,bronze
+a_000217,fencing,sabre,2012,UK,bronze
+a_000398,decathlon,110m hurdles,2020,Japan,bronze
+a_000061,gymnastics,beam,2020,Japan,gold
+a_000401,decathlon,javelin,2012,UK,silver
+a_000060,gymnastics,floor,2020,Japan,silver
+a_000099,cycling,BMX,2020,Japan,gold
+a_000066,gymnastics,beam,2016,Brazil,silver
+a_000076,gymnastics,rings,2012,UK,silver
+a_000411,decathlon,javelin,2020,Japan,silver
+a_000224,weightlifting,snatch,2012,UK,gold
+a_000290,boxing,welterweight,2012,UK,silver
+a_000075,gymnastics,floor,2012,UK,gold
+a_000371,sport climbing,speed,2016,Brazil,bronze
+a_000281,boxing,welterweight,2020,Japan,bronze
+a_000244,archery,recurve,2012,UK,gold
+a_000006,swimming,freestyle,2020,Japan,silver
+a_000327,karate,kata,2012,UK,bronze
+a_000385,decathlon,shot put,2016,Brazil,silver
+a_000125,cycling,track,2020,Japan,silver
+a_000052,track,hurdles,2020,Japan,gold
+a_000381,sport climbing,lead,2020,Japan,gold
+a_000390,decathlon,pole vault,2020,Japan,gold
+a_000075,gymnastics,beam,2012,UK,bronze
+a_000197,shooting,rifle,2020,Japan,gold
+a_000274,boxing,light heavyweight,2020,Japan,silver
+a_000232,weightlifting,clean and jerk,2016,Brazil,silver
+a_000348,surfing,shortboard,2012,UK,gold
+a_000144,rowing,sweeping,2020,Japan,silver
+a_000075,gymnastics,rings,2020,Japan,bronze
+a_000018,swimming,medley,2020,Japan,gold
+a_000053,track,relay,2012,UK,bronze
+a_000027,swimming,backstroke,2016,Brazil,bronze
+a_000142,rowing,sculling,2012,UK,bronze
+a_000038,swimming,breaststroke,2012,UK,silver
+a_000376,sport climbing,speed,2012,UK,silver
+a_000107,cycling,road,2016,Brazil,gold
+a_000388,decathlon,110m hurdles,2016,Brazil,bronze
+a_000034,swimming,medley,2012,UK,bronze
+a_000150,rowing,sculling,2012,UK,silver
+a_000327,karate,kumite,2016,Brazil,bronze
+a_000287,boxing,flyweight,2020,Japan,bronze
+a_000044,track,sprint,2016,Brazil,silver
+a_000284,boxing,featherweight,2016,Brazil,silver
+a_000341,surfing,shortboard,2016,Brazil,bronze
+a_000392,decathlon,1500m,2020,Japan,bronze
+a_000344,surfing,longboard,2020,Japan,gold
+a_000406,decathlon,high jump,2020,Japan,bronze
+a_000244,archery,recurve,2016,Brazil,gold
+a_000377,sport climbing,lead,2016,Brazil,silver
+a_000367,sport climbing,lead,2016,Brazil,bronze
+a_000264,boxing,light heavyweight,2012,UK,silver
+a_000415,decathlon,shot put,2012,UK,silver
+a_000068,gymnastics,bars,2012,UK,gold
+a_000263,boxing,middleweight,2020,Japan,gold
+a_000342,surfing,longboard,2016,Brazil,silver
+a_000250,archery,compound,2012,UK,silver
+a_000027,swimming,breaststroke,2020,Japan,gold
+a_000403,decathlon,100m,2020,Japan,gold
+a_000387,decathlon,400m,2012,UK,bronze
+a_000044,track,sprint,2020,Japan,silver
+a_000226,weightlifting,snatch,2020,Japan,silver
+a_000339,surfing,shortboard,2020,Japan,silver
+a_000411,decathlon,javelin,2016,Brazil,gold
+a_000401,decathlon,javelin,2020,Japan,gold
+a_000342,surfing,longboard,2012,UK,bronze
+a_000220,fencing,sabre,2016,Brazil,bronze
+a_000105,cycling,mountain,2020,Japan,bronze
+a_000063,gymnastics,bars,2016,Brazil,silver
+a_000261,boxing,lightweight,2012,UK,silver
+a_000071,gymnastics,beam,2012,UK,silver
+a_000037,swimming,backstroke,2020,Japan,bronze
+a_000112,cycling,BMX,2016,Brazil,gold
+a_000066,gymnastics,beam,2012,UK,gold
+a_000213,fencing,foil,2016,Brazil,bronze
+a_000177,shooting,shotgun,2012,UK,bronze
+a_000111,cycling,road,2012,UK,silver
+a_000242,archery,recurve,2012,UK,silver
+a_000384,decathlon,long jump,2020,Japan,gold
+a_000406,decathlon,high jump,2012,UK,gold
+a_000230,weightlifting,snatch,2016,Brazil,gold
+a_000125,cycling,BMX,2016,Brazil,silver
+a_000309,wrestling,greco-roman,2020,Japan,silver
+a_000218,fencing,epee,2016,Brazil,gold
+a_000385,decathlon,shot put,2020,Japan,silver
+a_000340,surfing,longboard,2016,Brazil,bronze
+a_000182,shooting,rifle,2016,Brazil,silver
+a_000337,surfing,shortboard,2012,UK,silver
+a_000049,track,sprint,2016,Brazil,gold
+a_000186,shooting,shotgun,2012,UK,silver
+a_000282,boxing,middleweight,2012,UK,silver
+a_000400,decathlon,pole vault,2016,Brazil,silver
+a_000125,cycling,road,2020,Japan,gold
+a_000236,archery,recurve,2020,Japan,bronze
+a_000216,fencing,foil,2020,Japan,gold
+a_000035,swimming,butterfly,2016,Brazil,gold
+a_000095,cycling,mountain,2012,UK,silver
+a_000031,swimming,butterfly,2012,UK,silver
+a_000111,cycling,BMX,2020,Japan,bronze
+a_000366,sport climbing,lead,2020,Japan,bronze
+a_000097,cycling,track,2016,Brazil,bronze
+a_000416,decathlon,400m,2020,Japan,gold
+a_000019,swimming,freestyle,2012,UK,gold
+a_000380,sport climbing,speed,2012,UK,gold
+a_000365,sport climbing,speed,2012,UK,bronze
+a_000265,boxing,heavyweight,2012,UK,bronze
+a_000001,swimming,freestyle,2020,Japan,bronze
+a_000416,decathlon,400m,2016,Brazil,silver
+a_000274,boxing,light heavyweight,2012,UK,gold
+a_000274,boxing,light heavyweight,2016,Brazil,silver
+a_000017,swimming,freestyle,2012,UK,bronze
+a_000041,swimming,freestyle,2016,Brazil,bronze
+a_000045,track,middle distance,2020,Japan,silver
+a_000345,surfing,shortboard,2016,Brazil,gold
+a_000240,archery,recurve,2016,Brazil,silver
+a_000037,swimming,backstroke,2012,UK,silver
+a_000021,swimming,medley,2016,Brazil,gold
+a_000247,archery,recurve,2012,UK,bronze
+a_000326,karate,kumite,2012,UK,gold
+a_000274,boxing,featherweight,2012,UK,gold
+a_000420,decathlon,long jump,2012,UK,gold
+a_000305,wrestling,greco-roman,2020,Japan,gold
+a_000034,swimming,backstroke,2012,UK,bronze
+a_000245,archery,compound,2012,UK,bronze
+a_000074,gymnastics,rings,2012,UK,bronze
+a_000231,weightlifting,clean and jerk,2020,Japan,silver
+a_000346,surfing,shortboard,2016,Brazil,silver
+a_000065,gymnastics,floor,2020,Japan,bronze
+a_000074,gymnastics,rings,2020,Japan,silver
+a_000281,boxing,featherweight,2020,Japan,gold
+a_000056,track,long distance,2020,Japan,bronze
+a_000283,boxing,flyweight,2016,Brazil,bronze
+a_000184,shooting,shotgun,2020,Japan,silver
+a_000258,boxing,heavyweight,2020,Japan,bronze
+a_000358,sport climbing,bouldering,2020,Japan,bronze
+a_000050,track,middle distance,2012,UK,bronze
+a_000223,weightlifting,clean and jerk,2012,UK,bronze
+a_000301,wrestling,freestyle,2016,Brazil,silver
+a_000393,decathlon,100m,2020,Japan,silver
+a_000387,decathlon,400m,2020,Japan,bronze
+a_000063,gymnastics,bars,2020,Japan,bronze
+a_000414,decathlon,shot put,2016,Brazil,gold
+a_000273,boxing,heavyweight,2012,UK,gold
+a_000202,shooting,rifle,2020,Japan,bronze
+a_000285,boxing,light heavyweight,2020,Japan,bronze
+a_000126,cycling,BMX,2020,Japan,silver
+a_000051,track,long distance,2012,UK,gold
+a_000401,decathlon,javelin,2016,Brazil,bronze
+a_000231,weightlifting,clean and jerk,2012,UK,gold
+a_000221,fencing,epee,2020,Japan,bronze
+a_000084,cycling,mountain,2016,Brazil,silver
+a_000172,shooting,rifle,2012,UK,gold
+a_000216,fencing,foil,2016,Brazil,silver
+a_000407,decathlon,400m,2020,Japan,silver
+a_000404,decathlon,long jump,2016,Brazil,silver
+a_000047,track,hurdles,2016,Brazil,gold
+a_000166,shooting,rifle,2020,Japan,silver
+a_000275,boxing,light heavyweight,2016,Brazil,bronze
+a_000291,boxing,welterweight,2012,UK,bronze
+a_000322,karate,kumite,2020,Japan,bronze
+a_000256,boxing,middleweight,2012,UK,gold
+a_000077,gymnastics,floor,2016,Brazil,silver
+a_000403,decathlon,100m,2012,UK,silver
+a_000372,sport climbing,speed,2016,Brazil,gold
+a_000275,boxing,welterweight,2012,UK,gold
+a_000027,swimming,breaststroke,2016,Brazil,gold
+a_000153,rowing,sweeping,2020,Japan,gold
+a_000389,decathlon,discus,2020,Japan,gold
+a_000333,karate,kata,2012,UK,gold
+a_000344,surfing,longboard,2012,UK,silver
+a_000030,swimming,breaststroke,2020,Japan,bronze
+a_000283,boxing,heavyweight,2012,UK,silver
+a_000031,swimming,butterfly,2020,Japan,bronze
+a_000052,track,hurdles,2012,UK,gold
+a_000330,karate,kata,2016,Brazil,gold
+a_000414,decathlon,shot put,2020,Japan,gold
+a_000103,cycling,track,2020,Japan,gold
+a_000315,wrestling,freestyle,2020,Japan,bronze
+a_000069,gymnastics,rings,2012,UK,gold
+a_000011,swimming,freestyle,2016,Brazil,gold
+a_000295,wrestling,greco-roman,2016,Brazil,silver
+a_000074,gymnastics,rings,2016,Brazil,silver
+a_000217,fencing,sabre,2020,Japan,bronze
+a_000364,sport climbing,lead,2012,UK,silver
+a_000214,fencing,sabre,2020,Japan,silver
+a_000344,surfing,longboard,2016,Brazil,gold
+a_000187,shooting,rifle,2012,UK,silver
+a_000373,sport climbing,bouldering,2016,Brazil,bronze
+a_000274,boxing,lightweight,2020,Japan,bronze
+a_000219,fencing,foil,2016,Brazil,gold
+a_000287,boxing,flyweight,2016,Brazil,silver
+a_000222,weightlifting,snatch,2012,UK,silver
+a_000413,decathlon,100m,2020,Japan,bronze
+a_000130,rowing,sculling,2020,Japan,silver
+a_000066,gymnastics,beam,2020,Japan,bronze
+a_000049,track,sprint,2012,UK,bronze
+a_000048,track,relay,2016,Brazil,bronze
+a_000405,decathlon,shot put,2020,Japan,bronze
+a_000259,boxing,flyweight,2016,Brazil,gold
+a_000229,weightlifting,snatch,2020,Japan,gold
+a_000116,cycling,BMX,2012,UK,bronze
+a_000404,decathlon,long jump,2020,Japan,bronze
+a_000279,boxing,welterweight,2016,Brazil,gold
+a_000154,rowing,sculling,2020,Japan,gold
+a_000325,karate,kata,2016,Brazil,bronze
+a_000355,sport climbing,bouldering,2016,Brazil,gold
+a_000203,shooting,pistol,2016,Brazil,gold
+a_000059,track,hurdles,2016,Brazil,bronze
+a_000388,decathlon,110m hurdles,2012,UK,bronze
+a_000073,gymnastics,bars,2020,Japan,gold
+a_000420,decathlon,high jump,2012,UK,silver
+a_000367,sport climbing,lead,2012,UK,bronze
+a_000355,sport climbing,bouldering,2020,Japan,silver
+a_000419,decathlon,110m hurdles,2012,UK,silver
+a_000188,shooting,pistol,2016,Brazil,silver
+a_000362,sport climbing,lead,2020,Japan,silver
+a_000109,cycling,BMX,2016,Brazil,bronze
+a_000047,track,hurdles,2012,UK,bronze
+a_000331,karate,kumite,2012,UK,bronze
+a_000328,karate,kumite,2012,UK,silver
+a_000020,swimming,freestyle,2012,UK,silver
+a_000154,rowing,sculling,2016,Brazil,bronze
+a_000386,decathlon,high jump,2016,Brazil,bronze
+a_000289,boxing,middleweight,2016,Brazil,silver
+a_000237,archery,compound,2020,Japan,gold
+a_000377,sport climbing,bouldering,2012,UK,gold
+a_000053,track,relay,2016,Brazil,gold
+a_000237,archery,compound,2016,Brazil,gold
+a_000275,boxing,flyweight,2012,UK,silver
+a_000259,boxing,flyweight,2020,Japan,silver
+a_000154,rowing,sweeping,2012,UK,gold
+a_000190,shooting,shotgun,2020,Japan,bronze

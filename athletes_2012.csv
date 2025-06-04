@@ -1,0 +1,369 @@
+id,name,dob,height(m),weight(kg),sport,country,num_followers,num_articles,personal_best,event,coach_id
+a_000109,Lori Allen,1997-07-30,1.99,84,cycling,Canada,7612,78,56.75,road,c_000353
+a_000366,Kenneth Tucker,2004-07-05,1.6,52,sport climbing,Canada,6468,57,30.94,speed,c_001433
+a_000356,Kimberly Hendrix,2008-11-06,1.74,63,sport climbing,France,7736,56,72.01,lead,c_000726
+a_000149,Jorge Perez,2006-12-06,1.79,75,rowing,Japan,5311,45,32.88,sweeping,c_001648
+a_000156,Joe Butler,1991-01-19,1.78,62,rowing,Canada,9171,92,53.82,sweeping,c_000680
+a_000209,Heather Miller,1990-10-13,1.59,78,shooting,Russia,9826,36,36.0,rifle,c_001798
+a_000377,Karen Brooks,1995-09-08,1.66,100,sport climbing,CaNADA,3547,81,78.69,bouldering,c_000850
+a_000288,George Williamson,2007-04-14,1.83,61,boxing,China,6901,82,56.0,flyweight,c_000146
+a_000034,Jesus Thomas,1990-09-25,1.92,99,swimming,Australia,7848,42,46.22,medley,c_001477
+a_000086,Joe Decker,1994-11-19,1.63,50,cycling,France,6925,45,21.23,road,c_000237
+a_000114,Tiffany Austin,1998-02-27,1.56,74,cycling,China,528,66,89.0,BMX,c_001904
+a_000388,Shawn Woodard DVM,1999-01-24,1.68,89,decathlon,Italy,8840,87,43.0,110m hurdles,c_000873
+a_000186,Jesus Smith,2007-05-11,1.59,57,shooting,Australia,2927,71,58.0,pistol,c_000301
+a_000088,Curtis Ibarra,1999-05-26,1.92,56,cycling,Germany,7252,22,58.78,mountain,c_001101
+a_000422,Joseph Blake,2005-05-16,1.65,52,decathlon,USA,7042,50,69.0,discus,c_000495
+a_000191,Mary Burke,1993-01-31,1.7,53,shooting,China,5979,86,97.0,shotgun,c_000875
+a_000219,Leslie Keith,1988-10-13,1.59,91,fencing,USA,905,61,55.0,foil,c_001277
+a_000259,Anna Santos,1994-11-13,1.69,63,boxing,uk,6796,54,97.0,flyweight,c_001262
+a_000128,Jeremiah Kim,2000-02-27,1.55,97,cycling,Russia,2209,22,85.51,BMX,c_000201
+a_000281,David Roberts,2000-11-20,1.9,95,boxing,UK,4437,77,20.0,welterweight,c_001949
+a_000250,Penny Mack,1989-07-06,1.56,88,archery,Japan,3247,69,71.0,compound,c_000822
+a_000300,Pamela Green,1991-04-12,1.68,97,wrestling,Canada,7368,63,15.0,greco-roman,c_001705
+a_000374,Christopher Wang,1999-10-21,1.89,62,sport climbing,Australia,4398,4,36.17,lead,c_000529
+a_000244,Michael Spencer,1998-09-15,1.86,69,archery,USA,202,23,20.0,compound,c_000631
+a_000382,Ricky Reese,2008-10-10,1.66,93,sport climbing,India,4731,59,32.82,speed,c_001365
+a_000341,Angela Jacobs,1998-05-27,1.82,50,surfing,China,574,100,43.0,shortboard,c_001827
+a_000107,Heather Hill,2003-08-16,1.69,86,cycling,Japan,3929,33,37.22,track,c_001711
+a_000017,Brian Nielsen,1989-02-24,1.73,56,swimming,India,3225,69,88.59,freestyle,c_001034
+a_000166,Gregory Pratt,1989-11-10,1.7,62,shooting,Italy,944,87,18.0,rifle,c_000420
+a_000276,Mary Johnson,2006-09-06,1.57,69,boxing,Italy,8569,74,47.0,heavyweight,c_000084
+a_000352,Jeffery Austin,1993-01-19,1.63,62,surfing,China,8926,75,20.0,longboard,c_001781
+a_000367,Alan Silva,1990-05-15,2.0,91,sport climbing,France,9071,38,78.87,bouldering,c_000536
+a_000101,Kathryn Stanley,1998-03-04,1.62,75,cycling,ItaLY,9210,77,27.5,BMX,c_001059
+a_000328,Jeremiah Poole,1989-05-19,1.72,61,karate,UK,3633,69,73.0,kumite,c_001092
+a_000235,James Rivera,2003-12-25,1.67,97,weightlifting,Italy,8735,35,190.0,snatch,c_000304
+a_000173,Scott Gordon,1995-02-19,1.58,63,shooting,USA,3185,0,48.0,pistol,c_000580
+a_000274,Justin Huang,2007-06-06,1.82,57,boxing,usa,9037,75,86.0,light heavyweight,c_000014
+a_000097,Christopher Ryan,2005-02-07,1.75,84,cycling,France,9030,19,77.05,track,c_000851
+a_000027,Corey Schneider,2002-10-17,1.72,80,swimming,France,5426,1,45.15,breaststroke,c_001982
+a_000211,Timothy Matthews,2009-05-04,1.55,79,shooting,Germany,3527,97,25.0,pistol,c_000646
+a_000360,Connie White,2000-02-17,1.9,52,sport climbing,India,2645,52,44.13,speed,c_000505
+a_000093,Crystal Riley,1992-07-29,1.98,96,cycling,Australia,5194,0,77.82,road,c_001511
+a_000146,Christopher Jones,1992-06-17,1.81,98,rowing,China,1127,1,48.5,sweeping,c_000926
+a_000390,Austin Li,2000-04-22,1.75,81,decathlon,Germany,484,40,70.0,pole vault,c_001198
+a_000306,Steven Warren,1996-02-04,1.78,70,wrestling,France,1433,96,23.0,greco-roman,c_001276
+a_000010,Michael Salazar,1992-04-05,1.7,72,swimming,Italy,1757,97,58.15,medley,c_000471
+a_000111,Pamela Larson,2005-05-23,1.78,99,cycling,USA,8806,85,79.36,BMX,c_001938
+a_000183,Paula Moore,2004-05-20,1.54,54,shooting,France,9664,40,27.0,rifle,c_001637
+a_000058,Dennis Murray,2001-08-25,1.69,87,track,Russia,6158,19,89.88,relay,c_001868
+a_000136,Nicole Graham,2006-11-27,1.71,83,rowing,Russia,8452,24,38.52,sculling,c_000475
+a_000367,Alan Silva,1990-05-15,2.0,91,sport climbing,France,9071,38,78.87,lead,c_000536
+a_000283,Mr. Joseph Sparks,2009-06-06,1.58,86,boxing,France,527,18,40.0,flyweight,c_000584
+a_000414,Kristen Flores,2004-05-06,1.66,58,decathlon,iNdiA,5274,55,42.0,shot put,c_001037
+a_000161,Tommy Miller,1989-06-19,1.76,56,rowing,Germany,231,93,87.51,sweeping,c_001571
+a_000290,Amanda Villegas,1993-12-15,1.69,61,boxing,Canada,8668,5,61.0,welterweight,c_000288
+a_000204,Jason Bush,1993-04-19,1.96,75,shooting,UK,9670,100,39.0,pistol,c_000416
+a_000210,Garrett James MD,1996-01-27,1.82,60,shooting,Italy,9049,52,76.0,shotgun,c_001573
+a_000155,Ruth Price,2009-05-04,1.83,73,rowing,Australia,7165,23,51.25,sweeping,c_001543
+a_000059,Mrs. Krista Johnson,2006-05-01,1.96,56,track,Canada,6899,70,30.14,hurdles,c_000510
+a_000378,Hayley Carter,1991-08-08,1.94,79,sport climbing,France,2077,7,60.17,lead,c_000726
+a_000251,Barbara Lee,1989-10-30,1.79,55,archery,Italy,6181,98,44.0,compound,c_001862
+a_000029,David Wilkins,2001-11-29,1.75,86,swimming,rUsSIa,1602,52,32.14,breaststroke,c_000292
+a_000243,Dawn Crosby,1999-02-19,1.82,96,archery,China,6269,100,89.0,compound,c_001290
+a_000317,Christopher Harper,1999-10-23,1.79,79,wrestling,France,7466,15,60.0,greco-roman,c_001515
+a_000205,Terry Anderson,2003-11-17,1.93,95,shooting,France,3919,48,71.0,shotgun,c_001444
+a_000160,James Cox,1990-06-29,1.83,69,rowing,Japan,6474,9,68.84,sweeping,c_001649
+a_000318,Karen Galloway,2003-02-01,1.92,88,wrestling,UK,3107,41,31.0,greco-roman,c_000138
+a_000034,Jesus Thomas,1990-09-25,1.92,99,swimming,Australia,7848,42,46.22,backstroke,c_001477
+a_000152,Susan Hopkins,1995-03-10,1.71,71,rowing,UK,3508,34,54.21,sweeping,c_000338
+a_000071,Tracey Phillips,1999-11-10,1.52,84,gymnastics,Australia,2354,58,100.0,beam,c_001401
+a_000093,Crystal Riley,1992-07-29,1.98,96,cycling,Australia,5194,0,77.82,mountain,c_001511
+a_000169,John Gonzalez,2009-03-22,1.55,63,shooting,China,2602,5,99.0,rifle,c_001302
+a_000415,Ethan Frazier,1994-09-28,1.61,89,decathlon,Russia,274,89,95.0,shot put,c_000855
+a_000401,Brian Estes,2007-03-31,1.67,62,decathlon,Germany,882,22,10.0,javelin,c_000799
+a_000353,Elizabeth Sanchez,2005-05-28,1.82,100,surfing,jAPaN,3164,62,35.0,shortboard,c_000898
+a_000334,Nicole Wilson,1990-03-02,1.88,74,karate,Japan,1027,86,31.0,kata,c_001467
+a_000256,Lori Chase,2006-06-06,1.54,64,boxing,JapAN,9153,96,60.0,middleweight,c_000314
+a_000383,Carmen Poole,2000-06-12,1.76,68,decathlon,Japan,3527,86,76.0,100m,c_001915
+a_000075,Joel Martinez,2001-10-17,1.89,57,gymnastics,France,3191,51,40.0,beam,c_001831
+a_000242,Lauren Sampson,2008-04-16,1.64,91,archery,India,7882,68,64.0,recurve,c_000916
+a_000027,Corey Schneider,2002-10-17,1.72,80,swimming,France,5426,1,45.15,butterfly,c_001982
+a_000337,Brenda Cantrell,2005-06-29,1.88,94,surfing,India,267,61,56.0,shortboard,c_000438
+a_000358,Ian Lewis,2001-10-24,1.91,92,sport climbing,China,479,10,48.2,bouldering,c_000099
+a_000066,Rachel Lucas,2008-07-21,1.65,92,gymnastics,UK,7765,87,72.0,beam,c_001044
+a_000327,Nicole Hood,1995-03-15,1.71,89,karate,India,5201,30,45.0,kata,c_000787
+a_000385,Richard Taylor,2007-10-22,1.92,100,decathlon,Canada,9432,38,17.0,shot put,c_001794
+a_000241,Karen Cross,1998-10-14,1.5,93,archery,Canada,5135,41,51.0,compound,c_000856
+a_000084,Seth May,2008-02-23,1.72,83,cycling,Russia,4202,90,86.7,mountain,c_001272
+a_000370,Shane Howard,1990-07-04,1.91,93,sport climbing,UK,5472,35,67.73,bouldering,c_001316
+a_000252,Amy Campos,1994-03-01,1.67,84,boxing,USA,5510,14,96.0,flyweight,c_001497
+a_000314,Anna Davis,1989-10-25,1.73,56,wrestling,Australia,9861,34,91.0,freestyle,c_000772
+a_000282,Spencer Kaufman,2003-01-03,1.6,78,boxing,Germany,8204,15,45.0,middleweight,c_000983
+a_000201,Suzanne Jackson,1990-11-28,1.77,95,shooting,India,187,85,22.0,pistol,c_001804
+a_000127,Larry Williamson,1990-10-12,1.91,61,cycling,UK,6584,42,70.74,BMX,c_000816
+a_000265,Megan Obrien,2000-10-17,1.72,77,boxing,Italy,6751,72,22.0,heavyweight,c_001727
+a_000305,April Cain,2006-05-23,1.94,82,wrestling,India,8076,16,83.0,freestyle,c_000195
+a_000014,Margaret Davis,1995-07-09,1.91,99,swimming,China,4831,28,30.23,breaststroke,c_001556
+a_000031,Brandon Price,2001-04-23,1.6,71,swimming,Germany,2593,15,76.68,breaststroke,c_000182
+a_000195,Tammy Rose,1997-03-06,1.79,53,shooting,USA,5200,99,89.0,pistol,c_001902
+a_000216,Linda Grimes,1994-01-31,1.61,85,fencing,Italy,1943,48,55.0,foil,c_001611
+a_000184,Valerie Pope,2008-10-11,1.64,82,shooting,USA,6545,84,94.0,rifle,c_001902
+a_000275,Charles Klein,1989-06-08,1.63,56,boxing,Russia,3136,48,59.0,flyweight,c_001321
+a_000402,Rachel Williams,2007-08-31,1.64,56,decathlon,UK,9237,74,72.0,1500m,c_001038
+a_000400,Richard Phillips,2003-10-16,1.89,59,decathlon,USA,2796,71,84.0,pole vault,c_001700
+a_000290,Amanda Villegas,1993-12-15,1.69,61,boxing,Canada,8668,5,61.0,heavyweight,c_000288
+a_000298,John Hines,1995-03-03,1.59,97,wrestling,China,7519,46,54.0,freestyle,c_000549
+a_000335,Luis Smith,1993-01-23,1.8,78,karate,France,2214,78,84.0,kata,c_000567
+a_000141,Katherine Diaz,2008-12-28,1.55,75,rowing,UK,7365,97,61.18,sweeping,c_000240
+a_000262,Jeremy Reynolds,2005-06-03,1.51,69,boxing,India,1383,82,61.0,welterweight,c_001769
+a_000074,Elizabeth Mosley,1992-02-04,1.77,87,gymnastics,Italy,977,31,46.0,rings,c_000247
+a_000396,Stephen Jenkins,1989-10-31,1.83,77,decathlon,CaNAdA,6653,6,67.0,high jump,c_000716
+a_000381,Stacey Chapman,2002-10-04,1.95,63,sport climbing,UK,297,58,65.63,lead,c_000929
+a_000048,Daniel Murphy,1991-04-07,1.71,69,track,Canada,909,12,28.35,relay,c_000829
+a_000181,Craig Lee,2007-07-23,1.52,72,shooting,Japan,1566,96,93.0,pistol,c_000125
+a_000277,Heather Butler,1996-11-18,1.92,87,boxing,China,6825,61,63.0,middleweight,c_000713
+a_000065,Drew Weiss,1999-08-10,1.51,78,gymnastics,China,1521,34,69.0,floor,c_000866
+a_000291,Benjamin Green,2007-11-22,1.72,73,boxing,Australia,4055,11,49.0,welterweight,c_000321
+a_000051,Mrs. Diana Singh,1992-02-24,1.84,69,track,Australia,9043,6,47.72,long distance,c_000715
+a_000245,Michelle Jones,1990-02-08,1.69,84,archery,Russia,7519,54,59.0,compound,c_001888
+a_000320,Kevin Rogers,1999-08-30,1.58,61,wrestling,China,350,86,24.0,greco-roman,c_001132
+a_000038,Elizabeth Snyder,1993-01-25,1.9,59,swimming,France,2134,16,75.41,breaststroke,c_000032
+a_000247,Lauren Howard,1988-11-07,1.54,71,archery,France,6813,49,93.0,compound,c_000763
+a_000422,Joseph Blake,2005-05-16,1.65,52,decathlon,USA,7042,50,69.0,1500m,c_000754
+a_000369,Johnny Lambert,1997-08-04,1.92,72,sport climbing,China,7628,71,53.92,speed,c_001626
+a_000013,Kevin Schmitt,1994-05-13,1.91,66,swimming,USA,7607,92,68.67,butterfly,c_000809
+a_000414,Kristen Flores,2004-05-06,1.66,58,decathlon,iNdiA,5274,55,42.0,1500m,c_001037
+a_000296,Ryan Avery,1994-02-23,1.59,52,wrestling,UK,5475,86,12.0,freestyle,c_001463
+a_000070,Jennifer Hunter,1995-11-19,1.88,85,gymnastics,Canada,8678,7,72.0,floor,c_001138
+a_000096,Donna Lee,2007-10-09,1.88,100,cycling,Japan,6220,17,79.32,track,c_000437
+a_000151,Roberto Holland,2004-03-18,1.79,85,rowing,Italy,4127,67,41.81,sweeping,c_000072
+a_000020,Dennis Lopez,2003-10-22,1.86,57,swimming,Germany,2585,67,80.09,freestyle,c_000264
+a_000340,Patricia Travis,1990-12-14,1.71,82,surfing,Australia,2976,64,25.0,longboard,c_001998
+a_000019,Andre Greene,2002-08-06,1.59,95,swimming,Japan,9282,100,98.83,freestyle,c_000221
+a_000163,Paul Decker,2007-12-17,1.94,71,rowing,UK,3461,49,71.71,sweeping,c_000240
+a_000380,Katrina Smith,2001-12-08,1.68,64,sport climbing,CHINa,6642,50,78.76,bouldering,c_000614
+a_000275,Charles Klein,1989-06-08,1.63,56,boxing,Russia,3136,48,59.0,welterweight,c_001321
+a_000100,Mr. Joshua Lang MD,1991-12-02,1.63,98,cycling,USA,1547,26,81.16,mountain,c_000959
+a_000404,Pamela Smith,2002-02-27,1.72,74,decathlon,Russia,3759,37,55.0,long jump,c_000448
+a_000197,Catherine Reese,1992-11-05,1.87,50,shooting,Australia,3493,37,10.0,rifle,c_001808
+a_000315,Amy Thomas,1989-04-10,1.91,79,wrestling,Italy,2496,42,39.0,freestyle,c_001917
+a_000292,John Duke,2006-11-27,1.64,70,wrestling,Australia,9198,51,46.0,freestyle,c_000485
+a_000285,Michael Frederick,1998-07-14,1.65,55,boxing,UsA,6561,37,62.0,featherweight,c_000777
+a_000353,Elizabeth Sanchez,2005-05-28,1.82,100,surfing,jAPaN,3164,62,35.0,longboard,c_000898
+a_000380,Katrina Smith,2001-12-08,1.68,64,sport climbing,CHINa,6642,50,78.76,speed,c_000614
+a_000418,Nancy Strickland,2002-12-08,1.53,84,decathlon,Canada,3286,55,55.0,100m,c_000507
+a_000387,Jennifer Johnson,2005-09-12,1.59,87,decathlon,AUStrALIA,1901,29,29.0,400m,c_001895
+a_000063,Michael Johnson,2007-03-04,1.89,96,gymnastics,Italy,7308,91,92.0,bars,c_000477
+a_000128,Jeremiah Kim,2000-02-27,1.55,97,cycling,Russia,2209,22,85.51,road,c_000201
+a_000223,Lisa Nelson,1998-10-14,1.6,95,weightlifting,Canada,2541,69,269.0,clean and jerk,c_001145
+a_000379,Cristina Ball,1989-07-04,1.96,88,sport climbing,Italy,6818,22,27.06,speed,c_000546
+a_000249,Kristen Stevens,2001-04-15,1.62,53,archery,UK,4744,2,24.0,compound,c_000594
+a_000305,April Cain,2006-05-23,1.94,82,wrestling,India,8076,16,83.0,greco-roman,c_000195
+a_000018,Melissa Lam,2000-10-14,1.52,60,swimming,Russia,1577,23,31.4,medley,c_001610
+a_000286,Clayton Watson,1989-09-03,1.88,74,boxing,Russia,8504,79,100.0,welterweight,c_001629
+a_000413,Denise Anderson,1995-04-27,1.93,60,decathlon,UK,8148,35,47.0,100m,c_001955
+a_000118,Kristina Jordan,2009-06-10,1.76,62,cycling,Japan,8745,62,94.08,track,c_000419
+a_000329,Thomas Decker,2000-12-28,1.97,77,karate,Italy,4950,68,74.0,kata,c_001498
+a_000365,Kathy Spencer,2001-12-28,1.89,85,sport climbing,Germany,4738,37,97.13,lead,c_001836
+a_000215,Nicole Hansen,1998-02-24,1.72,78,fencing,China,3919,86,47.0,epee,c_000975
+a_000231,Terrance Baker,1990-08-16,1.9,70,weightlifting,India,2289,51,55.0,clean and jerk,c_000493
+a_000044,Kristen Keller,2004-04-05,1.95,72,track,Japan,7258,86,30.87,sprint,c_001380
+a_000288,George Williamson,2007-04-14,1.83,61,boxing,China,6901,82,56.0,light heavyweight,c_000794
+a_000125,Megan Bush,1988-10-31,1.53,100,cycling,China,3796,99,35.82,track,c_000803
+a_000214,Douglas Thornton,1994-07-27,1.81,66,fencing,Russia,6757,58,78.0,sabre,c_000589
+a_000105,Kevin Moreno,1993-07-02,1.59,72,cycling,UK,122,40,73.98,road,c_000938
+a_000391,Clayton Kidd,1993-08-06,1.62,89,decathlon,UK,9770,21,72.0,javelin,c_000761
+a_000177,Mary Mullen,2003-07-03,1.88,92,shooting,Italy,9399,53,59.0,pistol,c_000837
+a_000124,Arthur Bennett,2004-01-21,1.69,68,cycling,India,8371,7,46.53,BMX,c_000731
+a_000244,Michael Spencer,1998-09-15,1.86,69,archery,USA,202,23,20.0,recurve,c_001946
+a_000091,Dalton Perez,2006-03-23,1.74,95,cycling,India,5445,42,34.24,track,c_000599
+a_000263,Janice Chen MD,2000-11-27,1.66,61,boxing,USA,1739,38,43.0,middleweight,c_001816
+a_000201,Suzanne Jackson,1990-11-28,1.77,95,shooting,India,187,85,22.0,rifle,c_001804
+a_000109,Lori Allen,1997-07-30,1.99,84,cycling,Canada,7612,78,56.75,mountain,c_000353
+a_000343,Bobby Mills,2006-01-21,1.81,98,surfing,UK,5152,75,90.0,shortboard,c_001548
+a_000062,Whitney Castillo MD,1988-11-01,1.67,77,gymnastics,Japan,2762,17,92.0,vault,c_001253
+a_000394,Patricia Williams,1997-01-25,1.95,85,decathlon,Japan,7504,5,81.0,long jump,c_000782
+a_000187,Matthew Taylor,1999-09-16,1.81,74,shooting,Russia,5584,90,37.0,pistol,c_000683
+a_000009,Thomas Wilson,1998-11-14,1.62,53,swimming,Germany,5123,9,49.97,breaststroke,c_001041
+a_000130,Matthew Cummings,1988-11-26,1.84,66,rowing,UK,1580,69,47.0,sculling,c_000338
+a_000111,Pamela Larson,2005-05-23,1.78,99,cycling,USA,8806,85,79.36,road,c_001938
+a_000342,Catherine Clark,1994-11-13,1.66,69,surfing,Japan,3430,96,66.0,longboard,c_001026
+a_000098,Mr. Craig Faulkner DVM,2006-02-02,1.63,87,cycling,Canada,1820,80,24.01,track,c_001413
+a_000037,Dustin Anderson,2004-03-09,1.99,65,swimming,UK,7494,48,68.58,backstroke,c_000288
+a_000207,Joanna Harrison,2009-07-03,1.5,70,shooting,Canada,45,98,22.0,shotgun,c_000394
+a_000170,Vincent Dean,2004-02-14,1.98,81,shooting,Japan,8800,1,96.0,pistol,c_000263
+a_000117,Abigail Rivera,1996-02-24,1.74,57,cycling,Russia,7965,10,67.73,mountain,c_001929
+a_000344,Amber Henry,2002-11-15,1.74,85,surfing,uSA,2803,42,94.0,longboard,c_001219
+a_000139,Joel Stewart,1991-02-18,1.83,83,rowing,Germany,1029,58,90.09,sculling,c_001224
+a_000177,Mary Mullen,2003-07-03,1.88,92,shooting,Italy,9399,53,59.0,shotgun,c_000837
+a_000187,Matthew Taylor,1999-09-16,1.81,74,shooting,Russia,5584,90,37.0,rifle,c_000683
+a_000382,Ricky Reese,2008-10-10,1.66,93,sport climbing,India,4731,59,32.82,lead,c_001365
+a_000397,Garrett Johnson,2001-08-05,1.52,55,decathlon,China,7542,80,22.0,400m,c_000054
+a_000045,Kevin Nielsen,1992-12-07,1.55,99,track,Germany,2283,36,56.65,middle distance,c_000270
+a_000220,Mindy Cantrell,2009-09-29,1.77,56,fencing,France,2677,95,32.0,sabre,c_000967
+a_000422,Joseph Blake,2005-05-16,1.65,52,decathlon,USA,7042,50,69.0,shot put,c_000754
+a_000157,Barbara Pham,2001-12-28,1.89,81,rowing,China,3269,64,38.3,sweeping,c_001440
+a_000129,Joseph Sanchez,2003-07-04,1.63,70,cycling,Japan,3879,61,42.08,mountain,c_000366
+a_000212,Sonya Gibson,2005-04-11,1.8,93,shooting,India,6167,80,14.0,rifle,c_001076
+a_000304,Steven James,1989-04-14,1.94,91,wrestling,Italy,7474,96,14.0,freestyle,c_001315
+a_000082,Jennifer Hoffman,1996-06-18,1.75,74,cycling,Australia,3079,80,93.07,road,c_000665
+a_000107,Heather Hill,2003-08-16,1.69,86,cycling,Japan,3929,33,37.22,BMX,c_001711
+a_000320,Kevin Rogers,1999-08-30,1.58,61,wrestling,China,350,86,24.0,freestyle,c_001132
+a_000027,Corey Schneider,2002-10-17,1.72,80,swimming,France,5426,1,45.15,backstroke,c_000363
+a_000419,Brianna Brown,1993-10-12,1.56,78,decathlon,China,5168,25,82.0,110m hurdles,c_000487
+a_000181,Craig Lee,2007-07-23,1.52,72,shooting,Japan,1566,96,93.0,shotgun,c_000125
+a_000150,Michelle Martinez,1990-03-04,1.83,97,rowing,Germany,855,60,72.79,sculling,c_000846
+a_000057,Travis Tate,1994-01-09,1.54,54,track,France,3956,50,87.94,hurdles,c_001064
+a_000234,Bradley Bailey,2003-02-07,1.51,82,weightlifting,Canada,8683,71,241.0,snatch,c_000215
+a_000301,Marissa Butler,2008-02-29,1.9,70,wrestling,USA,5107,53,31.0,greco-roman,c_000840
+a_000008,Michael Jones,2002-08-16,2.0,99,swimming,Japan,6010,26,20.04,butterfly,c_000538
+a_000034,Jesus Thomas,1990-09-25,1.92,99,swimming,Australia,7848,42,46.22,freestyle,c_001477
+a_000206,Ashley Jones,2005-09-07,1.85,74,shooting,USA,8803,26,40.0,shotgun,c_001501
+a_000258,Danielle Bush,1989-03-15,1.68,75,boxing,Australia,9492,19,75.0,heavyweight,c_000035
+a_000072,Joseph Maldonado,2001-11-28,1.81,63,gymnastics,usa,7777,12,40.0,vault,c_000888
+a_000366,Kenneth Tucker,2004-07-05,1.6,52,sport climbing,Canada,6468,57,30.94,lead,c_001433
+a_000194,Brandon Scott,1992-02-10,1.84,93,shooting,France,5075,65,50.0,shotgun,c_000973
+a_000267,Tina Collins,1988-12-25,1.56,54,boxing,Japan,2763,62,39.0,featherweight,c_001188
+a_000067,Jonathan Harris,2000-09-17,1.99,75,gymnastics,Germany,7293,79,37.0,vault,c_000818
+a_000369,Johnny Lambert,1997-08-04,1.92,72,sport climbing,China,7628,71,53.92,bouldering,c_001626
+a_000239,Martha Mathis,1995-08-03,1.64,92,archery,Japan,2984,22,56.0,compound,c_001956
+a_000293,Stephanie Perry,1994-08-09,1.7,69,wrestling,Italy,2470,80,92.0,greco-roman,c_000557
+a_000253,Sarah Johnson,1988-12-23,1.84,64,boxing,Russia,8275,93,89.0,featherweight,c_001086
+a_000376,Lisa Taylor,2001-01-05,1.9,59,sport climbing,Germany,2987,95,27.75,speed,c_000033
+a_000134,Deborah Brown,1998-10-13,1.67,67,rowing,Canada,76,46,68.73,sculling,c_000737
+a_000316,Jean Aguilar,2002-03-10,1.6,84,wrestling,India,9996,48,30.0,greco-roman,c_000412
+a_000371,Mr. Troy Brown,2001-11-16,1.62,75,sport climbing,India,773,67,37.89,bouldering,c_000655
+a_000182,Julie Holt,2004-09-19,1.88,78,shooting,UK,9200,54,46.0,pistol,c_000944
+a_000283,Mr. Joseph Sparks,2009-06-06,1.58,86,boxing,France,527,18,40.0,heavyweight,c_000293
+a_000174,Kevin Lopez,2008-10-28,1.81,78,shooting,Canada,7301,69,77.0,shotgun,c_000643
+a_000094,Matthew Chapman,2005-06-14,1.67,85,cycling,UK,7185,92,98.08,BMX,c_000998
+a_000403,Katherine Parsons,1993-12-12,1.94,95,decathlon,India,9411,57,81.0,100m,c_000656
+a_000186,Jesus Smith,2007-05-11,1.59,57,shooting,Australia,2927,71,58.0,shotgun,c_000301
+a_000224,Juan Holmes,1997-06-09,1.63,68,weightlifting,Italy,7299,53,189.0,snatch,c_000600
+a_000004,Brian Griffin PhD,2007-09-10,1.6,92,swimming,UK,6614,61,30.07,breaststroke,c_000591
+a_000362,Raymond Rodriguez,1992-10-24,1.74,80,sport climbing,Japan,399,76,83.61,lead,c_000539
+a_000135,Janet Smith,2006-03-17,1.78,86,rowing,China,8979,95,23.22,sweeping,c_000322
+a_000264,Tonya Shah,2001-03-19,1.79,72,boxing,Russia,8149,86,93.0,light heavyweight,c_000149
+a_000032,Michael Butler,2001-01-09,1.92,53,swimming,Italy,3828,68,51.62,breaststroke,c_000160
+a_000312,Tara Jones,1995-08-28,1.84,97,wrestling,USA,9637,4,60.0,freestyle,c_000162
+a_000381,Stacey Chapman,2002-10-04,1.95,63,sport climbing,UK,297,58,65.63,bouldering,c_000929
+a_000218,Anthony Bradley,1998-09-01,1.87,92,fencing,Canada,8776,78,51.0,epee,c_000148
+a_000068,Christopher Rodriguez,1991-11-29,1.99,71,gymnastics,India,1328,99,12.0,bars,c_000620
+a_000331,Patrick Bond,2009-06-09,1.56,90,karate,Australia,1320,60,73.0,kumite,c_001448
+a_000420,Anita Allen,1992-10-01,1.8,79,decathlon,Australia,2521,9,78.0,high jump,c_001583
+a_000115,Andrew Barrett,1997-05-14,1.5,52,cycling,Australia,5784,77,48.27,BMX,c_001511
+a_000061,Deanna Farmer,2000-10-12,1.56,92,gymnastics,USA,7988,100,56.0,beam,c_000435
+a_000354,Gregory Owens,1992-05-02,1.53,64,surfing,UK,7794,100,19.0,shortboard,c_000560
+a_000274,Justin Huang,2007-06-06,1.82,57,boxing,usa,9037,75,86.0,featherweight,c_000014
+a_000349,Craig Gilbert,2006-03-09,1.79,70,surfing,Germany,4861,23,35.0,shortboard,c_001785
+a_000182,Julie Holt,2004-09-19,1.88,78,shooting,UK,9200,54,46.0,rifle,c_000944
+a_000343,Bobby Mills,2006-01-21,1.81,98,surfing,UK,5152,75,90.0,longboard,c_000728
+a_000364,Trevor Newman,1993-03-11,1.77,97,sport climbing,Russia,6741,82,77.38,bouldering,c_000192
+a_000198,Christine Gutierrez,2000-09-27,1.73,56,shooting,Russia,4161,86,12.0,pistol,c_000618
+a_000020,Dennis Lopez,2003-10-22,1.86,57,swimming,Germany,2585,67,80.09,butterfly,c_000264
+a_000389,Wyatt Smith,2002-09-05,1.92,69,decathlon,USA,2796,39,67.0,discus,c_000754
+a_000406,Veronica Wells,1992-10-24,1.6,59,decathlon,France,9430,69,78.0,high jump,c_001999
+a_000190,Kimberly Johnson,1992-07-12,1.71,61,shooting,India,4676,16,11.0,shotgun,c_001804
+a_000416,Michael Adkins,1999-09-01,1.62,71,decathlon,Japan,2122,38,96.0,400m,c_000786
+a_000125,Megan Bush,1988-10-31,1.53,100,cycling,China,3796,99,35.82,road,c_000803
+a_000043,Dawn Peterson,2001-12-03,1.71,85,swimming,Italy,1427,51,66.74,backstroke,c_000690
+a_000247,Lauren Howard,1988-11-07,1.54,71,archery,France,6813,49,93.0,recurve,c_000763
+a_000103,Monica Cannon,1989-05-25,1.89,99,cycling,China,8060,80,67.54,road,c_000892
+a_000053,Nancy Holmes,2002-12-08,1.51,60,track,India,5795,59,94.27,relay,c_000911
+a_000039,Charles Faulkner,2008-09-14,1.67,99,swimming,India,3974,72,78.91,medley,c_001715
+a_000112,Christina Ryan,1990-08-12,1.8,76,cycling,Italy,880,92,30.1,BMX,c_000031
+a_000412,Jamie Anderson,1993-10-25,1.99,58,decathlon,Germany,4443,40,77.0,1500m,c_001714
+a_000129,Joseph Sanchez,2003-07-04,1.63,70,cycling,Japan,3879,61,42.08,BMX,c_000366
+a_000001,Amy Rowe,1990-10-02,1.63,88,swimming,Australia,8218,1,38.57,freestyle,c_001251
+a_000377,Karen Brooks,1995-09-08,1.66,100,sport climbing,CaNADA,3547,81,78.69,lead,c_000850
+a_000187,Matthew Taylor,1999-09-16,1.81,74,shooting,Russia,5584,90,37.0,shotgun,c_000683
+a_000172,Adriana Flores,2005-05-12,1.71,96,shooting,France,8600,45,91.0,rifle,c_000664
+a_000040,Christy Jensen,1994-11-25,1.89,71,swimming,Russia,8180,12,37.71,medley,c_001550
+a_000164,Betty Lopez,2001-04-23,1.85,58,rowing,France,9312,27,70.72,sculling,c_000464
+a_000059,Mrs. Krista Johnson,2006-05-01,1.96,56,track,Canada,6899,70,30.14,long distance,c_000510
+a_000326,Kerri Little,1998-02-04,1.74,67,karate,GErManY,7923,37,48.0,kumite,c_001334
+a_000167,Mason Bradley,2006-02-17,1.89,89,shooting,Germany,40,85,47.0,pistol,c_001337
+a_000025,Stephanie Lyons,1990-11-29,1.56,52,swimming,China,1231,67,55.64,backstroke,c_000407
+a_000350,Madison Lindsey,2000-05-02,1.92,87,surfing,France,7334,0,96.0,longboard,c_000158
+a_000054,Amanda Evans,1998-05-27,1.88,88,track,USA,8963,1,95.88,sprint,c_001948
+a_000261,Gregory Cherry,1992-01-08,1.6,76,boxing,France,226,59,15.0,lightweight,c_001544
+a_000078,Michael Williams,1990-03-16,1.72,76,cycling,USA,8994,45,22.59,road,c_001990
+a_000332,Lindsay Baker,2008-02-04,1.77,51,karate,China,2269,47,38.0,kata,c_001843
+a_000075,Joel Martinez,2001-10-17,1.89,57,gymnastics,France,3191,51,40.0,floor,c_001377
+a_000083,Taylor Mckay,2005-06-16,1.73,65,cycling,UK,2033,73,37.39,track,c_000249
+a_000217,Christina Hodges,1995-03-10,1.74,97,fencing,Australia,1710,6,12.0,sabre,c_000792
+a_000031,Brandon Price,2001-04-23,1.6,71,swimming,Germany,2593,15,76.68,butterfly,c_000182
+a_000178,Drew Fisher,1989-01-17,1.71,100,shooting,Germany,2283,33,60.0,rifle,c_000646
+a_000364,Trevor Newman,1993-03-11,1.77,97,sport climbing,Russia,6741,82,77.38,lead,c_000192
+a_000199,Tabitha Ayala,1995-01-10,1.81,60,shooting,Italy,9358,93,61.0,shotgun,c_000409
+a_000234,Bradley Bailey,2003-02-07,1.51,82,weightlifting,Canada,8683,71,241.0,clean and jerk,c_000215
+a_000137,Stephanie Ali,2005-08-29,1.73,75,rowing,India,9397,29,73.6,sweeping,c_001529
+a_000110,Jonathan Anderson,2007-07-12,1.51,73,cycling,Germany,208,23,63.65,road,c_001631
+a_000289,Aaron Guerra,2008-10-20,1.65,60,boxing,Japan,5417,47,54.0,lightweight,c_000253
+a_000348,William Mendoza,2002-11-08,1.96,57,surfing,India,1572,4,63.0,shortboard,c_001547
+a_000024,Brenda Davidson,1995-11-27,1.57,66,swimming,USA,3961,95,22.12,butterfly,c_001452
+a_000274,Justin Huang,2007-06-06,1.82,57,boxing,usa,9037,75,86.0,lightweight,c_001497
+a_000120,Lisa Mcmillan,2004-09-20,1.82,80,cycling,Canada,1777,54,54.76,BMX,c_001001
+a_000002,Brandon Richardson,1999-08-26,1.51,61,swimming,USA,2140,24,41.76,backstroke,c_000639
+a_000056,Laurie Serrano,1990-07-24,1.7,56,track,Germany,3385,94,99.78,long distance,c_001839
+a_000196,Kim Henry,1995-12-02,1.71,55,shooting,Canada,7850,90,54.0,shotgun,c_001616
+a_000213,Amanda Scott,2008-01-27,1.52,53,fencing,Germany,538,36,27.0,foil,c_001128
+a_000339,Adriana Mitchell,1994-10-07,1.72,76,surfing,France,9971,91,98.0,shortboard,c_000745
+a_000398,Eric Navarro,1998-12-09,1.82,89,decathlon,Australia,6751,70,25.0,110m hurdles,c_001583
+a_000109,Lori Allen,1997-07-30,1.99,84,cycling,Canada,7612,78,56.75,BMX,c_000353
+a_000414,Kristen Flores,2004-05-06,1.66,58,decathlon,iNdiA,5274,55,42.0,discus,c_001037
+a_000278,Elizabeth Mayer,2007-05-22,1.94,77,boxing,Japan,8969,58,10.0,middleweight,c_000314
+a_000271,Deanna Collins,2003-08-02,1.93,76,boxing,Germany,7744,86,29.0,light heavyweight,c_001305
+a_000309,Charles Robinson,1992-04-28,1.88,77,wrestling,China,2340,10,39.0,greco-roman,c_000807
+a_000132,Aaron Hall,1990-07-18,1.79,74,rowing,USA,9800,99,50.15,sculling,c_000823
+a_000314,Anna Davis,1989-10-25,1.73,56,wrestling,Australia,9861,34,91.0,greco-roman,c_000772
+a_000116,Brittany Rivera,1993-07-09,1.51,51,cycling,UK,2206,55,31.63,BMX,c_000938
+a_000286,Clayton Watson,1989-09-03,1.88,74,boxing,Russia,8504,79,100.0,light heavyweight,c_001629
+a_000003,John Smith,2001-01-27,1.65,80,swimming,China,8000,49,95.05,butterfly,c_000186
+a_000101,Kathryn Stanley,1998-03-04,1.62,75,cycling,ItaLY,9210,77,27.5,road,c_001059
+a_000347,James Jordan,2007-06-11,1.81,93,surfing,Canada,79,68,52.0,longboard,c_000103
+a_000189,David Maddox,2001-05-09,1.55,80,shooting,Germany,4193,41,75.0,shotgun,c_000453
+a_000199,Tabitha Ayala,1995-01-10,1.81,60,shooting,Italy,9358,93,61.0,rifle,c_000409
+a_000069,Kaitlyn Clark,1997-01-14,1.78,75,gymnastics,Russia,9288,30,38.0,rings,c_001050
+a_000221,Brett Nelson,1993-11-05,1.62,98,fencing,India,5305,89,22.0,epee,c_001218
+a_000120,Lisa Mcmillan,2004-09-20,1.82,80,cycling,Canada,1777,54,54.76,track,c_001001
+a_000168,Ashley Castro,2005-05-19,1.62,91,shooting,India,7561,23,67.0,shotgun,c_000205
+a_000127,Larry Williamson,1990-10-12,1.91,61,cycling,UK,6584,42,70.74,road,c_000816
+a_000142,Terry Holder,1992-07-10,1.77,78,rowing,France,1145,92,86.66,sculling,c_000122
+a_000116,Brittany Rivera,1993-07-09,1.51,51,cycling,UK,2206,55,31.63,road,c_000938
+a_000095,Keith Hill,1997-11-28,1.92,94,cycling,Russia,3775,3,33.57,mountain,c_000874
+a_000046,Jonathan Riley,1993-09-29,1.69,50,track,France,7729,63,38.65,long distance,c_001592
+a_000392,Russell Walker,2004-06-12,1.68,65,decathlon,India,1886,65,16.0,1500m,c_000681
+a_000049,Robert Moody,1990-04-04,1.75,87,track,China,8110,1,86.79,sprint,c_001832
+a_000156,Joe Butler,1991-01-19,1.78,62,rowing,Canada,9171,92,53.82,sculling,c_000680
+a_000345,Cheryl Morris,1993-04-07,1.59,59,surfing,Italy,4485,3,18.0,longboard,c_000106
+a_000273,Anthony Rowland,2004-08-21,1.98,75,boxing,India,5628,8,10.0,heavyweight,c_001974
+a_000179,Leslie Willis,1993-11-26,1.56,84,shooting,India,4113,34,80.0,shotgun,c_000205
+a_000178,Drew Fisher,1989-01-17,1.71,100,shooting,Germany,2283,33,60.0,pistol,c_000646
+a_000052,Mark Moore,1996-12-29,1.86,59,track,UK,709,14,89.89,hurdles,c_001424
+a_000097,Christopher Ryan,2005-02-07,1.75,84,cycling,France,9030,19,77.05,road,c_000851
+a_000249,Kristen Stevens,2001-04-15,1.62,53,archery,UK,4744,2,24.0,recurve,c_000594
+a_000421,Anthony Tate,2002-03-07,1.67,81,decathlon,Italy,6253,52,19.0,javelin,c_001588
+a_000076,Alicia Griffith,1999-10-14,1.88,96,gymnastics,China,5854,59,36.0,rings,c_001935
+a_000087,Amanda Carter,2009-03-23,1.74,61,cycling,Canada,2756,64,91.4,track,c_000381
+a_000333,April Contreras,1998-02-01,1.99,52,karate,Canada,8433,76,87.0,kata,c_000780
+a_000245,Michelle Jones,1990-02-08,1.69,84,archery,Russia,7519,54,59.0,recurve,c_001888
+a_000230,Elizabeth Maddox,2001-03-04,1.52,98,weightlifting,Russia,9195,37,263.0,clean and jerk,c_000088
+a_000322,Lydia Johnson,1994-03-30,1.69,92,karate,Canada,6826,35,53.0,kumite,c_000780
+a_000077,Dennis Anderson,2007-12-24,1.95,55,gymnastics,UK,4726,60,17.0,bars,c_001044
+a_000365,Kathy Spencer,2001-12-28,1.89,85,sport climbing,Germany,4738,37,97.13,speed,c_001534
+a_000222,Rhonda Collins,2004-11-18,1.51,60,weightlifting,UK,3357,75,265.0,snatch,c_001019
+a_000055,Timothy Dixon,2006-09-08,1.79,57,track,japAN,784,90,73.61,middle distance,c_001579
+a_000226,Curtis Vang,2003-01-16,1.81,88,weightlifting,Germany,1856,29,131.0,snatch,c_001741
+a_000203,Colin Norris,1989-05-13,1.9,71,shooting,Japan,9616,98,67.0,rifle,c_001768
+a_000420,Anita Allen,1992-10-01,1.8,79,decathlon,Australia,2521,9,78.0,1500m,c_000216
+a_000330,Peggy Dyer,2001-12-08,1.88,75,karate,Russia,2658,4,89.0,kumite,c_001786
+a_000410,Thomas Rivera,2009-02-28,1.88,74,decathlon,Italy,8186,76,99.0,pole vault,c_001479
+a_000050,Joseph Gonzalez,2003-10-15,1.66,99,track,Italy,1371,38,47.99,middle distance,c_000208
+a_000255,Willie Cooley,1991-11-25,1.69,62,boxing,China,4171,25,15.0,welterweight,c_001269
+a_000047,April Johnson,2003-09-06,1.64,80,track,russIa,5201,82,93.36,hurdles,c_000206
+a_000405,Heather Graham,2005-10-28,1.9,94,decathlon,Japan,9778,65,42.0,shot put,c_000068
+a_000154,Alan Price,1999-07-13,1.79,63,rowing,USA,5274,45,88.05,sweeping,c_000217
+a_000161,Tommy Miller,1989-06-19,1.76,56,rowing,Germany,231,93,87.51,sculling,c_001571
+a_000393,Jim Davis,1990-07-28,1.58,52,decathlon,Russia,4641,66,74.0,100m,c_001822
+a_000152,Susan Hopkins,1995-03-10,1.71,71,rowing,UK,3508,34,54.21,sculling,c_000338
+a_000266,Annette Jimenez,1993-01-17,1.95,91,boxing,China,5352,13,17.0,flyweight,c_000112
+a_000158,Jason Atkinson II,2004-11-05,1.54,65,rowing,Russia,797,44,52.6,sculling,c_000575
+a_000203,Colin Norris,1989-05-13,1.9,71,shooting,Japan,9616,98,67.0,shotgun,c_001768
+a_000159,Devin Luna,2007-10-18,1.91,96,rowing,India,2217,98,64.32,sculling,c_000859
+a_000420,Anita Allen,1992-10-01,1.8,79,decathlon,Australia,2521,9,78.0,long jump,c_001583
+a_000183,Paula Moore,2004-05-20,1.54,54,shooting,France,9664,40,27.0,pistol,c_001376
+a_000191,Mary Burke,1993-01-31,1.7,53,shooting,China,5979,86,97.0,pistol,c_000875
+a_000080,Keith Moore,1994-11-26,1.81,77,cycling,India,3112,33,37.51,mountain,c_001105

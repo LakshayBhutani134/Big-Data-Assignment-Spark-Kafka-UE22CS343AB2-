@@ -1,0 +1,2001 @@
+id,name,age,years_of_experience,sport,country,contract_id,certification_committee
+c_001155,Emily Evans,44,9,karate,USA,cc_001155,IOC
+c_000366,John Williams,54,6,cycling,Russia,cc_000366,IOC
+c_001910,William Ross,51,8,cycling,Germany,cc_001910,IOC
+c_000940,Peter Brennan,54,4,gymnastics,India,cc_000940,FIG
+c_001296,Thomas Shaw,67,4,decathlon,China,cc_001296,IAAF
+c_000030,Garrett Barton,66,19,boxing,France,cc_000030,IOC
+c_001935,Kimberly Pittman,62,5,gymnastics,Australia,cc_001935,FIG
+c_000859,Emily Castillo,49,9,rowing,UK,cc_000859,IOC
+c_001547,Emily Holloway,55,2,surfing,Germany,cc_001547,IOC
+c_001007,Benjamin Bean,41,9,archery,Japan,cc_001007,WAF
+c_000821,Matthew Phillips,33,13,karate,Germany,cc_000821,IOC
+c_000200,Jennifer Williams,37,11,shooting,Canada,cc_000200,ISSF
+c_001011,Kyle Simpson,57,7,fencing,Australia,cc_001011,IOC
+c_000406,Sara Fletcher,52,18,decathlon,Australia,cc_000406,IAAF
+c_000520,Jennifer Williams,67,15,sport climbing,Russia,cc_000520,IOC
+c_001002,Kyle Martin,32,11,karate,UK,cc_001002,IOC
+c_000694,Anthony Cochran,62,17,swimming,UK,cc_000694,WA
+c_000610,Frank Reed,35,7,rowing,India,cc_000610,IOC
+c_000790,Zachary Dillon,61,18,shooting,cHiNA,cc_000790,ISSF
+c_001569,Michael Raymond,55,3,sport climbing,Germany,cc_001569,IOC
+c_001188,Micheal Buchanan,55,20,boxing,USA,cc_001188,IOC
+c_000936,Eric Mendez,52,6,cycling,UK,cc_000936,IOC
+c_001501,Robert Edwards,53,20,shooting,India,cc_001501,ISSF
+c_001871,Mr. Christopher Cohen,46,20,cycling,UK,cc_001871,IOC
+c_000410,Anthony White,37,5,weightlifting,Russia,cc_000410,IOC
+c_001026,Ashley Martin,61,5,surfing,Russia,cc_001026,IOC
+c_000027,Joshua Schneider,37,1,shooting,India,cc_000027,ISSF
+c_000636,Kelly Robinson,62,6,swimming,China,cc_000636,WA
+c_001149,Rose Patel,65,14,track,India,cc_001149,IAAF
+c_000805,Penny Hartman,66,16,cycling,Canada,cc_000805,IOC
+c_000252,Deanna Carter,68,14,rowing,Australia,cc_000252,IOC
+c_001687,Dana Huber,63,11,shooting,Italy,cc_001687,ISSF
+c_001259,Latoya Walker,50,6,fencing,India,cc_001259,IOC
+c_001615,Mr. Adam Nelson MD,48,14,archery,China,cc_001615,WAF
+c_001639,Michael Boyd,38,4,karate,USA,cc_001639,IOC
+c_001453,Stephen Gomez,59,9,archery,UK,cc_001453,WAF
+c_001191,Alan Williamson,38,12,wrestling,Russia,cc_001191,IOC
+c_000666,Zachary Davis,65,5,archery,Japan,cc_000666,WAF
+c_001404,Amanda Gray,30,16,karate,Germany,cc_001404,IOC
+c_000631,Christina Wolf,50,20,archery,Italy,cc_000631,WAF
+c_000769,Douglas Frank,41,2,swimming,AUsTrAlIa,cc_000769,WA
+c_000860,Shawn Wilson,30,14,weightlifting,Canada,cc_000860,IOC
+c_001930,Janet Fischer,36,3,karate,India,cc_001930,IOC
+c_001861,Joseph Bowman,39,7,sport climbing,Canada,cc_001861,IOC
+c_000634,Carrie Peterson,48,9,fencing,Germany,cc_000634,IOC
+c_001249,Joseph Walls,46,4,gymnastics,Japan,cc_001249,FIG
+c_001228,Thomas Johnson,65,4,cycling,gERMANy,cc_001228,IOC
+c_000353,Lauren Palmer,57,14,fencing,UK,cc_000353,IOC
+c_000367,Kelly Walsh,64,2,swimming,Italy,cc_000367,WA
+c_000392,Susan Hill,64,10,weightlifting,Germany,cc_000392,IOC
+c_000846,Lori Smith,57,10,rowing,Australia,cc_000846,IOC
+c_001923,Tyler Reynolds,62,5,wrestling,China,cc_001923,IOC
+c_001206,Dalton Mccarthy,41,11,weightlifting,Germany,cc_001206,IOC
+c_000824,Edward Mccarthy,60,17,track,auSTralia,cc_000824,IAAF
+c_001165,Erin Sanchez,43,9,sport climbing,Australia,cc_001165,IOC
+c_001736,Rebecca Serrano,68,10,weightlifting,China,cc_001736,IOC
+c_001193,John Huang,67,11,wrestling,India,cc_001193,IOC
+c_001961,Diana Scott,41,6,track,Russia,cc_001961,IAAF
+c_001752,Misty Coleman,64,14,sport climbing,Russia,cc_001752,IOC
+c_000983,Savannah Meyer,49,3,boxing,Italy,cc_000983,IOC
+c_001763,Anthony Scott,33,12,track,Russia,cc_001763,IAAF
+c_001993,Erica Foster,55,18,sport climbing,Canada,cc_001993,IOC
+c_000140,Bruce Garcia,59,6,fencing,France,cc_000140,IOC
+c_001285,Warren Gutierrez,33,17,rowing,China,cc_001285,IOC
+c_000697,Karen Martinez,49,3,wrestling,Italy,cc_000697,IOC
+c_000989,Lauren Perry,31,3,surfing,Australia,cc_000989,IOC
+c_001796,Matthew Duarte,47,19,boxing,Russia,cc_001796,IOC
+c_000489,Kevin Martinez,51,20,weightlifting,India,cc_000489,IOC
+c_001243,Christopher Campbell,40,5,boxing,USA,cc_001243,IOC
+c_001945,Brenda Castillo,42,20,boxing,China,cc_001945,IOC
+c_000478,Jeffery Winters,34,2,archery,INdIa,cc_000478,WAF
+c_000554,Marcus Kelly,45,4,archery,Italy,cc_000554,WAF
+c_001800,Javier Patton,50,12,archery,Germany,cc_001800,WAF
+c_001795,Melvin Murray,36,14,weightlifting,Canada,cc_001795,IOC
+c_001471,Terry Harper,44,11,wrestling,France,cc_001471,IOC
+c_001030,Christina Fields,34,13,weightlifting,Germany,cc_001030,IOC
+c_001014,Wanda Cunningham,30,20,cycling,Canada,cc_001014,IOC
+c_000606,Sophia Pacheco,62,5,gymnastics,UK,cc_000606,FIG
+c_001750,Phillip Martin,46,6,shooting,UK,cc_001750,ISSF
+c_001426,Nicholas Rose,30,6,swimming,Germany,cc_001426,WA
+c_001665,Shannon Wilson,39,10,cycling,Italy,cc_001665,IOC
+c_000557,Kurt Adams,48,16,wrestling,Germany,cc_000557,IOC
+c_000519,Stephanie Snyder,52,7,karate,Canada,cc_000519,IOC
+c_000239,Stephanie Conner,66,1,boxing,France,cc_000239,IOC
+c_001797,Tracy Patton,62,3,cycling,Italy,cc_001797,IOC
+c_000977,Steve Phelps,68,20,rowing,China,cc_000977,IOC
+c_001044,Michele Casey,38,19,gymnastics,Australia,cc_001044,FIG
+c_001253,Shelley Garcia,52,5,gymnastics,Australia,cc_001253,FIG
+c_000438,Rebecca Choi,30,4,surfing,China,cc_000438,IOC
+c_001393,Tracy Steele,38,17,surfing,Germany,cc_001393,IOC
+c_001168,Timothy Osborn,68,7,surfing,Canada,cc_001168,IOC
+c_000082,Ronald Chavez,68,2,wrestling,India,cc_000082,IOC
+c_001251,Crystal Wilkerson,40,20,swimming,France,cc_001251,WA
+c_000558,Melissa Maldonado,42,12,decathlon,France,cc_000558,IAAF
+c_001593,Cynthia Johnson,64,9,gymnastics,China,cc_001593,FIG
+c_000174,Robert Rice,58,17,archery,China,cc_000174,WAF
+c_000348,Jason Mitchell,60,10,gymnastics,Germany,cc_000348,FIG
+c_000339,Courtney Davis,49,4,surfing,China,cc_000339,IOC
+c_000421,Randy Simmons,54,5,gymnastics,Russia,cc_000421,FIG
+c_001995,Justin Neal,70,5,track,Italy,cc_001995,IAAF
+c_001851,Rachel Gilmore,42,3,cycling,Russia,cc_001851,IOC
+c_001776,Anthony Lopez,60,11,gymnastics,India,cc_001776,FIG
+c_001180,Michael Simmons,64,11,shooting,Russia,cc_001180,ISSF
+c_001819,Michael Gutierrez,59,5,rowing,Italy,cc_001819,IOC
+c_000295,Joan Oconnor,45,13,swimming,China,cc_000295,WA
+c_000507,William Wilson,39,20,decathlon,UK,cc_000507,IAAF
+c_001012,Mrs. Olivia Edwards,42,17,fencing,USA,cc_001012,IOC
+c_000683,Emily Davis DDS,67,8,shooting,UK,cc_000683,ISSF
+c_001571,Malik Watts,62,1,rowing,China,cc_001571,IOC
+c_000182,Christopher Oneal,44,19,swimming,Japan,cc_000182,WA
+c_000077,William Noble,36,14,swimming,USA,cc_000077,WA
+c_000862,Omar French,46,8,surfing,Italy,cc_000862,IOC
+c_001499,Daniel Reese,33,19,track,Russia,cc_001499,IAAF
+c_001561,Robin Jones,33,6,karate,Australia,cc_001561,IOC
+c_000661,Suzanne Gamble,42,4,weightlifting,uk,cc_000661,IOC
+c_001529,Valerie Gray,67,6,rowing,USA,cc_001529,IOC
+c_001690,Gabriel Shaffer,54,9,track,Germany,cc_001690,IAAF
+c_001837,Lisa Stewart,30,1,cycling,USA,cc_001837,IOC
+c_001334,Jennifer Lowery,53,16,karate,Russia,cc_001334,IOC
+c_000598,Peter Freeman,32,4,wrestling,Italy,cc_000598,IOC
+c_001437,Dennis Nelson,55,11,surfing,Germany,cc_001437,IOC
+c_001567,Miss Danielle Moore,49,15,swimming,India,cc_001567,WA
+c_000682,Debra Bond,62,4,karate,USA,cc_000682,IOC
+c_000012,Craig Morgan,45,6,fencing,UK,cc_000012,IOC
+c_001134,Patricia Jimenez,38,18,cycling,Uk,cc_001134,IOC
+c_000130,William Manning,61,5,cycling,China,cc_000130,IOC
+c_001196,Alexis Morales,52,16,surfing,France,cc_001196,IOC
+c_000529,Steven Chavez,32,12,sport climbing,UK,cc_000529,IOC
+c_000958,Samantha Gregory,33,2,surfing,UK,cc_000958,IOC
+c_001724,Chad Carlson,43,17,decathlon,France,cc_001724,IAAF
+c_001359,Craig Franklin,52,17,fencing,Japan,cc_001359,IOC
+c_000735,Pamela Thomas,38,7,boxing,China,cc_000735,IOC
+c_001385,Timothy Stephens,46,19,archery,Australia,cc_001385,WAF
+c_001821,Robert Cox,59,13,cycling,Japan,cc_001821,IOC
+c_000833,Carly Thompson,58,8,sport climbing,France,cc_000833,IOC
+c_001209,Samuel Estrada,56,15,surfing,Australia,cc_001209,IOC
+c_000086,James Baker,57,3,boxing,China,cc_000086,IOC
+c_000970,John Gibson,51,16,surfing,Canada,cc_000970,IOC
+c_000872,Christian Graham,46,10,boxing,Russia,cc_000872,IOC
+c_001941,Leah Decker,48,11,swimming,India,cc_001941,WA
+c_000280,Brian Davila,58,16,rowing,India,cc_000280,IOC
+c_000300,Melissa Marshall,66,16,fencing,Russia,cc_000300,IOC
+c_000738,Eric Caldwell,56,18,surfing,UK,cc_000738,IOC
+c_000419,Vanessa Kennedy,40,19,cycling,UK,cc_000419,IOC
+c_000375,Heather Curtis,46,16,wrestling,UK,cc_000375,IOC
+c_001543,Jessica Fisher,65,15,wrestling,Russia,cc_001543,IOC
+c_001516,Carmen Peterson,41,3,rowing,China,cc_001516,IOC
+c_001634,Ashley Scott,42,10,shooting,Japan,cc_001634,ISSF
+c_001849,Michelle Stuart,70,6,swimming,UK,cc_001849,WA
+c_000087,Angela Davidson,40,6,swimming,Australia,cc_000087,WA
+c_000968,Mary Fitzpatrick,45,16,sport climbing,USA,cc_000968,IOC
+c_001835,Thomas Villanueva,58,19,cycling,China,cc_001835,IOC
+c_001434,Aaron Roberts,63,5,track,Italy,cc_001434,IAAF
+c_001047,Derek Chapman,31,9,archery,Canada,cc_001047,WAF
+c_001064,Jim Goodman,43,3,track,France,cc_001064,IAAF
+c_000955,Elizabeth Harper,47,6,gymnastics,China,cc_000955,FIG
+c_001576,Natalie Roberts,42,2,sport climbing,Russia,cc_001576,IOC
+c_000219,Sarah Dorsey,55,3,surfing,Australia,cc_000219,IOC
+c_001445,Christopher Walker,42,14,gymnastics,Italy,cc_001445,FIG
+c_000462,Tracy Sanchez,49,3,archery,USA,cc_000462,WAF
+c_000716,Joseph Burton,63,4,decathlon,UK,cc_000716,IAAF
+c_000670,Rebecca Holland,60,14,weightlifting,Australia,cc_000670,IOC
+c_000589,Jack Savage,45,15,fencing,JaPAN,cc_000589,IOC
+c_000001,Christopher Hill,44,14,wrestling,UK,cc_000001,IOC
+c_001880,Yolanda Salazar,41,18,boxing,Australia,cc_001880,IOC
+c_000839,Debra Smith,50,2,fencing,Russia,cc_000839,IOC
+c_000311,Tyler Munoz,53,9,karate,Russia,cc_000311,IOC
+c_001947,Christopher Chavez,66,1,archery,USA,cc_001947,WAF
+c_001694,Zoe Livingston,61,20,track,USA,cc_001694,IAAF
+c_000108,Luke Green,60,17,weightlifting,China,cc_000108,IOC
+c_000187,Nancy Kline,53,12,rowing,USA,cc_000187,IOC
+c_001704,Tonya Ross,47,4,rowing,Australia,cc_001704,IOC
+c_001380,Autumn Romero,45,3,track,India,cc_001380,IAAF
+c_000068,Aaron Thomas,52,1,decathlon,Canada,cc_000068,IAAF
+c_000162,Gabriela Bell,52,19,wrestling,France,cc_000162,IOC
+c_000065,Joshua Mays,46,3,rowing,Australia,cc_000065,IOC
+c_001732,Rebecca Smith,63,1,weightlifting,India,cc_001732,IOC
+c_000612,Angela Miller,65,8,rowing,Germany,cc_000612,IOC
+c_000896,Jennifer Alexander,38,20,rowing,India,cc_000896,IOC
+c_001826,Sarah Boone,30,8,cycling,USA,cc_001826,IOC
+c_001169,Dustin Hamilton,48,12,surfing,Russia,cc_001169,IOC
+c_000755,Sarah Scott,49,13,swimming,Germany,cc_000755,WA
+c_000756,Jenna Smith,50,10,karate,France,cc_000756,IOC
+c_000289,Jacob Cherry,36,17,fencing,Russia,cc_000289,IOC
+c_001200,David Robinson IV,64,16,cycling,UK,cc_001200,IOC
+c_001319,Kristin Castillo,68,13,swimming,Australia,cc_001319,WA
+c_000727,James Lindsey,63,18,fencing,UK,cc_000727,IOC
+c_000453,Danielle Miranda,33,19,shooting,Canada,cc_000453,ISSF
+c_000486,Charles Robinson,66,17,decathlon,Canada,cc_000486,IAAF
+c_001443,Gina Wang,65,20,wrestling,Canada,cc_001443,IOC
+c_001978,Elizabeth Cook,66,10,cycling,chiNa,cc_001978,IOC
+c_001936,Jeffery Duke,58,9,gymnastics,USA,cc_001936,FIG
+c_000543,Tommy Miller,45,12,archery,Italy,cc_000543,WAF
+c_000527,Kevin Norman,65,1,fencing,Australia,cc_000527,IOC
+c_001749,Alexandra Vaughn,54,14,fencing,USA,cc_001749,IOC
+c_001396,Jennifer Leon,56,8,fencing,Australia,cc_001396,IOC
+c_000641,John Johnson,68,5,wrestling,Russia,cc_000641,IOC
+c_001240,Scott Miller,55,2,shooting,France,cc_001240,ISSF
+c_001304,Tamara Williams,67,1,decathlon,Japan,cc_001304,IAAF
+c_001799,Stephanie Adams,54,20,rowing,Japan,cc_001799,IOC
+c_000038,Cory Wall,35,8,weightlifting,India,cc_000038,IOC
+c_000184,Mikayla Barnett PhD,40,11,fencing,France,cc_000184,IOC
+c_001446,Jimmy Rivera,51,5,archery,India,cc_001446,WAF
+c_000096,Tracy Jones,49,14,surfing,France,cc_000096,IOC
+c_000386,John Martin,54,10,karate,UK,cc_000386,IOC
+c_001068,Steven Johnson,38,18,track,UK,cc_001068,IAAF
+c_001654,Kimberly Lamb,58,6,surfing,Italy,cc_001654,IOC
+c_001590,Christina Robinson,46,3,rowing,Japan,cc_001590,IOC
+c_001881,Sheila Duran,58,19,weightlifting,USA,cc_001881,IOC
+c_000800,Mark Stanley,31,1,cycling,France,cc_000800,IOC
+c_000403,Christina Young,40,9,track,Germany,cc_000403,IAAF
+c_001566,Jessica Padilla,61,14,track,Italy,cc_001566,IAAF
+c_000064,Jennifer Green,67,8,archery,China,cc_000064,WAF
+c_001257,Matthew Reilly,41,11,surfing,Russia,cc_001257,IOC
+c_001695,Julia Bell,50,3,shooting,UK,cc_001695,ISSF
+c_001779,Anna Stanley,44,18,decathlon,France,cc_001779,IAAF
+c_000750,Amber Scott,33,14,fencing,cAnADA,cc_000750,IOC
+c_001307,Matthew Gardner,70,17,karate,China,cc_001307,IOC
+c_000207,Jeanne Andrews,33,20,gymnastics,cHinA,cc_000207,FIG
+c_000278,Danielle Mcgee MD,37,13,archery,Russia,cc_000278,WAF
+c_000534,Cassandra Powell,48,12,karate,jAPAN,cc_000534,IOC
+c_000250,Jenna Martin,62,18,track,France,cc_000250,IAAF
+c_000414,Jacob King,44,17,decathlon,Germany,cc_000414,IAAF
+c_001023,Tammy Nelson,50,8,archery,USA,cc_001023,WAF
+c_000223,Shannon Roberson,59,6,fencing,Russia,cc_000223,IOC
+c_001216,Richard Kramer,62,11,boxing,Japan,cc_001216,IOC
+c_001050,Catherine Stone,70,7,gymnastics,India,cc_001050,FIG
+c_000327,Joshua Brown,53,1,rowing,France,cc_000327,IOC
+c_000920,Robert Sherman,42,12,track,Germany,cc_000920,IAAF
+c_001816,Jill Gould,46,12,boxing,UK,cc_001816,IOC
+c_001419,Patrick Oneal,31,20,gymnastics,USA,cc_001419,FIG
+c_001919,Sara Lee,51,3,boxing,India,cc_001919,IOC
+c_001628,Russell Rodriguez,41,10,gymnastics,USA,cc_001628,FIG
+c_000745,Pamela Crawford,66,20,surfing,FrAnce,cc_000745,IOC
+c_000332,Denise Craig,62,20,gymnastics,Canada,cc_000332,FIG
+c_000352,Ricardo Cox,39,2,sport climbing,USA,cc_000352,IOC
+c_000699,Angela Washington,34,18,archery,Japan,cc_000699,WAF
+c_001771,Shawn Avery,64,18,karate,USA,cc_001771,IOC
+c_001506,Bobby Carrillo,36,14,gymnastics,Australia,cc_001506,FIG
+c_001330,Sarah Clark,61,12,shooting,Australia,cc_001330,ISSF
+c_001926,Adrian Cooke,64,4,fencing,UK,cc_001926,IOC
+c_000565,Ashley Chen,51,8,boxing,Italy,cc_000565,IOC
+c_000221,Rachel Boyer,61,3,swimming,UK,cc_000221,WA
+c_001052,Jordan Lopez DDS,49,11,boxing,Germany,cc_001052,IOC
+c_000466,Brianna King,61,20,karate,Italy,cc_000466,IOC
+c_001102,Lynn Perez,39,9,swimming,Canada,cc_001102,WA
+c_001113,Anthony Sanchez,50,7,weightlifting,Canada,cc_001113,IOC
+c_001424,Christine Garcia,31,1,track,India,cc_001424,IAAF
+c_001504,Jade Martinez,65,11,shooting,France,cc_001504,ISSF
+c_000848,Stephen Lawson,36,18,rowing,UK,cc_000848,IOC
+c_001033,Jeffrey Hartman,51,10,track,Australia,cc_001033,IAAF
+c_001118,Jennifer Vargas,55,12,decathlon,Germany,cc_001118,IAAF
+c_001524,Kristi Graham,37,9,wrestling,Japan,cc_001524,IOC
+c_001143,Diana Wall,64,5,wrestling,Australia,cc_001143,IOC
+c_001701,Nicole Ramsey,63,18,rowing,Germany,cc_001701,IOC
+c_001768,Tracy Flores,63,15,shooting,France,cc_001768,ISSF
+c_000711,Rebecca Smith,59,6,track,Germany,cc_000711,IAAF
+c_001224,William Banks,56,14,rowing,Russia,cc_001224,IOC
+c_001822,Haley Gallagher,30,17,decathlon,Germany,cc_001822,IAAF
+c_000807,Keith Barnes,61,1,wrestling,Italy,cc_000807,IOC
+c_000980,Jessica Johnson,30,12,swimming,UK,cc_000980,WA
+c_000431,Daniel Walker,62,4,wrestling,Canada,cc_000431,IOC
+c_001269,Allison York,35,10,boxing,Italy,cc_001269,IOC
+c_001659,Samantha Alvarez,67,5,fencing,China,cc_001659,IOC
+c_001798,Denise Clark,60,6,shooting,India,cc_001798,ISSF
+c_000660,Donna Turner,63,18,cycling,uSa,cc_000660,IOC
+c_000719,Deborah Mitchell,54,9,gymnastics,Italy,cc_000719,FIG
+c_001538,David Powell,34,1,gymnastics,China,cc_001538,FIG
+c_001674,Veronica Carlson,38,11,decathlon,Canada,cc_001674,IAAF
+c_001906,Terri Randall,65,10,fencing,Russia,cc_001906,IOC
+c_001242,Tracy Dominguez,51,8,boxing,Australia,cc_001242,IOC
+c_000506,Robert Cooper,70,1,shooting,USA,cc_000506,ISSF
+c_001421,Sydney Riley,38,5,fencing,Canada,cc_001421,IOC
+c_001042,Tyler Smith,44,1,rowing,France,cc_001042,IOC
+c_000512,Natalie Chapman,63,15,weightlifting,Japan,cc_000512,IOC
+c_000487,Desiree Russell,34,9,decathlon,Russia,cc_000487,IAAF
+c_001161,Andrew Wood,69,13,fencing,Japan,cc_001161,IOC
+c_000343,Larry Reid,36,8,archery,Canada,cc_000343,WAF
+c_001361,Laura Holt,31,7,fencing,France,cc_001361,IOC
+c_000214,Samantha Sanders,35,10,gymnastics,India,cc_000214,FIG
+c_000976,Jeffrey Cruz,65,15,shooting,France,cc_000976,ISSF
+c_000781,Brett Dixon,69,11,gymnastics,USA,cc_000781,FIG
+c_001476,Christine Green,33,4,fencing,Canada,cc_001476,IOC
+c_000691,James Richards,48,1,wrestling,CHINa,cc_000691,IOC
+c_000566,Rachel Morris,42,16,archery,India,cc_000566,WAF
+c_000318,Danielle Grimes,38,19,gymnastics,Australia,cc_000318,FIG
+c_000449,Patrick Perkins,68,11,sport climbing,China,cc_000449,IOC
+c_001719,James Garner,56,12,cycling,Russia,cc_001719,IOC
+c_001862,Kevin Smith,47,3,archery,Russia,cc_001862,WAF
+c_001743,Joshua Ball,49,4,track,India,cc_001743,IAAF
+c_001692,Eric Pace,38,2,decathlon,CHiNA,cc_001692,IAAF
+c_001239,Paula Trujillo,49,1,wrestling,GErmaNy,cc_001239,IOC
+c_000741,Stacy Day,63,17,track,Italy,cc_000741,IAAF
+c_001578,Bonnie Crawford,58,8,weightlifting,India,cc_001578,IOC
+c_001477,Jonathan Hunt,41,18,swimming,Russia,cc_001477,WA
+c_001395,Joseph Miller,38,12,archery,China,cc_001395,WAF
+c_001348,Timothy Morrison,46,13,wrestling,Japan,cc_001348,IOC
+c_000774,Mark Weaver,42,2,cycling,iTALY,cc_000774,IOC
+c_000815,Ronald Wallace,53,16,rowing,UK,cc_000815,IOC
+c_000240,Tammy Acosta,64,1,rowing,ChiNa,cc_000240,IOC
+c_000794,Brian Morales,62,10,boxing,Canada,cc_000794,IOC
+c_000287,Rebecca Curtis,32,3,shooting,UK,cc_000287,ISSF
+c_000460,Zoe Brown,39,2,sport climbing,China,cc_000460,IOC
+c_001711,Charles Ramirez,58,14,cycling,Japan,cc_001711,IOC
+c_000515,Mary Ford,61,18,swimming,China,cc_000515,WA
+c_001273,Sarah Navarro,42,4,weightlifting,France,cc_001273,IOC
+c_001511,Renee Brown,53,5,cycling,Italy,cc_001511,IOC
+c_001635,Michael Davis,48,20,shooting,Germany,cc_001635,ISSF
+c_001435,Taylor Hammond,33,6,swimming,India,cc_001435,WA
+c_000545,Samuel Mccall,42,15,cycling,Japan,cc_000545,IOC
+c_000206,Eric Reid,48,9,track,France,cc_000206,IAAF
+c_001109,Scott Wilson,57,20,gymnastics,China,cc_001109,FIG
+c_001740,Candice Davis,60,2,boxing,Canada,cc_001740,IOC
+c_001709,Kathy Gibson,34,11,decathlon,Italy,cc_001709,IAAF
+c_000293,Heather Reeves,50,6,boxing,Germany,cc_000293,IOC
+c_001391,Christopher Thomas,52,15,shooting,India,cc_001391,ISSF
+c_001770,Kelly Patel,52,1,decathlon,Australia,cc_001770,IAAF
+c_001928,Patricia Fisher,54,6,boxing,Russia,cc_001928,IOC
+c_000979,Bobby Stewart,42,19,boxing,USA,cc_000979,IOC
+c_001631,Kristina Guzman,37,6,cycling,Russia,cc_001631,IOC
+c_000016,Kathryn Frye,64,10,surfing,India,cc_000016,IOC
+c_001092,Sandra Huang,39,19,karate,Russia,cc_001092,IOC
+c_001890,Justin Davis,60,17,swimming,China,cc_001890,WA
+c_001540,Sarah Espinoza,38,13,archery,USA,cc_001540,WAF
+c_000510,Cynthia Jordan,57,2,track,Italy,cc_000510,IAAF
+c_001939,Amy Burns,44,18,weightlifting,Russia,cc_001939,IOC
+c_000204,Miguel Munoz,40,14,decathlon,Japan,cc_000204,IAAF
+c_001537,Mary Scott,58,14,wrestling,France,cc_001537,IOC
+c_000089,Maria Buck,45,12,wrestling,UK,cc_000089,IOC
+c_001370,Matthew York,60,17,decathlon,Japan,cc_001370,IAAF
+c_000730,Nichole Sandoval,69,3,karate,Italy,cc_000730,IOC
+c_001977,Rachel Nichols,57,8,cycling,France,cc_001977,IOC
+c_001449,Michelle Mckinney,42,19,sport climbing,France,cc_001449,IOC
+c_001686,Jamie Cordova,44,6,weightlifting,Russia,cc_001686,IOC
+c_000880,Deanna Bradley,55,19,gymnastics,USA,cc_000880,FIG
+c_000425,Joseph Reed,66,20,boxing,Germany,cc_000425,IOC
+c_001887,Johnathan Whitaker,46,15,shooting,Japan,cc_001887,ISSF
+c_001142,Gabrielle Hickman,54,1,decathlon,China,cc_001142,IAAF
+c_001667,Ana Freeman,45,16,gymnastics,JAPan,cc_001667,FIG
+c_001214,Laura Erickson,38,17,swimming,Italy,cc_001214,WA
+c_000241,Tracey Lee,45,19,boxing,Australia,cc_000241,IOC
+c_001315,Heather Simpson,69,1,wrestling,Japan,cc_001315,IOC
+c_001343,Stephen Decker,32,6,swimming,UK,cc_001343,WA
+c_001884,Craig Green,32,8,fencing,Russia,cc_001884,IOC
+c_000575,Kevin Holmes,59,19,rowing,Russia,cc_000575,IOC
+c_000718,Bethany Jones MD,40,16,swimming,Russia,cc_000718,WA
+c_000134,John Ortiz,70,7,karate,Canada,cc_000134,IOC
+c_000307,Matthew Madden,40,10,weightlifting,Australia,cc_000307,IOC
+c_000758,Laurie Leon,53,10,rowing,Australia,cc_000758,IOC
+c_000644,Joshua Johnson,59,2,karate,Japan,cc_000644,IOC
+c_000703,Jessica Williams,51,5,shooting,Australia,cc_000703,ISSF
+c_000011,Kristin Mendoza,44,1,archery,USA,cc_000011,WAF
+c_000388,Julie Wilkerson,54,17,boxing,Russia,cc_000388,IOC
+c_000312,Daniel Todd,39,16,fencing,Italy,cc_000312,IOC
+c_000474,Brian Cooper,69,4,karate,UK,cc_000474,IOC
+c_001185,Angela Lee,51,2,cycling,France,cc_001185,IOC
+c_000048,Brett Steele DDS,60,12,swimming,Italy,cc_000048,WA
+c_000877,Nicholas Kane,65,20,gymnastics,France,cc_000877,FIG
+c_000341,Diana Davenport,31,17,track,USA,cc_000341,IAAF
+c_001579,Jonathan Gonzalez,39,4,track,Japan,cc_001579,IAAF
+c_001362,Ashley Cowan,59,4,shooting,China,cc_001362,ISSF
+c_000614,Jody Gillespie,48,3,sport climbing,China,cc_000614,IOC
+c_000124,Yvonne Reilly,35,4,cycling,Russia,cc_000124,IOC
+c_001227,Jessica Turner,57,2,track,Japan,cc_001227,IAAF
+c_000071,Dominic Larson,37,5,cycling,India,cc_000071,IOC
+c_000742,Larry Roach,42,2,boxing,India,cc_000742,IOC
+c_000526,Joseph James,45,11,surfing,China,cc_000526,IOC
+c_001729,Jesse Miller,49,10,sport climbing,Canada,cc_001729,IOC
+c_001349,Christopher Griffin,53,6,archery,Germany,cc_001349,WAF
+c_001583,Katie Robinson,68,1,decathlon,Australia,cc_001583,IAAF
+c_001211,Ashley Ball,59,1,karate,UK,cc_001211,IOC
+c_000090,Shaun Banks,59,16,fencing,Canada,cc_000090,IOC
+c_001699,David Miller,45,20,shooting,India,cc_001699,ISSF
+c_000903,William Beard,44,8,archery,UK,cc_000903,WAF
+c_000650,Eric Hubbard,38,16,karate,UK,cc_000650,IOC
+c_001397,Heather Greene,35,3,rowing,UsA,cc_001397,IOC
+c_000094,Kevin Mcdonald,38,19,boxing,Japan,cc_000094,IOC
+c_000189,Christina Sanders,48,9,rowing,Canada,cc_000189,IOC
+c_000535,Deborah Bautista,59,8,decathlon,Germany,cc_000535,IAAF
+c_000524,Dana Bautista,36,16,cycling,Germany,cc_000524,IOC
+c_001051,Emily White,31,3,decathlon,Japan,cc_001051,IAAF
+c_001178,Tonya Williams,44,19,track,UK,cc_001178,IAAF
+c_000990,Hannah Walker,56,5,cycling,USA,cc_000990,IOC
+c_001623,Terry Washington,56,12,cycling,Japan,cc_001623,IOC
+c_001793,Nathan Ross,52,4,sport climbing,usa,cc_001793,IOC
+c_001697,Michael Rodriguez,45,10,wrestling,Russia,cc_001697,IOC
+c_001644,Michelle Wells,64,3,archery,India,cc_001644,WAF
+c_001568,Mark Morrison,68,19,surfing,JApAN,cc_001568,IOC
+c_000609,James Wilcox,62,14,archery,Italy,cc_000609,WAF
+c_001637,Jacqueline Gilbert,64,4,shooting,chINA,cc_001637,ISSF
+c_000573,Diana Moore,35,13,rowing,UK,cc_000573,IOC
+c_000461,Michael Reeves,60,18,swimming,Australia,cc_000461,WA
+c_001613,Joshua Keith,30,9,decathlon,Germany,cc_001613,IAAF
+c_000894,Michael Davis,35,8,boxing,Russia,cc_000894,IOC
+c_001542,Jody Ruiz,54,3,surfing,Canada,cc_001542,IOC
+c_000530,John Bryant,56,20,fencing,Canada,cc_000530,IOC
+c_001948,Kimberly Rosales,58,14,track,UK,cc_001948,IAAF
+c_001754,Jackie Hill,31,11,cycling,India,cc_001754,IOC
+c_001176,James Dillon,32,13,karate,Australia,cc_001176,IOC
+c_000669,Matthew Rogers,54,9,cycling,China,cc_000669,IOC
+c_000169,Melody Rodriguez,59,4,archery,iTaLy,cc_000169,WAF
+c_001526,Michelle Walker,62,15,karate,France,cc_001526,IOC
+c_001086,Lisa Weber,45,13,boxing,France,cc_001086,IOC
+c_001484,Sharon Calderon,49,10,boxing,Australia,cc_001484,IOC
+c_000009,Micheal Dunlap,31,7,cycling,cHiNA,cc_000009,IOC
+c_000975,Kelli Phillips,50,16,fencing,Germany,cc_000975,IOC
+c_000117,Nicole Meyers,63,13,karate,Germany,cc_000117,IOC
+c_001842,James Johnson,69,20,boxing,India,cc_001842,IOC
+c_000046,Stephen Hansen,53,17,sport climbing,Canada,cc_000046,IOC
+c_000698,Crystal Gutierrez,30,8,track,India,cc_000698,IAAF
+c_000201,Andrea Lopez,31,18,cycling,Russia,cc_000201,IOC
+c_000695,Sydney Travis,69,14,gymnastics,Canada,cc_000695,FIG
+c_000165,Kayla Barrera,50,7,sport climbing,USA,cc_000165,IOC
+c_000842,Dr. Wendy Smith,53,11,swimming,Japan,cc_000842,WA
+c_001019,Sydney Mckay,47,7,weightlifting,Germany,cc_001019,IOC
+c_001981,Logan Carter,45,13,track,UK,cc_001981,IAAF
+c_000436,Angela Graves,66,7,cycling,Germany,cc_000436,IOC
+c_001468,Darryl Pierce,42,4,track,INdIA,cc_001468,IAAF
+c_000856,Jeffrey Thompson,56,18,archery,China,cc_000856,WAF
+c_000259,Jerry Cohen,58,18,weightlifting,Japan,cc_000259,IOC
+c_000919,Logan Patrick,43,12,cycling,Japan,cc_000919,IOC
+c_000383,Christine Morrison,58,13,archery,China,cc_000383,WAF
+c_000832,Nichole Smith,30,19,rowing,Germany,cc_000832,IOC
+c_001456,Brett Stewart,46,9,shooting,Italy,cc_001456,ISSF
+c_001075,John Cook III,32,11,karate,France,cc_001075,IOC
+c_000459,Madeline Molina,70,17,sport climbing,France,cc_000459,IOC
+c_000957,Christopher Hanna,34,12,rowing,USA,cc_000957,IOC
+c_000648,April Anderson,49,13,sport climbing,Australia,cc_000648,IOC
+c_000186,Patrick Cunningham,34,16,swimming,Australia,cc_000186,WA
+c_000941,Eric Barker,59,6,track,Japan,cc_000941,IAAF
+c_000748,Carrie Brown,53,17,decathlon,USA,cc_000748,IAAF
+c_000374,Derrick Watkins,65,18,rowing,USA,cc_000374,IOC
+c_001402,Audrey Kelley,41,16,gymnastics,India,cc_001402,FIG
+c_001310,Gloria Taylor,64,6,wrestling,UK,cc_001310,IOC
+c_000715,Melissa Huerta,31,3,track,USA,cc_000715,IAAF
+c_000469,Margaret Khan,59,8,fencing,Germany,cc_000469,IOC
+c_000274,Marvin Morse,61,20,rowing,Australia,cc_000274,IOC
+c_001447,Tara Rice,35,19,sport climbing,Japan,cc_001447,IOC
+c_001470,Andrew Page,63,12,shooting,Germany,cc_001470,ISSF
+c_001352,Jennifer Hawkins,54,10,cycling,Australia,cc_001352,IOC
+c_001281,David Davis,54,6,surfing,India,cc_001281,IOC
+c_001260,Dawn Flores,68,14,track,Japan,cc_001260,IAAF
+c_001680,Sandra Rios,63,10,archery,FRAnce,cc_001680,WAF
+c_001081,Jeffrey Floyd,42,6,swimming,Russia,cc_001081,WA
+c_000933,Sarah Johnston,46,4,karate,China,cc_000933,IOC
+c_000491,Michael Kim,61,13,decathlon,Germany,cc_000491,IAAF
+c_001633,Joshua Hall,38,13,swimming,India,cc_001633,WA
+c_000737,James Barnett,47,9,rowing,USa,cc_000737,IOC
+c_000905,Bobby Ramos,41,2,boxing,Russia,cc_000905,IOC
+c_001173,Jordan Ramirez,42,5,sport climbing,Germany,cc_001173,IOC
+c_001077,Erin Franklin,48,9,decathlon,Australia,cc_001077,IAAF
+c_001965,Mrs. Michelle Dalton,49,4,weightlifting,Germany,cc_001965,IOC
+c_001604,Aaron Brock,38,7,weightlifting,China,cc_001604,IOC
+c_000752,Philip Bradford,66,11,track,Italy,cc_000752,IAAF
+c_000463,Sarah Gillespie,63,12,rowing,UK,cc_000463,IOC
+c_001325,Brian May,38,1,decathlon,iNDIA,cc_001325,IAAF
+c_000616,William Hooper,69,3,sport climbing,USA,cc_000616,IOC
+c_000553,Nicole Thornton,30,12,fencing,Russia,cc_000553,IOC
+c_001274,Bryan Cox,33,16,decathlon,China,cc_001274,IAAF
+c_000069,Michael Nichols,38,12,sport climbing,Russia,cc_000069,IOC
+c_000918,Thomas Fowler,37,11,track,iNdIa,cc_000918,IAAF
+c_000266,Courtney Tucker,65,20,boxing,Canada,cc_000266,IOC
+c_001406,Ashley Morrison,68,19,karate,China,cc_001406,IOC
+c_000360,Dana Gonzalez,69,2,swimming,France,cc_000360,WA
+c_000785,Melanie Mcpherson,35,15,wrestling,Italy,cc_000785,IOC
+c_001386,Erik Jones,63,15,cycling,USA,cc_001386,IOC
+c_000516,Brittany Lee,36,19,decathlon,Australia,cc_000516,IAAF
+c_001048,Courtney Mcbride,46,13,decathlon,Russia,cc_001048,IAAF
+c_001205,Matthew Wilson,57,15,track,Japan,cc_001205,IAAF
+c_001582,Mckenzie Roberts,67,10,track,China,cc_001582,IAAF
+c_000044,Michael Mills,44,2,shooting,USA,cc_000044,ISSF
+c_001727,Steven Vang,55,18,boxing,USA,cc_001727,IOC
+c_001502,Tiffany White,63,19,cycling,Japan,cc_001502,IOC
+c_001357,Lisa Wolfe,37,3,sport climbing,Italy,cc_001357,IOC
+c_000937,Scott Henderson,51,15,wrestling,Canada,cc_000937,IOC
+c_001487,Aaron Mathis,45,13,decathlon,Canada,cc_001487,IAAF
+c_001125,Katherine Gutierrez,59,4,fencing,Russia,cc_001125,IOC
+c_001271,Gina Cross,54,2,wrestling,Japan,cc_001271,IOC
+c_000275,Ethan Cervantes,39,3,archery,USA,cc_000275,WAF
+c_000136,Sydney Velez,52,17,surfing,Italy,cc_000136,IOC
+c_000128,Adrian Strickland,33,12,sport climbing,Germany,cc_000128,IOC
+c_000788,James Miller,48,9,wrestling,Germany,cc_000788,IOC
+c_001915,Dana Patel,37,4,decathlon,UK,cc_001915,IAAF
+c_000305,Tracy Gonzalez,65,12,sport climbing,France,cc_000305,IOC
+c_001171,Carol Moreno,57,1,shooting,India,cc_001171,ISSF
+c_000548,George Freeman,58,6,archery,China,cc_000548,WAF
+c_000481,Tonya Mccarthy,44,15,track,France,cc_000481,IAAF
+c_001964,Patrick Atkinson,36,20,track,Japan,cc_001964,IAAF
+c_001852,Amanda Brandt,46,15,rowing,Italy,cc_001852,IOC
+c_001517,Juan Martinez,38,2,wrestling,Australia,cc_001517,IOC
+c_000763,Russell Spence,65,7,archery,Italy,cc_000763,WAF
+c_001061,Dr. Jeremy Smith DDS,70,10,cycling,India,cc_001061,IOC
+c_000710,Mary Kim,64,5,surfing,Japan,cc_000710,IOC
+c_001907,Christopher Shelton,65,13,track,Italy,cc_001907,IAAF
+c_000886,Melissa Williams,32,11,karate,Japan,cc_000886,IOC
+c_001785,Diana Vazquez,70,15,surfing,Russia,cc_001785,IOC
+c_001363,Bianca Aguilar,51,20,cycling,Australia,cc_001363,IOC
+c_000473,Tony Baker,33,1,rowing,USA,cc_000473,IOC
+c_001020,Jennifer Aguilar,32,10,gymnastics,France,cc_001020,FIG
+c_001467,Donald Hamilton,42,16,karate,Italy,cc_001467,IOC
+c_000248,Ryan Brown,42,13,karate,Japan,cc_000248,IOC
+c_001990,Kristy Walters,56,14,cycling,Australia,cc_001990,IOC
+c_000943,Mrs. Heather Knight,68,3,wrestling,France,cc_000943,IOC
+c_001306,Patrick Walker,48,12,decathlon,France,cc_001306,IAAF
+c_001804,Jennifer Flores,34,19,shooting,USA,cc_001804,ISSF
+c_001976,Joseph Hooper,53,7,gymnastics,Germany,cc_001976,FIG
+c_001148,Angela Rodriguez,43,8,wrestling,Italy,cc_001148,IOC
+c_001266,David Walker,60,2,gymnastics,UK,cc_001266,FIG
+c_000852,Christina Hernandez,42,10,gymnastics,India,cc_000852,FIG
+c_001079,Charles Hill,31,1,boxing,UK,cc_001079,IOC
+c_001309,Chelsey Neal,64,3,archery,USA,cc_001309,WAF
+c_001186,Deborah Johnson,34,13,weightlifting,China,cc_001186,IOC
+c_000203,Melissa Lee,49,1,swimming,India,cc_000203,WA
+c_001616,Dana Davis,47,13,shooting,auStrALIA,cc_001616,ISSF
+c_000532,Cody Johnson,39,19,decathlon,Italy,cc_000532,IAAF
+c_001827,Mary Garza,54,1,surfing,UK,cc_001827,IOC
+c_001508,Jessica Cole,36,17,weightlifting,UK,cc_001508,IOC
+c_000597,Jennifer Hopkins,57,3,boxing,Russia,cc_000597,IOC
+c_000668,Emily Gibson,66,8,karate,France,cc_000668,IOC
+c_001806,Mark Keller,70,12,cycling,Canada,cc_001806,IOC
+c_000316,Adrian Mcmillan,68,17,archery,France,cc_000316,WAF
+c_000927,Timothy James,51,17,weightlifting,Russia,cc_000927,IOC
+c_000254,Kyle Johnson,34,3,gymnastics,UK,cc_000254,FIG
+c_001272,James Nielsen,56,12,cycling,Germany,cc_001272,IOC
+c_000014,Cindy Maxwell,42,10,boxing,Russia,cc_000014,IOC
+c_001850,Brian Leon,61,5,sport climbing,Canada,cc_001850,IOC
+c_000232,Jessica Gutierrez,32,11,sport climbing,uK,cc_000232,IOC
+c_000013,Donald Rodriguez,57,9,weightlifting,Canada,cc_000013,IOC
+c_001425,Richard Gillespie,64,1,decathlon,Japan,cc_001425,IAAF
+c_001530,Jeffrey Ross,68,5,weightlifting,UK,cc_001530,IOC
+c_001685,Caroline Johnson,44,17,sport climbing,Canada,cc_001685,IOC
+c_000651,Thomas Barnes,30,4,weightlifting,Canada,cc_000651,IOC
+c_001029,Mary Horn,45,17,karate,Japan,cc_001029,IOC
+c_001611,Nathan Lynch,48,5,fencing,India,cc_001611,IOC
+c_000376,Deanna Allen,36,19,shooting,Canada,cc_000376,ISSF
+c_001394,David Herrera,42,15,shooting,France,cc_001394,ISSF
+c_000141,Richard Mercado,51,4,fencing,ChINA,cc_000141,IOC
+c_000434,Daniel Crosby,33,12,sport climbing,India,cc_000434,IOC
+c_000929,Robert Williams,47,8,sport climbing,India,cc_000929,IOC
+c_001909,Michelle Cameron,65,19,fencing,Japan,cc_001909,IOC
+c_000153,Laura Deleon,30,11,surfing,Australia,cc_000153,IOC
+c_000912,Nicole Bates,55,17,shooting,Australia,cc_000912,ISSF
+c_001999,Amanda Espinoza,50,4,decathlon,France,cc_001999,IAAF
+c_001888,Stephanie Wheeler,67,15,archery,Germany,cc_001888,WAF
+c_001823,Michael Johnson,67,13,fencing,France,cc_001823,IOC
+c_001416,Ashley Roberts,32,11,fencing,France,cc_001416,IOC
+c_001465,Natalie Torres,51,5,wrestling,Canada,cc_001465,IOC
+c_001254,Rhonda Barker,64,3,gymnastics,USA,cc_001254,FIG
+c_001812,Jennifer Padilla,38,15,shooting,France,cc_001812,ISSF
+c_001089,Dr. Alexander Page,37,8,gymnastics,uSA,cc_001089,FIG
+c_000369,Donald Garrett,54,15,gymnastics,Japan,cc_000369,FIG
+c_000315,Ashley Reilly,38,10,weightlifting,Germany,cc_000315,IOC
+c_000092,Vickie Martinez,37,5,boxing,Italy,cc_000092,IOC
+c_000346,John Kennedy,61,20,cycling,India,cc_000346,IOC
+c_001969,Todd Hall,53,5,decathlon,USA,cc_001969,IAAF
+c_001774,Brian Larson,59,15,archery,Russia,cc_001774,WAF
+c_001893,Marissa Heath,59,16,archery,UK,cc_001893,WAF
+c_000432,Samuel Ingram,66,20,boxing,Russia,cc_000432,IOC
+c_000607,Daniel Miller,44,14,swimming,Canada,cc_000607,WA
+c_000039,Stephanie Simmons,50,2,boxing,Japan,cc_000039,IOC
+c_000663,Nicolas Wallace,36,9,decathlon,Russia,cc_000663,IAAF
+c_001311,Jonathan Reese,60,3,wrestling,Canada,cc_001311,IOC
+c_000953,Lauren Mills,60,14,sport climbing,Germany,cc_000953,IOC
+c_001106,Mark York,47,6,surfing,Japan,cc_001106,IOC
+c_001101,Paula Wood,35,15,cycling,UK,cc_001101,IOC
+c_001805,Mary Liu,70,2,wrestling,UK,cc_001805,IOC
+c_001232,James Wolfe,41,2,shooting,USA,cc_001232,ISSF
+c_000998,Michael Andrews,64,1,cycling,France,cc_000998,IOC
+c_000257,Donna Leonard,54,14,shooting,Italy,cc_000257,ISSF
+c_000412,James Frank,61,14,wrestling,India,cc_000412,IOC
+c_000377,Joel Cowan,44,16,swimming,Russia,cc_000377,WA
+c_000658,Breanna Rodriguez,41,12,karate,China,cc_000658,IOC
+c_000306,Denise Ortiz,64,14,weightlifting,China,cc_000306,IOC
+c_000370,Keith Lewis,32,19,decathlon,Germany,cc_000370,IAAF
+c_001290,Diane Perez,56,3,archery,Russia,cc_001290,WAF
+c_001938,Jason Juarez,46,2,cycling,Canada,cc_001938,IOC
+c_000033,Lori Thompson,49,16,sport climbing,USA,cc_000033,IOC
+c_000121,Maria Nelson,51,8,sport climbing,usA,cc_000121,IOC
+c_000498,Emily Booker,61,9,gymnastics,Russia,cc_000498,FIG
+c_000424,Alexandra Lloyd,67,8,fencing,Japan,cc_000424,IOC
+c_001858,Mary Ray,32,1,track,Australia,cc_001858,IAAF
+c_001162,Robin Atkinson,59,1,wrestling,Germany,cc_001162,IOC
+c_001213,Jacob West,53,11,wrestling,Russia,cc_001213,IOC
+c_001400,Jonathan Rose MD,31,5,archery,Russia,cc_001400,WAF
+c_000934,Richard White,31,10,shooting,Australia,cc_000934,ISSF
+c_001460,Mark Frank,53,17,shooting,France,cc_001460,ISSF
+c_001996,Thomas Marshall,51,12,track,India,cc_001996,IAAF
+c_000804,Nicole Smith,33,3,rowing,UK,cc_000804,IOC
+c_000809,Melissa Morrow,62,20,decathlon,Japan,cc_000809,IAAF
+c_001937,Micheal Thompson,58,7,shooting,UK,cc_001937,ISSF
+c_000951,Jordan Williams,46,17,surfing,India,cc_000951,IOC
+c_001742,Robert Miles,61,19,rowing,Italy,cc_001742,IOC
+c_001866,Karina Phillips,67,7,sport climbing,Germany,cc_001866,IOC
+c_000218,Caitlin Rodriguez,32,19,wrestling,CHiNa,cc_000218,IOC
+c_001638,Karen Davis,30,19,karate,Australia,cc_001638,IOC
+c_000107,Shirley Davidson MD,62,9,fencing,France,cc_000107,IOC
+c_000801,Richard Erickson,62,1,swimming,China,cc_000801,WA
+c_001715,Susan Scott,48,19,swimming,Australia,cc_001715,WA
+c_000657,Heather Lamb,54,10,weightlifting,France,cc_000657,IOC
+c_001025,Michelle Kelly,51,8,track,Canada,cc_001025,IAAF
+c_000322,Elizabeth Reynolds,36,19,rowing,Russia,cc_000322,IOC
+c_000005,Karl Mccarthy,45,12,swimming,India,cc_000005,WA
+c_000042,Christine Murphy,48,19,weightlifting,cHINA,cc_000042,IOC
+c_000037,Tracy Calderon,34,11,fencing,Italy,cc_000037,IOC
+c_001294,Jasmine Robinson MD,61,13,rowing,Germany,cc_001294,IOC
+c_001333,Becky Baxter,60,8,gymnastics,Canada,cc_001333,FIG
+c_000772,Brian Baker,39,1,wrestling,Canada,cc_000772,IOC
+c_001292,Jacqueline Gutierrez,39,4,fencing,India,cc_001292,IOC
+c_000819,Mark Sullivan,42,19,track,India,cc_000819,IAAF
+c_001562,David Davis,35,20,weightlifting,USA,cc_001562,IOC
+c_000913,Dawn Wells,39,4,track,USA,cc_000913,IAAF
+c_000826,Jeffery Rivera,31,9,fencing,UK,cc_000826,IOC
+c_000882,Amy Turner,64,3,wrestling,Canada,cc_000882,IOC
+c_000922,Nicole Bradley,30,1,decathlon,China,cc_000922,IAAF
+c_001656,Gary Vasquez,38,8,weightlifting,jaPan,cc_001656,IOC
+c_000588,Sharon Sims,44,12,track,India,cc_000588,IAAF
+c_001897,Jordan Garcia,69,16,decathlon,InDIa,cc_001897,IAAF
+c_000031,Calvin Patel,50,4,cycling,China,cc_000031,IOC
+c_000539,Jon Green,35,1,sport climbing,USA,cc_000539,IOC
+c_000106,Jennifer Warner,33,3,surfing,Germany,cc_000106,IOC
+c_001920,Anthony Pierce,56,19,gymnastics,Japan,cc_001920,FIG
+c_001003,Alexander Saunders,50,8,wrestling,Canada,cc_001003,IOC
+c_001110,Linda Robinson,48,6,fencing,Australia,cc_001110,IOC
+c_000072,Michelle Powell,66,3,rowing,Japan,cc_000072,IOC
+c_001933,James Harrington,68,20,wrestling,France,cc_001933,IOC
+c_000746,Debra Walker,70,4,gymnastics,China,cc_000746,FIG
+c_001085,Cody Garcia,53,11,track,Germany,cc_001085,IAAF
+c_000288,Catherine Patterson,51,5,swimming,Canada,cc_000288,WA
+c_001035,Ashley Fox,51,10,shooting,UK,cc_001035,ISSF
+c_001115,Matthew Perkins,35,13,weightlifting,Italy,cc_001115,IOC
+c_000057,Michael Watson,49,15,surfing,Canada,cc_000057,IOC
+c_000160,Mary Montgomery,33,10,swimming,Japan,cc_000160,WA
+c_001682,Steven Thomas,36,1,decathlon,Australia,cc_001682,IAAF
+c_000939,Kayla Thompson,40,3,wrestling,Italy,cc_000939,IOC
+c_001817,Kevin Nolan,49,14,gymnastics,Canada,cc_001817,FIG
+c_001844,Meredith Harper,54,15,rowing,Germany,cc_001844,IOC
+c_001911,Mr. Thomas Jones,67,18,karate,France,cc_001911,IOC
+c_000439,Matthew Peters,63,12,decathlon,Australia,cc_000439,IAAF
+c_001140,Patrick Molina,66,20,archery,Germany,cc_001140,WAF
+c_001028,Meghan Perez,48,20,fencing,India,cc_001028,IOC
+c_000972,Brandon Warren,31,8,rowing,Italy,cc_000972,IOC
+c_000455,David Payne,34,11,swimming,Italy,cc_000455,WA
+c_001721,Amy Lewis,43,20,shooting,India,cc_001721,ISSF
+c_000541,Sharon Waters,46,13,swimming,Canada,cc_000541,WA
+c_001331,Allen Valenzuela,61,4,cycling,USA,cc_001331,IOC
+c_001154,Jason Acosta,68,13,swimming,Australia,cc_001154,WA
+c_001875,Elizabeth Moore,59,7,weightlifting,India,cc_001875,IOC
+c_001346,Donald Jordan,61,1,swimming,Italy,cc_001346,WA
+c_000167,Jennifer Moon,69,17,sport climbing,Canada,cc_000167,IOC
+c_000902,Bradley Morris,61,17,fencing,USA,cc_000902,IOC
+c_001706,Erika Cabrera,56,17,karate,UK,cc_001706,IOC
+c_000319,Kara Gray,32,18,boxing,USA,cc_000319,IOC
+c_001054,Mrs. Gina Lee,48,20,track,China,cc_001054,IAAF
+c_000966,Dr. Richard Lutz,63,6,archery,China,cc_000966,WAF
+c_000047,Richard Whitaker,31,20,fencing,Russia,cc_000047,IOC
+c_001891,Jonathon Pearson,49,4,fencing,Australia,cc_001891,IOC
+c_001268,Christina Foster,58,3,track,Russia,cc_001268,IAAF
+c_000420,Brian Lewis,50,20,shooting,Canada,cc_000420,ISSF
+c_000714,Scott Pace,51,17,shooting,Australia,cc_000714,ISSF
+c_000111,Jacob Griffin,46,3,fencing,UK,cc_000111,IOC
+c_001133,Linda Ayala,33,15,karate,USA,cc_001133,IOC
+c_000387,Deborah Lucas,33,18,surfing,Canada,cc_000387,IOC
+c_001761,Jamie Boyd,49,6,karate,UK,cc_001761,IOC
+c_000357,Christina Ellis,48,20,weightlifting,India,cc_000357,IOC
+c_000297,Deanna Griffin,31,9,track,USA,cc_000297,IAAF
+c_001056,Julie Smith,37,2,rowing,USA,cc_001056,IOC
+c_000843,Rebecca Ramirez,51,1,rowing,Germany,cc_000843,IOC
+c_000945,John Smith,69,5,sport climbing,Australia,cc_000945,IOC
+c_001773,Kelly Parrish,65,10,wrestling,Canada,cc_001773,IOC
+c_001320,Stephanie Pierce,53,17,wrestling,USA,cc_001320,IOC
+c_000244,Andrew Andrade,52,7,karate,Canada,cc_000244,IOC
+c_001342,Catherine Barr,58,12,fencing,USA,cc_001342,IOC
+c_000679,Denise Lowe,63,19,weightlifting,France,cc_000679,IOC
+c_000485,Amy Stevenson,44,16,wrestling,UK,cc_000485,IOC
+c_000464,Brianna James,59,10,rowing,Canada,cc_000464,IOC
+c_001872,Deanna Floyd,56,8,wrestling,Canada,cc_001872,IOC
+c_000247,Taylor Thompson,59,16,gymnastics,India,cc_000247,FIG
+c_001882,Maria Whitehead,41,8,weightlifting,UK,cc_001882,IOC
+c_001167,Michelle Moore,51,16,karate,UK,cc_001167,IOC
+c_000925,Madeline Booker,68,2,surfing,uK,cc_000925,IOC
+c_000335,Frank Shah,54,13,karate,India,cc_000335,IOC
+c_001340,Karen Pope,62,20,swimming,China,cc_001340,WA
+c_001261,Micheal Braun,44,3,gymnastics,Germany,cc_001261,FIG
+c_000394,Stephanie Walker,55,20,shooting,China,cc_000394,ISSF
+c_001514,Samuel Garza,61,11,surfing,Germany,cc_001514,IOC
+c_000686,Rachel Cruz,31,18,boxing,Italy,cc_000686,IOC
+c_001223,Briana Harrison,30,9,shooting,Canada,cc_001223,ISSF
+c_000899,Audrey Robinson,64,12,decathlon,France,cc_000899,IAAF
+c_000137,Nina Harvey,59,18,karate,India,cc_000137,IOC
+c_000080,Tyler Hart,58,7,cycling,Russia,cc_000080,IOC
+c_001270,Robert Garza,44,18,fencing,INdiA,cc_001270,IOC
+c_001177,Rachel Knapp,60,17,decathlon,USA,cc_001177,IAAF
+c_000171,William Estrada,47,6,cycling,Japan,cc_000171,IOC
+c_001172,Scott Clark,66,8,sport climbing,Japan,cc_001172,IOC
+c_001925,Deborah Martinez,30,13,boxing,USA,cc_001925,IOC
+c_001787,April Perry,43,6,surfing,India,cc_001787,IOC
+c_001123,Caleb Lynch,67,20,karate,UK,cc_001123,IOC
+c_001197,Deborah Padilla,43,8,fencing,China,cc_001197,IOC
+c_000678,Sean Jackson,46,11,wrestling,Germany,cc_000678,IOC
+c_001120,Daniel Tran,39,5,boxing,China,cc_001120,IOC
+c_000142,Michael Zuniga,59,16,boxing,Australia,cc_000142,IOC
+c_001989,Marissa Collins,45,1,fencing,China,cc_001989,IOC
+c_000234,Marie Santos,40,20,surfing,Russia,cc_000234,IOC
+c_001170,Heather Adams,41,2,sport climbing,Italy,cc_001170,IOC
+c_000281,Charles Ellison,40,6,gymnastics,Japan,cc_000281,FIG
+c_001166,Barbara Chavez,65,15,boxing,USA,cc_001166,IOC
+c_001956,Miss Mindy Davis,40,6,archery,China,cc_001956,WAF
+c_000004,Marc Hicks,56,14,wrestling,Italy,cc_000004,IOC
+c_001557,Linda Barnett,48,7,archery,Japan,cc_001557,WAF
+c_000626,Betty Mckinney,64,14,archery,Australia,cc_000626,WAF
+c_000982,Matthew Hoffman,65,10,rowing,Russia,cc_000982,IOC
+c_001755,Luke Pollard,48,17,surfing,Japan,cc_001755,IOC
+c_000836,Patricia Cox,31,10,archery,USA,cc_000836,WAF
+c_001973,Jeremy Palmer,30,10,rowing,Italy,cc_001973,IOC
+c_000385,Kenneth Evans,31,1,karate,USA,cc_000385,IOC
+c_001287,Evan Clark,61,15,boxing,USA,cc_001287,IOC
+c_000123,Jonathan Webster,52,10,boxing,Canada,cc_000123,IOC
+c_000372,Brandon Horn,43,5,karate,China,cc_000372,IOC
+c_000409,Brandon Brennan,69,14,shooting,Canada,cc_000409,ISSF
+c_000656,Taylor Ward,55,4,decathlon,Germany,cc_000656,IAAF
+c_000732,Jaime Sharp,43,17,fencing,Japan,cc_000732,IOC
+c_001160,Damon Morris,32,2,archery,India,cc_001160,WAF
+c_000594,Travis Miller,62,10,archery,USA,cc_000594,WAF
+c_000079,Sarah Miller,52,2,fencing,Canada,cc_000079,IOC
+c_000138,Laura Chapman,32,14,wrestling,Japan,cc_000138,IOC
+c_001430,Lori Cruz,63,7,cycling,USA,cc_001430,IOC
+c_000496,Richard Wright PhD,54,10,archery,UK,cc_000496,WAF
+c_001830,Makayla Chavez,44,6,gymnastics,Italy,cc_001830,FIG
+c_000310,Julie Coffey,37,9,gymnastics,caNaDa,cc_000310,FIG
+c_000513,Patricia Blake,55,20,surfing,Germany,cc_000513,IOC
+c_000368,Lori Fowler,48,14,boxing,India,cc_000368,IOC
+c_000700,Nicholas Serrano,62,6,boxing,Germany,cc_000700,IOC
+c_001707,Regina Hayes,58,6,surfing,Canada,cc_001707,IOC
+c_001332,Douglas Miller,64,13,decathlon,UK,cc_001332,IAAF
+c_001641,Joe Johnson,30,10,karate,Canada,cc_001641,IOC
+c_001748,Tina King,56,16,archery,Australia,cc_001748,WAF
+c_001015,Eric Blackwell,61,7,karate,Russia,cc_001015,IOC
+c_001791,William Wu,65,12,wrestling,China,cc_001791,IOC
+c_000256,Jessica Johnson,42,18,sport climbing,Russia,cc_000256,IOC
+c_001263,Andrew Stephens,52,12,surfing,China,cc_001263,IOC
+c_000302,Miguel Johnson,43,7,archery,India,cc_000302,WAF
+c_000887,Richard Gilmore,67,13,sport climbing,Germany,cc_000887,IOC
+c_001629,Robert Farmer,53,20,boxing,UK,cc_001629,IOC
+c_000484,Bobby Roberts,43,13,track,USA,cc_000484,IAAF
+c_000681,Kimberly Walker,35,14,decathlon,Australia,cc_000681,IAAF
+c_001217,Joel Martinez,67,1,track,Germany,cc_001217,IAAF
+c_000932,Frank Olsen,67,20,weightlifting,France,cc_000932,IOC
+c_000583,Jordan Bond,33,3,surfing,USA,cc_000583,IOC
+c_001662,Dylan Nelson,40,3,decathlon,UK,cc_001662,IAAF
+c_000076,Eric Calhoun,50,10,weightlifting,Australia,cc_000076,IOC
+c_000907,Daniel Hamilton,30,11,track,India,cc_000907,IAAF
+c_001663,Anna Anderson,59,10,wrestling,Canada,cc_001663,IOC
+c_001127,Robert Jackson,61,7,shooting,India,cc_001127,ISSF
+c_001913,Amanda Miller,30,5,shooting,Australia,cc_001913,ISSF
+c_000205,Michael Duncan,59,17,shooting,Germany,cc_000205,ISSF
+c_001899,David Burnett,68,5,weightlifting,Germany,cc_001899,IOC
+c_001645,Jennifer Lynch,35,19,sport climbing,Japan,cc_001645,IOC
+c_000166,Christine Wright,38,5,archery,UK,cc_000166,WAF
+c_000850,Sarah Morgan,48,14,sport climbing,Russia,cc_000850,IOC
+c_001767,Sarah Lewis,58,9,surfing,Germany,cc_001767,IOC
+c_001865,Katie Frank,70,13,boxing,Japan,cc_001865,IOC
+c_000538,Jonathan Sloan,33,1,swimming,Australia,cc_000538,WA
+c_000371,Jackson Matthews,30,17,fencing,France,cc_000371,IOC
+c_001322,Wanda Houston,63,13,karate,Canada,cc_001322,IOC
+c_001943,Charles Jensen,31,12,cycling,Germany,cc_001943,IOC
+c_001295,Brooke West,45,12,karate,France,cc_001295,IOC
+c_000482,Keith Becker,51,1,surfing,China,cc_000482,IOC
+c_000040,Larry Smith,50,17,sport climbing,Germany,cc_000040,IOC
+c_001482,Carl Livingston,48,13,fencing,France,cc_001482,IOC
+c_000874,Michael Stewart,33,14,cycling,India,cc_000874,IOC
+c_000950,Stephen Ramos,51,19,gymnastics,Italy,cc_000950,FIG
+c_000844,Shirley Medina,61,18,karate,France,cc_000844,IOC
+c_000426,Elizabeth White,39,19,weightlifting,France,cc_000426,IOC
+c_001934,Francisco Vang,46,16,karate,China,cc_001934,IOC
+c_001587,Mrs. Lisa Tanner DDS,68,12,boxing,Russia,cc_001587,IOC
+c_001494,Martin Sanders,67,14,karate,China,cc_001494,IOC
+c_001979,Adam Allen,30,4,shooting,Australia,cc_001979,ISSF
+c_000236,Charles Perez,66,16,track,India,cc_000236,IAAF
+c_000867,Olivia Williams,45,2,weightlifting,China,cc_000867,IOC
+c_001376,James Knight,39,13,shooting,UK,cc_001376,ISSF
+c_001820,Megan Cummings,42,9,shooting,India,cc_001820,ISSF
+c_001963,Taylor White,30,2,karate,India,cc_001963,IOC
+c_001991,Norma Lawson,69,8,fencing,USA,cc_001991,IOC
+c_000021,Alexandra Jones,50,7,shooting,Australia,cc_000021,ISSF
+c_001684,Gabrielle Robinson,40,7,boxing,UK,cc_001684,IOC
+c_000851,Kathryn Hayes,33,17,cycling,Italy,cc_000851,IOC
+c_000398,John Cardenas,59,12,fencing,Canada,cc_000398,IOC
+c_001039,Lisa Parks,56,13,archery,India,cc_001039,WAF
+c_000517,Casey Allen,67,8,boxing,USA,cc_000517,IOC
+c_001741,Tammy Payne,36,15,weightlifting,Russia,cc_001741,IOC
+c_000743,Marie Thomas,65,4,rowing,Japan,cc_000743,IOC
+c_000303,Brittany Stone,61,7,swimming,Japan,cc_000303,WA
+c_001222,Lindsay Guzman,56,18,cycling,UK,cc_001222,IOC
+c_001124,Sarah Ramirez,35,6,karate,Canada,cc_001124,IOC
+c_001189,Nicole Reeves,38,1,sport climbing,UK,cc_001189,IOC
+c_001556,Tiffany Tucker,67,4,swimming,India,cc_001556,WA
+c_001431,Justin Ward,32,8,boxing,UK,cc_001431,IOC
+c_000893,Kevin Harrington,36,5,swimming,Canada,cc_000893,WA
+c_000654,Carolyn Perry,41,19,shooting,InDiA,cc_000654,ISSF
+c_001235,Elizabeth Manning,47,11,boxing,Russia,cc_001235,IOC
+c_000744,Christopher Davis,67,18,archery,Germany,cc_000744,WAF
+c_000677,Kevin Burgess,59,7,fencing,Japan,cc_000677,IOC
+c_000168,Ian Matthews,54,3,decathlon,Russia,cc_000168,IAAF
+c_000870,Curtis Black,46,2,track,UK,cc_000870,IAAF
+c_000261,Kim Castillo,52,18,boxing,France,cc_000261,IOC
+c_001664,Dustin Smith,59,9,decathlon,Russia,cc_001664,IAAF
+c_001175,Rebecca Huerta,36,1,boxing,China,cc_001175,IOC
+c_000175,Luis Mason,37,3,wrestling,Australia,cc_000175,IOC
+c_000448,Angela Huff,31,17,decathlon,France,cc_000448,IAAF
+c_001586,Kenneth Martinez,44,12,weightlifting,Canada,cc_001586,IOC
+c_000291,Sandra Frank,36,17,gymnastics,India,cc_000291,FIG
+c_000415,Mark Taylor,42,12,boxing,France,cc_000415,IOC
+c_000625,Jonathan Moran,55,2,shooting,China,cc_000625,ISSF
+c_000676,Stephanie Ford,45,3,boxing,India,cc_000676,IOC
+c_000981,Jennifer Marquez,46,12,decathlon,Canada,cc_000981,IAAF
+c_001117,Candace Salas,54,7,rowing,Japan,cc_001117,IOC
+c_000029,Julia Hoffman,62,10,surfing,Germany,cc_000029,IOC
+c_000282,Kyle Allen,42,11,rowing,Germany,cc_000282,IOC
+c_001004,Carolyn Fritz,41,2,swimming,Russia,cc_001004,WA
+c_001944,Jerry Porter,40,10,surfing,FranCE,cc_001944,IOC
+c_000179,Patrick Kelly,68,2,track,Russia,cc_000179,IAAF
+c_001606,Ashley Perkins,58,3,surfing,USA,cc_001606,IOC
+c_001375,Jody Harris,50,5,shooting,USA,cc_001375,ISSF
+c_001289,Rachel Lopez,67,17,track,Canada,cc_001289,IAAF
+c_000351,Kimberly Leonard,47,4,surfing,Australia,cc_000351,IOC
+c_001497,Jacqueline Osborne,69,11,boxing,UK,cc_001497,IOC
+c_001525,Heather Martinez,68,9,karate,Germany,cc_001525,IOC
+c_000393,James King,63,11,boxing,France,cc_000393,IOC
+c_000796,Douglas Chavez,63,19,swimming,Italy,cc_000796,WA
+c_000536,Andrew Hartman,66,1,sport climbing,France,cc_000536,IOC
+c_000582,Leslie Davis,61,16,track,Australia,cc_000582,IAAF
+c_001693,Tiffany Gill,51,6,karate,Australia,cc_001693,IOC
+c_001481,Jeffrey Hamilton,51,19,swimming,GERmany,cc_001481,WA
+c_001572,Cheryl Ball,54,4,swimming,Australia,cc_001572,WA
+c_001746,Patricia Castillo,34,3,gymnastics,France,cc_001746,FIG
+c_001153,Mr. Jeremy Campbell,62,13,gymnastics,China,cc_001153,FIG
+c_000617,Caleb Schwartz,65,8,shooting,UK,cc_000617,ISSF
+c_001671,Deborah Johnson,31,8,cycling,Australia,cc_001671,IOC
+c_000523,Debra Gutierrez,48,12,shooting,Japan,cc_000523,ISSF
+c_000059,David Davis,33,19,cycling,Italy,cc_000059,IOC
+c_001414,Neil Sanchez,65,19,shooting,Japan,cc_001414,ISSF
+c_001843,Katherine Martin,67,13,karate,Japan,cc_001843,IOC
+c_000655,Ashley Diaz,50,13,sport climbing,jAPAN,cc_000655,IOC
+c_000572,Seth Thomas,38,17,weightlifting,USA,cc_000572,IOC
+c_001632,Christina Moore,65,4,gymnastics,Italy,cc_001632,FIG
+c_000817,Eric Miller,54,18,track,Russia,cc_000817,IAAF
+c_000116,Michael Pham,63,2,decathlon,Japan,cc_000116,IAAF
+c_000562,Allison Miles,53,3,weightlifting,UK,cc_000562,IOC
+c_000337,Michelle Johnson,69,10,surfing,Germany,cc_000337,IOC
+c_000825,Regina Washington,54,12,surfing,USA,cc_000825,IOC
+c_001860,Olivia Brooks,64,1,shooting,UK,cc_001860,ISSF
+c_001551,Tiffany Saunders,52,13,shooting,USa,cc_001551,ISSF
+c_000974,Kayla Dean,64,11,rowing,Japan,cc_000974,IOC
+c_001655,Mark Hall,60,17,wrestling,India,cc_001655,IOC
+c_001210,Rachel Welch,62,8,gymnastics,USA,cc_001210,FIG
+c_001780,Paul Mckinney,31,19,track,China,cc_001780,IAAF
+c_001658,Timothy Arellano,42,11,track,France,cc_001658,IAAF
+c_001624,Cynthia Walker,37,20,karate,Germany,cc_001624,IOC
+c_001091,Amanda Harris,45,17,wrestling,Canada,cc_001091,IOC
+c_001055,Brandy Mcdonald,66,8,swimming,Australia,cc_001055,WA
+c_000314,Brittany Hampton,41,1,boxing,Japan,cc_000314,IOC
+c_001236,Jasmine Thompson,39,3,gymnastics,Italy,cc_001236,FIG
+c_001022,Ashley Henderson,63,8,shooting,Australia,cc_001022,ISSF
+c_001591,Chloe Carrillo,58,7,track,Germany,cc_001591,IAAF
+c_000999,Jessica Grant,60,2,boxing,China,cc_000999,IOC
+c_001312,Teresa Ferguson,49,9,surfing,Russia,cc_001312,IOC
+c_001889,Gregory Mendoza,31,8,rowing,France,cc_001889,IOC
+c_000428,Kaitlin Gonzalez,49,6,shooting,Australia,cc_000428,ISSF
+c_001336,Mr. Anthony Hinton MD,68,11,karate,India,cc_001336,IOC
+c_001825,Dylan Kelley,37,18,surfing,Australia,cc_001825,IOC
+c_000115,Cindy Navarro PhD,55,1,cycling,India,cc_000115,IOC
+c_001513,Mr. Stephen Sullivan,35,9,rowing,Japan,cc_001513,IOC
+c_000680,Adam Wilson,34,5,rowing,cHinA,cc_000680,IOC
+c_000778,Amy Nichols,56,19,archery,France,cc_000778,WAF
+c_001139,Shawn Rodriguez,45,16,swimming,Japan,cc_001139,WA
+c_000226,Sheila Franklin,50,12,shooting,Japan,cc_000226,ISSF
+c_000540,Shannon Briggs MD,36,10,gymnastics,UK,cc_000540,FIG
+c_001778,Jeremy Collins,43,8,karate,Germany,cc_001778,IOC
+c_000533,Vanessa Cunningham,40,17,gymnastics,India,cc_000533,FIG
+c_000692,Kimberly Gutierrez,55,20,boxing,Australia,cc_000692,IOC
+c_001747,Zachary Reyes,69,5,sport climbing,China,cc_001747,IOC
+c_001314,Diana Ross,45,19,track,India,cc_001314,IAAF
+c_000081,Christina Griffin,45,12,boxing,Italy,cc_000081,IOC
+c_001512,Lawrence Rivera,58,9,rowing,India,cc_001512,IOC
+c_000228,Aaron Murphy,50,14,swimming,France,cc_000228,WA
+c_000070,Martin Johnson,69,16,cycling,Italy,cc_000070,IOC
+c_000139,Carlos Weaver,40,6,rowing,Germany,cc_000139,IOC
+c_001545,Rachel Dunn,37,18,archery,India,cc_001545,WAF
+c_000635,Michael Grant,61,1,boxing,France,cc_000635,IOC
+c_000284,Linda Taylor,54,15,karate,China,cc_000284,IOC
+c_001983,Juan Dickson,64,13,rowing,Russia,cc_001983,IOC
+c_000458,Anna Davis,59,5,surfing,Germany,cc_000458,IOC
+c_000633,Breanna Smith,56,5,weightlifting,Japan,cc_000633,IOC
+c_000767,Shelly Jimenez,68,19,decathlon,France,cc_000767,IAAF
+c_001031,Jeffrey Baker,59,7,sport climbing,France,cc_001031,IOC
+c_001457,Kathy Wells,47,18,shooting,India,cc_001457,ISSF
+c_000749,Michelle Bishop,41,14,archery,UK,cc_000749,WAF
+c_001284,Bianca Berry,37,11,swimming,France,cc_001284,WA
+c_001949,Melissa Miller PhD,49,9,boxing,Canada,cc_001949,IOC
+c_000997,Stephanie Barker,51,11,swimming,Germany,cc_000997,WA
+c_001802,Adam Kelly,53,10,cycling,China,cc_001802,IOC
+c_001811,Patricia Andrews,65,2,surfing,Germany,cc_001811,IOC
+c_000224,Tara Barnes,53,5,weightlifting,Italy,cc_000224,IOC
+c_000720,Edwin Sutton,45,12,archery,India,cc_000720,WAF
+c_001921,Dylan Schmidt,62,14,swimming,Germany,cc_001921,WA
+c_000637,Joseph Brown,43,6,weightlifting,Australia,cc_000637,IOC
+c_001372,Kelly Barnes,45,12,cycling,France,cc_001372,IOC
+c_001753,Anna Curry,70,19,surfing,Italy,cc_001753,IOC
+c_001892,Karen Gordon,46,5,cycling,USA,cc_001892,IOC
+c_001119,Dwayne Edwards,60,5,sport climbing,France,cc_001119,IOC
+c_000900,Michele Lee,61,16,decathlon,China,cc_000900,IAAF
+c_000163,Russell Gutierrez,48,11,karate,China,cc_000163,IOC
+c_001174,Nichole Rowe,49,6,archery,France,cc_001174,WAF
+c_001492,Justin Alexander,41,10,wrestling,Germany,cc_001492,IOC
+c_001411,Maria Armstrong,57,1,boxing,Russia,cc_001411,IOC
+c_001163,Kara Collins,49,2,boxing,France,cc_001163,IOC
+c_000721,Jerome Mcgrath,31,2,surfing,Japan,cc_000721,IOC
+c_001326,Christina Conley,66,3,gymnastics,Japan,cc_001326,FIG
+c_000155,Thomas Gutierrez,58,20,sport climbing,UK,cc_000155,IOC
+c_000675,Patricia Cole,66,9,gymnastics,Italy,cc_000675,FIG
+c_001479,Lisa Kline,30,10,decathlon,India,cc_001479,IAAF
+c_001137,Allison Taylor,58,3,sport climbing,Italy,cc_001137,IOC
+c_000576,Veronica Craig,65,18,weightlifting,Italy,cc_000576,IOC
+c_001957,Elizabeth Woodward,58,18,boxing,Australia,cc_001957,IOC
+c_001067,Miguel Brown,45,3,wrestling,USA,cc_001067,IOC
+c_000988,Katrina Russell,59,1,swimming,China,cc_000988,WA
+c_001473,Albert Barnett,49,8,track,AUStralia,cc_001473,IAAF
+c_000961,Tiffany Miller DDS,55,12,cycling,Italy,cc_000961,IOC
+c_001301,Brian Carlson,62,4,cycling,Russia,cc_001301,IOC
+c_001903,Michelle Herrera,34,14,gymnastics,USA,cc_001903,FIG
+c_000620,John Clark,35,16,gymnastics,Italy,cc_000620,FIG
+c_000093,Cole Petty,70,4,rowing,India,cc_000093,IOC
+c_000568,Jennifer Fitzpatrick,64,2,shooting,Germany,cc_000568,ISSF
+c_001814,Devin Carrillo,55,14,rowing,Australia,cc_001814,IOC
+c_000954,Anthony Miller,42,6,archery,France,cc_000954,WAF
+c_000619,Brian Davidson,48,8,cycling,Russia,cc_000619,IOC
+c_000477,Angela Jenkins,36,18,gymnastics,Italy,cc_000477,FIG
+c_001472,Ashley Thompson,60,3,fencing,China,cc_001472,IOC
+c_001573,Dr. Curtis Wiley,41,14,shooting,USA,cc_001573,ISSF
+c_000505,Jared Kelly,67,15,sport climbing,Australia,cc_000505,IOC
+c_001241,Douglas Baird,49,6,boxing,China,cc_001241,IOC
+c_000129,Dakota Cole,49,20,wrestling,France,cc_000129,IOC
+c_001256,Toni Alexander,63,4,wrestling,Canada,cc_001256,IOC
+c_001258,Steven Hernandez,51,19,cycling,Italy,cc_001258,IOC
+c_001607,Michael Johnston,38,6,decathlon,UK,cc_001607,IAAF
+c_000276,Erik Stokes,50,16,sport climbing,UK,cc_000276,IOC
+c_001493,Holly Torres,46,9,surfing,France,cc_001493,IOC
+c_000492,Andrew Bentley,55,20,decathlon,France,cc_000492,IAAF
+c_001382,Troy Johnson,50,5,fencing,Germany,cc_001382,IOC
+c_000623,Danny Patel,30,11,shooting,Germany,cc_000623,ISSF
+c_000603,Jennifer Smith,39,13,wrestling,China,cc_000603,IOC
+c_000820,Rebecca Ferguson,69,9,sport climbing,Japan,cc_000820,IOC
+c_001462,Lauren King,44,19,rowing,Australia,cc_001462,IOC
+c_001792,Amanda Velez,44,10,weightlifting,Australia,cc_001792,IOC
+c_000760,Mark Brown,35,13,track,UK,cc_000760,IAAF
+c_000578,Ryan Jones,45,18,gymnastics,JApaN,cc_000578,FIG
+c_000468,Peter Murray,56,17,surfing,Japan,cc_000468,IOC
+c_000917,Ryan Johnson,67,11,gymnastics,Italy,cc_000917,FIG
+c_001040,Jamie Jordan,35,20,wrestling,Japan,cc_001040,IOC
+c_001967,Christine Reed,35,5,archery,CHiNA,cc_001967,WAF
+c_001574,Jonathan Thompson,68,12,karate,UK,cc_001574,IOC
+c_001781,Gary Perez,61,12,surfing,Australia,cc_001781,IOC
+c_000662,Dawn Chavez,54,15,shooting,Canada,cc_000662,ISSF
+c_001146,Crystal Rosario,70,9,surfing,Canada,cc_001146,IOC
+c_001737,Linda Hall,65,6,surfing,auStRALIa,cc_001737,IOC
+c_001609,Scott Brooks,51,16,sport climbing,Russia,cc_001609,IOC
+c_000433,Joseph Mercer,49,17,decathlon,Italy,cc_000433,IAAF
+c_000898,Jared Wallace,59,1,surfing,Germany,cc_000898,IOC
+c_001942,Kevin Sawyer,36,1,sport climbing,Japan,cc_001942,IOC
+c_000808,Matthew Knight,32,13,rowing,India,cc_000808,IOC
+c_000003,Victor Love,70,10,sport climbing,Russia,cc_000003,IOC
+c_001723,Angela Lawson,38,14,karate,Germany,cc_001723,IOC
+c_000213,Karen Jones,69,20,cycling,Italy,cc_000213,IOC
+c_001428,Sherry King,43,7,archery,China,cc_001428,WAF
+c_000674,Janet House,43,16,weightlifting,Russia,cc_000674,IOC
+c_000050,Andrew Peterson,60,11,surfing,Japan,cc_000050,IOC
+c_001464,Amanda Clayton,43,17,fencing,UK,cc_001464,IOC
+c_001959,Robert Williams,33,16,sport climbing,UK,cc_001959,IOC
+c_000664,Lonnie Kelley,39,16,shooting,Italy,cc_000664,ISSF
+c_000308,Richard Moore,45,7,wrestling,USA,cc_000308,IOC
+c_000440,Mark Woodard,40,5,sport climbing,USA,cc_000440,IOC
+c_000209,Mrs. Erin Peterson DDS,64,10,karate,USA,cc_000209,IOC
+c_000356,April Cobb,59,17,archery,Italy,cc_000356,WAF
+c_001585,Jonathan Hicks,48,20,cycling,UK,cc_001585,IOC
+c_001432,Maria Evans,59,18,sport climbing,Canada,cc_001432,IOC
+c_001459,Todd Bradley,33,6,fencing,Germany,cc_001459,IOC
+c_000587,Nicholas Anderson,48,1,archery,Italy,cc_000587,WAF
+c_000196,Roger Gonzales,37,20,wrestling,China,cc_000196,IOC
+c_000728,Penny Garcia,36,3,surfing,CaNadA,cc_000728,IOC
+c_000522,Valerie Lewis,55,10,track,India,cc_000522,IAAF
+c_001908,Tammy Brown,35,20,wrestling,India,cc_001908,IOC
+c_000622,Michelle Wells,52,7,fencing,Japan,cc_000622,IOC
+c_001070,Heather Odonnell,65,8,shooting,Russia,cc_001070,ISSF
+c_000672,Christopher Mullins,70,19,weightlifting,UK,cc_000672,IOC
+c_001045,Laura Guzman,67,8,cycling,USA,cc_001045,IOC
+c_001305,Jenna Myers,67,1,boxing,Germany,cc_001305,IOC
+c_001317,Samantha Beasley,42,2,swimming,France,cc_001317,WA
+c_000777,Alexandra Gonzales,65,6,boxing,Germany,cc_000777,IOC
+c_000408,Anna Alvarez,58,6,cycling,UK,cc_000408,IOC
+c_001221,Lori Jennings,36,18,track,USA,cc_001221,IAAF
+c_000299,Sean Gray,69,10,karate,Canada,cc_000299,IOC
+c_001308,Patrick Burns,54,14,boxing,Australia,cc_001308,IOC
+c_001705,Rachel Frazier,31,4,wrestling,USA,cc_001705,IOC
+c_001599,Mr. Matthew Smith,33,16,surfing,Italy,cc_001599,IOC
+c_001126,Tiffany Nelson,64,17,weightlifting,Italy,cc_001126,IOC
+c_001869,Robin Jennings,59,8,swimming,AUsTralIa,cc_001869,WA
+c_001769,Alan Medina,41,14,boxing,China,cc_001769,IOC
+c_000771,Jamie Lopez,50,15,gymnastics,UK,cc_000771,FIG
+c_001444,Norma Smith,52,4,shooting,Russia,cc_001444,ISSF
+c_000225,Kelsey Bailey,45,14,weightlifting,India,cc_000225,IOC
+c_000908,Kristen Reynolds,35,8,weightlifting,Japan,cc_000908,IOC
+c_001288,Gwendolyn Anderson,60,15,sport climbing,UK,cc_001288,IOC
+c_002000,Todd Rogers,49,14,fencing,China,cc_002000,IOC
+c_001560,Kelly Johnson,62,15,swimming,China,cc_001560,WA
+c_001277,Chris Rodriguez,62,15,fencing,UK,cc_001277,IOC
+c_000503,Philip Johnson,63,13,boxing,France,cc_000503,IOC
+c_001131,Tammy Wright,62,7,wrestling,China,cc_001131,IOC
+c_000816,Jennifer Woodard,64,18,cycling,Canada,cc_000816,IOC
+c_001195,Christopher Garcia,56,18,track,Germany,cc_001195,IAAF
+c_000313,Jerry Peters,55,10,surfing,India,cc_000313,IOC
+c_000231,Kimberly Hawkins,56,9,sport climbing,USA,cc_000231,IOC
+c_000452,Miranda Jones,51,18,track,UK,cc_000452,IAAF
+c_001151,Dustin Davis MD,34,3,rowing,Germany,cc_001151,IOC
+c_001248,Jasmine Cox,55,19,archery,India,cc_001248,WAF
+c_001341,Virginia Jackson,47,4,karate,Australia,cc_001341,IOC
+c_001114,Jason Stone,69,6,karate,Russia,cc_001114,IOC
+c_001840,Cheryl Hayes,61,6,gymnastics,Russia,cc_001840,FIG
+c_001515,Katelyn Brewer,54,3,karate,France,cc_001515,IOC
+c_000684,Derek Crawford,43,16,swimming,Canada,cc_000684,WA
+c_001950,Paul Noble,40,15,sport climbing,ruSsia,cc_001950,IOC
+c_001531,Patricia Morales,61,18,surfing,Canada,cc_001531,IOC
+c_001859,Scott Choi,53,8,karate,USA,cc_001859,IOC
+c_000143,Lisa Harrison,43,3,decathlon,USA,cc_000143,IAAF
+c_000864,John Anderson,70,16,surfing,Japan,cc_000864,IOC
+c_001008,Nicholas Brandt,58,13,rowing,Germany,cc_001008,IOC
+c_000267,Steven Malone,56,8,surfing,Russia,cc_000267,IOC
+c_000753,Michael Burton,50,7,cycling,India,cc_000753,IOC
+c_001300,Reginald Nelson,70,17,swimming,Canada,cc_001300,WA
+c_000628,Ashley Lopez,36,1,archery,UK,cc_000628,WAF
+c_001405,Matthew Day,46,12,wrestling,France,cc_001405,IOC
+c_000649,Lori Shea,54,16,gymnastics,USA,cc_000649,FIG
+c_001912,Rebecca Caldwell,70,10,decathlon,China,cc_001912,IAAF
+c_000761,Donald Herrera,33,8,decathlon,Canada,cc_000761,IAAF
+c_001958,Diana Simmons,54,11,track,USA,cc_001958,IAAF
+c_000712,Allison Jones,65,19,weightlifting,France,cc_000712,IOC
+c_000110,Brian Boyd,33,5,shooting,USA,cc_000110,ISSF
+c_001824,Mr. David Pope MD,65,4,fencing,China,cc_001824,IOC
+c_001815,Jessica Mayer,57,4,boxing,USA,cc_001815,IOC
+c_000544,Shane Lara,45,20,shooting,India,cc_000544,ISSF
+c_001485,Tony Cole,45,14,archery,USA,cc_001485,WAF
+c_001461,Jacqueline Reed,35,6,boxing,China,cc_001461,IOC
+c_001103,Adrian Norris,69,5,track,Russia,cc_001103,IAAF
+c_001505,Gregory Price,51,18,karate,China,cc_001505,IOC
+c_000122,Kimberly Hill,49,18,rowing,UK,cc_000122,IOC
+c_000215,Melissa Perez,65,17,weightlifting,Japan,cc_000215,IOC
+c_001510,Courtney Walker,40,10,track,Russia,cc_001510,IAAF
+c_001982,Tamara Anderson,49,12,swimming,Canada,cc_001982,WA
+c_000161,Angela Carroll,63,9,gymnastics,Germany,cc_000161,FIG
+c_000480,Tammy Luna,61,19,boxing,Germany,cc_000480,IOC
+c_001204,Taylor Mathews,53,10,decathlon,India,cc_001204,IAAF
+c_001789,Angelica Kelly,43,11,karate,Germany,cc_001789,IOC
+c_001559,Brian Moore,33,16,wrestling,France,cc_001559,IOC
+c_000717,Zachary Moore,37,13,gymnastics,Canada,cc_000717,FIG
+c_001810,Donna Price,53,1,wrestling,Japan,cc_001810,IOC
+c_000551,Thomas Bradley,64,13,shooting,UK,cc_000551,ISSF
+c_001283,Edwin Lee,49,19,rowing,Germany,cc_001283,IOC
+c_000827,Michelle Blackwell,40,7,shooting,Canada,cc_000827,ISSF
+c_001689,Nicholas Dillon,39,17,sport climbing,Japan,cc_001689,IOC
+c_000509,Danielle Cole,31,15,shooting,Russia,cc_000509,ISSF
+c_001966,Gina Carter,31,12,decathlon,France,cc_001966,IAAF
+c_000237,David Sexton,63,20,cycling,jaPAn,cc_000237,IOC
+c_001716,Kenneth Baldwin,56,2,rowing,USA,cc_001716,IOC
+c_000897,Jamie Barry,30,10,weightlifting,JaPAn,cc_000897,IOC
+c_001116,Justin King,43,14,sport climbing,India,cc_001116,IOC
+c_000560,Lynn Soto,38,16,surfing,Australia,cc_000560,IOC
+c_000097,Barbara Pope,54,3,weightlifting,China,cc_000097,IOC
+c_001870,Alexis Ross,32,4,swimming,USA,cc_001870,WA
+c_000814,Jordan Jackson,56,15,archery,USA,cc_000814,WAF
+c_001275,Jennifer Henson,31,1,weightlifting,Australia,cc_001275,IOC
+c_000762,Bryan Bradford,39,18,shooting,Russia,cc_000762,ISSF
+c_000889,Tammy Lee,67,13,weightlifting,China,cc_000889,IOC
+c_000757,Amanda Conley,37,8,cycling,China,cc_000757,IOC
+c_001745,Paula Atkinson,39,12,karate,Germany,cc_001745,IOC
+c_000962,Erika Berry,49,15,cycling,India,cc_000962,IOC
+c_000866,Bradley Richardson,59,19,gymnastics,France,cc_000866,FIG
+c_000615,Austin Haley,42,12,gymnastics,Australia,cc_000615,FIG
+c_001335,Daniel Willis,66,15,karate,Italy,cc_001335,IOC
+c_000100,Kristin Case,35,5,sport climbing,UK,cc_000100,IOC
+c_001595,Bradley Moody,58,2,swimming,USA,cc_001595,WA
+c_000109,Ashley Zhang,46,6,archery,Australia,cc_000109,WAF
+c_000731,John Lester,68,18,cycling,India,cc_000731,IOC
+c_001231,Shane Harris,41,1,karate,Australia,cc_001231,IOC
+c_000687,Nathaniel Fernandez,46,7,wrestling,India,cc_000687,IOC
+c_000067,Charles Hoover,46,20,sport climbing,UK,cc_000067,IOC
+c_000405,Jay Lyons,33,15,wrestling,China,cc_000405,IOC
+c_001744,Daniel Kent,31,6,gymnastics,Japan,cc_001744,FIG
+c_000185,Amy Wyatt,37,15,cycling,China,cc_000185,IOC
+c_001429,Dana Jackson,53,16,track,Australia,cc_001429,IAAF
+c_001237,Raymond Pennington,41,19,shooting,India,cc_001237,ISSF
+c_000026,Kathleen Gray,36,1,wrestling,Italy,cc_000026,IOC
+c_000514,Jacob Crawford,43,3,wrestling,France,cc_000514,IOC
+c_000091,John Mcgee,57,1,rowing,Russia,cc_000091,IOC
+c_000835,David Jones,36,1,weightlifting,Australia,cc_000835,IOC
+c_001518,Erika House,66,16,sport climbing,USA,cc_001518,IOC
+c_001970,Benjamin Lloyd,52,3,swimming,UK,cc_001970,WA
+c_001580,Alexander Sullivan,68,18,weightlifting,Germany,cc_001580,IOC
+c_001688,Sean Fernandez,56,16,weightlifting,India,cc_001688,IOC
+c_000158,Erin Brown,61,8,surfing,Italy,cc_000158,IOC
+c_001181,Scott Dalton,65,7,archery,Italy,cc_001181,WAF
+c_000806,Jessica Elliott,49,11,decathlon,Russia,cc_000806,IAAF
+c_000624,Matthew Smith,55,5,karate,France,cc_000624,IOC
+c_000445,Larry Murillo,50,11,surfing,India,cc_000445,IOC
+c_000053,Yolanda Kelly,70,10,track,China,cc_000053,IAAF
+c_001712,Amanda Maxwell,62,13,archery,Germany,cc_001712,WAF
+c_000593,William Smith,58,18,gymnastics,Australia,cc_000593,FIG
+c_001650,Jasmine Reed,45,5,rowing,USA,cc_001650,IOC
+c_000723,Ellen Scott,58,9,shooting,France,cc_000723,ISSF
+c_000923,Brianna Peterson,38,10,rowing,Australia,cc_000923,IOC
+c_001640,Kim Anderson,55,2,gymnastics,UK,cc_001640,FIG
+c_001478,Deborah Davis,70,2,karate,Italy,cc_001478,IOC
+c_001049,Timothy Rodriguez,48,19,fencing,Italy,cc_001049,IOC
+c_000904,Melissa Mack,65,7,fencing,Canada,cc_000904,IOC
+c_000085,Karen May,62,11,track,France,cc_000085,IAAF
+c_000632,Courtney Bradley,40,3,track,India,cc_000632,IAAF
+c_001355,Clifford Ruiz,58,6,rowing,Canada,cc_001355,IOC
+c_001600,Jillian Perkins,30,19,sport climbing,India,cc_001600,IOC
+c_001451,Melanie Perez,65,11,shooting,Australia,cc_001451,ISSF
+c_000401,Cheryl Douglas,51,10,surfing,India,cc_000401,IOC
+c_000135,Michael Atkinson,45,5,wrestling,Russia,cc_000135,IOC
+c_000216,Denise Bennett,46,4,decathlon,Germany,cc_000216,IAAF
+c_000910,Shawn Wheeler,54,17,fencing,France,cc_000910,IOC
+c_001024,Brittney Olson,42,6,fencing,UK,cc_001024,IOC
+c_000590,Amy Lee DVM,66,20,rowing,Germany,cc_000590,IOC
+c_000537,Karen Bailey,36,14,decathlon,China,cc_000537,IAAF
+c_000017,Travis Davis,39,10,karate,Japan,cc_000017,IOC
+c_001371,Julie Lawrence,35,18,fencing,Germany,cc_001371,IOC
+c_000149,Michael Contreras,51,8,boxing,Japan,cc_000149,IOC
+c_000227,Joseph Mercer,30,6,archery,Germany,cc_000227,WAF
+c_001904,Nathan Kent,60,20,track,UK,cc_001904,IAAF
+c_001441,Anthony Scott,31,2,boxing,USA,cc_001441,IOC
+c_000571,Christopher Richardson,31,13,karate,Australia,cc_000571,IOC
+c_001252,Christian Kane,34,2,wrestling,China,cc_001252,IOC
+c_000591,Joseph Lindsey,53,8,swimming,France,cc_000591,WA
+c_001057,Robert Arnold,38,5,gymnastics,UK,cc_001057,FIG
+c_000483,Debbie Martin,36,17,rowing,Australia,cc_000483,IOC
+c_000326,Stephanie Payne,48,4,wrestling,Germany,cc_000326,IOC
+c_001339,Holly Dawson,59,12,weightlifting,France,cc_001339,IOC
+c_001399,Brittany Jones,62,10,swimming,Canada,cc_001399,WA
+c_000373,Richard Williams,41,5,decathlon,Australia,cc_000373,IAAF
+c_000884,Michael Bowers,45,4,karate,Italy,cc_000884,IOC
+c_001541,Willie Calhoun,36,18,track,UK,cc_001541,IAAF
+c_001496,Andrew Hahn,42,13,surfing,USA,cc_001496,IOC
+c_000600,Todd Leonard,57,13,weightlifting,Japan,cc_000600,IOC
+c_001392,Michael Phillips,66,12,sport climbing,Japan,cc_001392,IOC
+c_000251,Christopher Cox,47,3,surfing,China,cc_000251,IOC
+c_000102,Tyler Wright,68,5,karate,Russia,cc_000102,IOC
+c_001032,Martha Case,67,9,surfing,China,cc_001032,IOC
+c_001728,Courtney Alvarado,43,8,wrestling,UK,cc_001728,IOC
+c_000642,Kristina Gregory,51,13,wrestling,Italy,cc_000642,IOC
+c_000580,Diana Lam,57,1,archery,France,cc_000580,WAF
+c_001535,Veronica White,43,6,boxing,Japan,cc_001535,IOC
+c_001327,Jason Walters,32,2,swimming,Germany,cc_001327,WA
+c_001886,Steven Rowe,60,3,weightlifting,India,cc_001886,IOC
+c_000015,Amy Jackson,41,2,fencing,Italy,cc_000015,IOC
+c_001829,James Greer,31,9,weightlifting,Russia,cc_001829,IOC
+c_000890,Michael Newman,38,3,boxing,Australia,cc_000890,IOC
+c_001552,Marcus Woods,30,2,swimming,UK,cc_001552,WA
+c_000855,Latasha Griffin,43,11,decathlon,France,cc_000855,IAAF
+c_001368,Eric Bean,41,11,wrestling,Italy,cc_001368,IOC
+c_000294,Linda Rios,44,3,wrestling,France,cc_000294,IOC
+c_001083,Holly Rhodes,50,15,swimming,India,cc_001083,WA
+c_000220,George Phillips,61,9,cycling,USA,cc_000220,IOC
+c_000296,John Jones,33,18,weightlifting,Australia,cc_000296,IOC
+c_001672,Daniel Maldonado,35,8,weightlifting,USA,cc_001672,IOC
+c_000379,Vicki Bauer,41,16,fencing,India,cc_000379,IOC
+c_001918,Heather Moore,57,16,rowing,Italy,cc_001918,IOC
+c_000563,Ryan Wilkins,59,8,decathlon,Canada,cc_000563,IAAF
+c_000996,Destiny Roberts,50,18,rowing,Japan,cc_000996,IOC
+c_001130,Sharon Miller,37,3,gymnastics,France,cc_001130,FIG
+c_001247,George Daniels,53,19,decathlon,Italy,cc_001247,IAAF
+c_000564,Ryan Williams,70,20,gymnastics,Russia,cc_000564,FIG
+c_000328,William Lewis,32,3,rowing,China,cc_000328,IOC
+c_001735,Chris Alvarado,65,7,karate,France,cc_001735,IOC
+c_000329,Thomas Garcia,69,3,weightlifting,Australia,cc_000329,IOC
+c_000208,Jordan Gibbs,48,10,track,Australia,cc_000208,IAAF
+c_001766,Vanessa Kennedy,63,17,surfing,Japan,cc_001766,IOC
+c_000828,Sandra Brooks,35,9,cycling,Russia,cc_000828,IOC
+c_001668,Mrs. Melissa Thomas PhD,46,9,wrestling,Germany,cc_001668,IOC
+c_000608,Samantha Maxwell,31,17,decathlon,Russia,cc_000608,IAAF
+c_000211,Bradley Dixon PhD,60,10,archery,Canada,cc_000211,WAF
+c_000792,Thomas Stephens,69,7,fencing,USA,cc_000792,IOC
+c_000838,Aimee Choi,54,2,decathlon,Canada,cc_000838,IAAF
+c_000502,Robert Hall,42,2,swimming,Germany,cc_000502,WA
+c_001952,Wanda Davis,33,14,wrestling,India,cc_001952,IOC
+c_000423,Jesse Odonnell,52,13,archery,India,cc_000423,WAF
+c_001528,Heidi Robinson,54,2,boxing,Australia,cc_001528,IOC
+c_000956,Jeremiah Hernandez,49,19,sport climbing,Australia,cc_000956,IOC
+c_000270,Mrs. Lisa Long MD,63,10,track,Japan,cc_000270,IAAF
+c_001603,James Smith,48,6,karate,France,cc_001603,IOC
+c_001021,Pamela Forbes,66,6,sport climbing,China,cc_001021,IOC
+c_000271,Melanie Rojas,68,16,wrestling,Germany,cc_000271,IOC
+c_000865,Katherine Bailey,35,5,shooting,Germany,cc_000865,ISSF
+c_001710,Adam Meyer,31,10,swimming,India,cc_001710,WA
+c_000630,Thomas Pena,33,16,weightlifting,Russia,cc_000630,IOC
+c_001469,Jennifer Smith,46,1,wrestling,Japan,cc_001469,IOC
+c_001564,Justin Alexander,38,1,decathlon,Canada,cc_001564,IAAF
+c_001179,Laura Johnson,63,1,decathlon,Canada,cc_001179,IAAF
+c_001775,Alan Boyd,31,14,boxing,Italy,cc_001775,IOC
+c_000689,William Ross,61,12,boxing,Germany,cc_000689,IOC
+c_001135,Robert Montgomery,31,10,wrestling,Canada,cc_001135,IOC
+c_001144,Eric Bean,36,18,archery,USA,cc_001144,WAF
+c_000739,Daniel Stanley,46,12,swimming,Canada,cc_000739,WA
+c_000258,Kimberly Fitzgerald,33,17,decathlon,India,cc_000258,IAAF
+c_000444,Russell Rogers,38,19,rowing,Italy,cc_000444,IOC
+c_000639,Scott Herring,43,17,swimming,UK,cc_000639,WA
+c_000759,Johnathan Chapman,48,6,gymnastics,USA,cc_000759,FIG
+c_001490,Stephen Kelly,48,19,gymnastics,India,cc_001490,FIG
+c_000411,Norma Tyler,68,15,sport climbing,Italy,cc_000411,IOC
+c_000049,Nathan Davis,53,11,sport climbing,India,cc_000049,IOC
+c_001147,Patrick Johnson,56,19,swimming,Russia,cc_001147,WA
+c_001751,April Warren,40,10,shooting,Canada,cc_001751,ISSF
+c_001337,Mark Hensley,45,15,shooting,Japan,cc_001337,ISSF
+c_000813,Mary Bradley,31,1,cycling,AusTraLIA,cc_000813,IOC
+c_001953,Ricky White,58,6,rowing,Japan,cc_001953,IOC
+c_000006,Terry Lawrence,53,9,boxing,Japan,cc_000006,IOC
+c_000921,Jessica Hodge,58,9,cycling,France,cc_000921,IOC
+c_000986,Kendra Montoya,55,4,track,Germany,cc_000986,IAAF
+c_000365,Natalie Miller,51,5,karate,Canada,cc_000365,IOC
+c_001984,Carol Anderson,46,10,cycling,Italy,cc_001984,IOC
+c_001065,Gina Bates,68,14,weightlifting,China,cc_001065,IOC
+c_001894,Jeffery Sullivan,54,14,cycling,Canada,cc_001894,IOC
+c_000643,Andrea White,44,10,shooting,India,cc_000643,ISSF
+c_001521,Pamela Crawford,50,16,rowing,Russia,cc_001521,IOC
+c_000849,Crystal Hancock,58,11,track,Canada,cc_000849,IAAF
+c_001450,Briana Evans,62,14,weightlifting,China,cc_001450,IOC
+c_000199,Billy Walters,37,14,sport climbing,UK,cc_000199,IOC
+c_001006,Kristine Cooke,60,2,surfing,India,cc_001006,IOC
+c_000490,Jon George,56,4,decathlon,Japan,cc_000490,IAAF
+c_001489,Elizabeth Castillo DDS,48,3,track,Italy,cc_001489,IAAF
+c_000665,Elizabeth Morales,68,3,cycling,India,cc_000665,IOC
+c_000145,Meghan Schmidt,41,8,wrestling,Canada,cc_000145,IOC
+c_000217,James Nichols,44,19,rowing,France,cc_000217,IOC
+c_000709,Michele Martin,38,1,track,India,cc_000709,IAAF
+c_000063,Connie Bates,49,8,decathlon,France,cc_000063,IAAF
+c_000023,Kathy Bowman,58,6,swimming,UK,cc_000023,WA
+c_000779,Kathy Hodge,68,1,decathlon,China,cc_000779,IAAF
+c_000841,Patrick Gutierrez,61,9,gymnastics,India,cc_000841,FIG
+c_001071,Kristina Snyder,61,9,archery,Italy,cc_001071,WAF
+c_001418,Brandy Davenport,46,10,sport climbing,Australia,cc_001418,IOC
+c_000192,Priscilla Webb,37,11,shooting,India,cc_000192,ISSF
+c_001931,Connor Grant,32,16,weightlifting,Japan,cc_001931,IOC
+c_001760,Rodney Burton,31,20,gymnastics,USA,cc_001760,FIG
+c_001282,Kelly Green,70,1,weightlifting,Japan,cc_001282,IOC
+c_001818,Jocelyn Rodriguez,37,16,wrestling,Russia,cc_001818,IOC
+c_001415,Tyler Ramsey,37,5,gymnastics,Germany,cc_001415,FIG
+c_001592,James Sanchez Jr.,64,12,shooting,France,cc_001592,ISSF
+c_001145,Louis Greene,35,12,weightlifting,UK,cc_001145,IOC
+c_000019,Tiffany Dominguez,59,11,decathlon,France,cc_000019,IAAF
+c_000210,Toni Washington,55,5,rowing,UK,cc_000210,IOC
+c_000871,Monique Greene,53,7,wrestling,Canada,cc_000871,IOC
+c_000364,Ryan Vance,67,6,surfing,UK,cc_000364,IOC
+c_000773,Joshua Alvarez,51,12,gymnastics,Russia,cc_000773,FIG
+c_001491,Patrick Parker,41,18,rowing,Japan,cc_001491,IOC
+c_001784,Tina Fisher,36,1,archery,Canada,cc_001784,WAF
+c_000133,Tonya Baker,65,9,swimming,UK,cc_000133,WA
+c_000471,Todd West,65,16,swimming,China,cc_000471,WA
+c_001187,David Wall,62,4,gymnastics,Australia,cc_001187,FIG
+c_000501,Jessica Nelson,63,7,cycling,Japan,cc_000501,IOC
+c_000640,Timothy Schmitt,41,6,gymnastics,Canada,cc_000640,FIG
+c_001577,Bryan Kent,48,18,rowing,Italy,cc_001577,IOC
+c_000901,Alexis Williams,62,15,weightlifting,Australia,cc_000901,IOC
+c_001280,Tyrone Burke,57,1,cycling,Italy,cc_001280,IOC
+c_001874,Melissa Burgess,33,13,wrestling,Italy,cc_001874,IOC
+c_000222,Howard Moore,68,12,sport climbing,Canada,cc_000222,IOC
+c_000707,Carolyn Bryant,37,18,sport climbing,Russia,cc_000707,IOC
+c_001985,Robert Weeks,41,14,rowing,India,cc_001985,IOC
+c_000948,Shane Parker,39,18,cycling,Canada,cc_000948,IOC
+c_000495,Patricia Schroeder,30,1,decathlon,USA,cc_000495,IAAF
+c_001696,Sarah Bradley,67,14,karate,Canada,cc_001696,IOC
+c_001519,Janet White DVM,49,8,cycling,UK,cc_001519,IOC
+c_001316,Gary Singh MD,39,8,sport climbing,Germany,cc_001316,IOC
+c_001107,Brittney Lester,66,7,decathlon,Germany,cc_001107,IAAF
+c_001544,Robert Harper,57,17,boxing,Italy,cc_001544,IOC
+c_001053,Benjamin Coleman,30,6,swimming,France,cc_001053,WA
+c_000704,William Mcclain,36,16,cycling,USA,cc_000704,IOC
+c_000465,Derrick Peterson,37,16,track,Russia,cc_000465,IAAF
+c_000157,Tommy Norris,47,20,karate,Russia,cc_000157,IOC
+c_000125,Tammy Hart,31,12,shooting,Italy,cc_000125,ISSF
+c_000007,Mark Rodriguez,42,18,weightlifting,Germany,cc_000007,IOC
+c_001192,Kelly Benton,42,19,shooting,Italy,cc_001192,ISSF
+c_001971,Virginia Martin,51,11,sport climbing,Canada,cc_001971,IOC
+c_000028,Jeremy Robinson,46,11,shooting,jaPAn,cc_000028,ISSF
+c_001648,Anna Davis,36,5,rowing,cHina,cc_001648,IOC
+c_000475,Erica Stanley,44,1,rowing,Canada,cc_000475,IOC
+c_000147,Dawn Smith,61,3,cycling,Italy,cc_000147,IOC
+c_000690,Shawn Wilson,57,11,swimming,France,cc_000690,WA
+c_001932,Debra Harris,63,8,sport climbing,Germany,cc_001932,IOC
+c_001233,Heather Garza,53,17,surfing,UK,cc_001233,IOC
+c_001924,Stephanie Beck,38,10,sport climbing,Australia,cc_001924,IOC
+c_000579,Mrs. Ebony Williams,59,7,archery,Germany,cc_000579,WAF
+c_001084,Sabrina Simmons,30,2,fencing,Japan,cc_001084,IOC
+c_001555,Jason Wright,63,2,rowing,Italy,cc_001555,IOC
+c_000812,Aaron Johnson,31,17,rowing,China,cc_000812,IOC
+c_001620,Amber Johnson,64,16,fencing,Russia,cc_001620,IOC
+c_000061,Monica Houston,47,5,track,Japan,cc_000061,IAAF
+c_000446,Timothy Fields,51,17,rowing,Japan,cc_000446,IOC
+c_001097,Linda Mullins,31,11,weightlifting,fRance,cc_001097,IOC
+c_000345,Edward Johnston,49,9,gymnastics,Italy,cc_000345,FIG
+c_001000,Jacob Ruiz,49,10,swimming,Australia,cc_001000,WA
+c_001303,Reginald Walker,44,14,swimming,iNdIA,cc_001303,WA
+c_001088,Danny Cook,42,7,track,Australia,cc_001088,IAAF
+c_000148,Kelly Davis,65,6,fencing,India,cc_000148,IOC
+c_001383,Meagan Orr,70,19,fencing,France,cc_001383,IOC
+c_001608,Angela Wheeler,40,11,boxing,Canada,cc_001608,IOC
+c_000521,Kelly Smith,31,19,sport climbing,Italy,cc_000521,IOC
+c_001198,Stephanie Mitchell,66,1,decathlon,Australia,cc_001198,IAAF
+c_000181,Douglas Walker,50,17,archery,India,cc_000181,WAF
+c_000198,Emma Nelson,57,17,cycling,USA,cc_000198,IOC
+c_000928,Heather Harris,43,5,archery,Italy,cc_000928,WAF
+c_001001,William Frazier,69,6,track,USA,cc_001001,IAAF
+c_001043,Lindsay Arroyo,45,17,rowing,China,cc_001043,IOC
+c_000978,Dr. Rachel Johnson DVM,68,12,cycling,Australia,cc_000978,IOC
+c_000119,Thomas Ryan,44,10,karate,China,cc_000119,IOC
+c_001998,Logan Sanchez,34,14,surfing,Germany,cc_001998,IOC
+c_001046,Dr. Ebony Hayes,40,17,track,UK,cc_001046,IAAF
+c_000747,Robert Wilson,56,13,shooting,Australia,cc_000747,ISSF
+c_001878,Charles Castillo,37,18,wrestling,France,cc_001878,IOC
+c_001647,Cynthia Hartman,43,14,boxing,France,cc_001647,IOC
+c_000592,Scott Wood,42,11,surfing,China,cc_000592,IOC
+c_001857,Timothy Taylor,67,12,decathlon,China,cc_001857,IAAF
+c_000854,Karla Logan,64,18,track,Germany,cc_000854,IAAF
+c_000823,Krystal English,68,5,rowing,China,cc_000823,IOC
+c_001276,Logan Randolph,48,6,wrestling,USA,cc_001276,IOC
+c_000531,Alexandra Sullivan,56,19,surfing,Russia,cc_000531,IOC
+c_000911,Deanna Fernandez,43,10,track,China,cc_000911,IAAF
+c_000906,Ronald Moreno,51,4,surfing,Italy,cc_000906,IOC
+c_001398,Emily Carter,30,8,sport climbing,UK,cc_001398,IOC
+c_001078,Kenneth Jordan,32,7,boxing,USA,cc_001078,IOC
+c_001112,Randy Smith,55,1,karate,UK,cc_001112,IOC
+c_000041,Nancy Benson,35,12,surfing,France,cc_000041,IOC
+c_000581,Eugene Johnson,34,2,karate,China,cc_000581,IOC
+c_000317,Ryan Hayes,66,2,wrestling,China,cc_000317,IOC
+c_000793,Kristy Paul,59,18,archery,UK,cc_000793,WAF
+c_000701,Michelle White,59,20,weightlifting,France,cc_000701,IOC
+c_001836,Anthony Thompson,31,1,sport climbing,Australia,cc_001836,IOC
+c_000417,Sean Simpson,63,1,gymnastics,Australia,cc_000417,FIG
+c_001475,Emily Mckinney,40,7,karate,UK,cc_001475,IOC
+c_001762,Candace Patrick,39,15,sport climbing,CanAda,cc_001762,IOC
+c_000078,Ethan Jackson,50,8,gymnastics,UK,cc_000078,FIG
+c_001722,Mary Brown,34,8,gymnastics,Japan,cc_001722,FIG
+c_000349,Elizabeth Brown,52,19,weightlifting,France,cc_000349,IOC
+c_001783,Daniel Moon,60,8,karate,UK,cc_001783,IOC
+c_000973,Rachel Thomas,31,4,shooting,India,cc_000973,ISSF
+c_001129,Alicia Lindsey,35,13,fencing,Germany,cc_001129,IOC
+c_001500,Timothy Conway,48,13,rowing,Italy,cc_001500,IOC
+c_000875,Robert Hughes,39,12,shooting,Japan,cc_000875,ISSF
+c_000066,Nicole Green,59,2,track,USA,cc_000066,IAAF
+c_000574,Margaret Kim,39,11,rowing,Canada,cc_000574,IOC
+c_000242,Brianna Phillips,66,11,rowing,USA,cc_000242,IOC
+c_000570,Michael Cook,67,5,wrestling,China,cc_000570,IOC
+c_000685,Edward Garcia,62,8,shooting,Russia,cc_000685,ISSF
+c_000883,David Hahn,34,8,weightlifting,Russia,cc_000883,IOC
+c_000518,Alison Flores,41,9,swimming,UK,cc_000518,WA
+c_001369,Keith Sampson,51,18,karate,India,cc_001369,IOC
+c_000528,Veronica Jones,39,8,swimming,USA,cc_000528,WA
+c_000052,Lauren Davies,35,1,surfing,France,cc_000052,IOC
+c_001207,Robert Lopez,33,2,gymnastics,France,cc_001207,FIG
+c_000441,Rebecca Hunt DDS,34,7,karate,UK,cc_000441,IOC
+c_001901,Tommy Chase,69,20,sport climbing,China,cc_001901,IOC
+c_000152,Paul Stevens,36,11,sport climbing,China,cc_000152,IOC
+c_000443,George Whitaker,55,15,boxing,Russia,cc_000443,IOC
+c_001720,Cassandra Frederick,35,16,archery,Italy,cc_001720,WAF
+c_000191,Timothy Gregory,57,20,swimming,Italy,cc_000191,WA
+c_000126,Veronica Valdez,48,11,wrestling,India,cc_000126,IOC
+c_000262,Sara Brown,48,12,weightlifting,China,cc_000262,IOC
+c_000869,Beverly Ortiz,57,13,archery,USA,cc_000869,WAF
+c_000095,Tyler Allen,48,14,wrestling,Germany,cc_000095,IOC
+c_000504,Walter Johnson,58,16,fencing,China,cc_000504,IOC
+c_001220,Carol Henderson,39,17,karate,Australia,cc_001220,IOC
+c_001072,Amber Perkins,54,16,wrestling,India,cc_001072,IOC
+c_001184,Stephanie Wood,34,19,karate,Germany,cc_001184,IOC
+c_000331,Gabriel Mcfarland,35,15,swimming,uK,cc_000331,WA
+c_001922,Michelle Wilson,32,11,surfing,France,cc_001922,IOC
+c_000810,Keith Schultz,47,16,karate,Germany,cc_000810,IOC
+c_000422,Rachel Kennedy,45,16,archery,Italy,cc_000422,WAF
+c_001138,Andrea Kelly,64,16,gymnastics,India,cc_001138,FIG
+c_001387,Peter Chen,40,9,weightlifting,UK,cc_001387,IOC
+c_001329,Maurice Hall,59,17,weightlifting,China,cc_001329,IOC
+c_000878,Jose Johnson,30,3,fencing,China,cc_000878,IOC
+c_000253,George Williams,33,7,boxing,USA,cc_000253,IOC
+c_001550,Andrew Guerra,56,7,swimming,Australia,cc_001550,WA
+c_001601,Tammy Saunders,68,6,wrestling,Japan,cc_001601,IOC
+c_001677,Joshua Chavez,47,7,track,India,cc_001677,IAAF
+c_001328,Cory Hall,32,4,surfing,France,cc_001328,IOC
+c_000358,Heather Phelps,36,17,track,Japan,cc_000358,IAAF
+c_000333,Anthony Carter,34,20,surfing,Russia,cc_000333,IOC
+c_000926,Yesenia Hughes,41,13,rowing,Canada,cc_000926,IOC
+c_000706,Tyler Scott,49,19,swimming,Canada,cc_000706,WA
+c_000450,Elizabeth Nunez,60,17,weightlifting,Australia,cc_000450,IOC
+c_001669,Alyssa Lawson,69,20,surfing,France,cc_001669,IOC
+c_001038,Zachary Sanders,64,16,decathlon,Italy,cc_001038,IAAF
+c_001297,Alejandra Taylor,52,2,gymnastics,Australia,cc_001297,FIG
+c_000359,Angela Bailey,31,20,swimming,Germany,cc_000359,WA
+c_001651,Holly Nelson,40,13,archery,UK,cc_001651,WAF
+c_001364,Robert Jones,50,2,archery,USA,cc_001364,WAF
+c_000451,Alison Smith,39,20,cycling,USA,cc_000451,IOC
+c_000055,Bonnie Miles,66,13,archery,USA,cc_000055,WAF
+c_001226,Sheila Richard,60,14,fencing,India,cc_001226,IOC
+c_000567,Ronald Riley,52,2,karate,JAPaN,cc_000567,IOC
+c_000646,Eric Soto,41,20,shooting,France,cc_000646,ISSF
+c_000020,Megan Sandoval,36,9,weightlifting,China,cc_000020,IOC
+c_001409,Jessica Brown,56,7,shooting,UK,cc_001409,ISSF
+c_001082,Tasha Nelson,36,4,cycling,Italy,cc_001082,IOC
+c_000577,Alicia Roberts,40,13,decathlon,India,cc_000577,IAAF
+c_000132,Ethan Lynch,41,3,gymnastics,USA,cc_000132,FIG
+c_001094,Edward Yoder,45,7,fencing,India,cc_001094,IOC
+c_000384,Stephanie Johnson,38,11,karate,Australia,cc_000384,IOC
+c_000002,Cynthia Page,55,16,gymnastics,Canada,cc_000002,FIG
+c_000018,Natalie Farrell,41,18,fencing,Germany,cc_000018,IOC
+c_001988,Amber Schultz,70,5,fencing,France,cc_001988,IOC
+c_001902,Samantha Kennedy,55,12,shooting,Australia,cc_001902,ISSF
+c_000054,Bryan Wilkinson,46,12,decathlon,Australia,cc_000054,IAAF
+c_000500,Bobby James,35,20,fencing,India,cc_000500,IOC
+c_001597,Jennifer Stevens,67,14,weightlifting,Canada,cc_001597,IOC
+c_000212,Kathleen Bates,34,15,decathlon,Russia,cc_000212,IAAF
+c_001698,Christopher Green,41,12,gymnastics,Italy,cc_001698,FIG
+c_000725,Donna Lee,33,13,surfing,Australia,cc_000725,IOC
+c_001108,Diane Osborn,70,10,fencing,France,cc_001108,IOC
+c_000430,Kellie Wolf,62,11,rowing,UK,cc_000430,IOC
+c_001914,Jaclyn Hicks,33,12,karate,USA,cc_001914,IOC
+c_001563,Jeffrey Gray,45,5,weightlifting,UK,cc_001563,IOC
+c_001683,Alexandra Rios,50,8,gymnastics,USA,cc_001683,FIG
+c_000056,Cynthia Williams,49,2,archery,UK,cc_000056,WAF
+c_001164,Michael Carpenter,65,18,weightlifting,China,cc_001164,IOC
+c_001523,Rodney Brown,35,3,wrestling,India,cc_001523,IOC
+c_000952,Robert Mitchell,65,9,fencing,Japan,cc_000952,IOC
+c_001291,Scott Palmer,54,10,gymnastics,Italy,cc_001291,FIG
+c_001972,Edward Butler,43,6,shooting,Russia,cc_001972,ISSF
+c_000688,Michelle Young,54,17,track,Japan,cc_000688,IAAF
+c_000456,Jessica Smith,33,19,surfing,India,cc_000456,IOC
+c_001455,Andrew Lopez,47,14,decathlon,Russia,cc_001455,IAAF
+c_000098,Thomas Carpenter,51,14,swimming,Australia,cc_000098,WA
+c_001565,Paul Jones,69,7,sport climbing,Russia,cc_001565,IOC
+c_001646,Daniel Carpenter,57,19,sport climbing,Germany,cc_001646,IOC
+c_000255,Amber Henry,69,1,archery,Canada,cc_000255,WAF
+c_000173,Ronald Walker,47,19,shooting,France,cc_000173,ISSF
+c_000378,Valerie Rice,41,9,track,Italy,cc_000378,IAAF
+c_000380,Stephanie Dudley,39,16,track,Japan,cc_000380,IAAF
+c_001975,Susan Moore,48,19,swimming,JaPaN,cc_001975,WA
+c_000780,Phillip Hughes,47,5,karate,Australia,cc_000780,IOC
+c_000146,Casey Brown,34,16,boxing,Russia,cc_000146,IOC
+c_000170,John Rasmussen,57,10,sport climbing,India,cc_000170,IOC
+c_000022,Earl Roberts,69,7,sport climbing,uSA,cc_000022,IOC
+c_000791,Dominique Wolf,47,6,shooting,Australia,cc_000791,ISSF
+c_001354,Katherine Mitchell,70,8,fencing,UK,cc_001354,IOC
+c_000045,Bradley Martinez,53,17,archery,UK,cc_000045,WAF
+c_001111,Cynthia Black,47,14,boxing,USA,cc_001111,IOC
+c_001772,Jessica Wood,38,17,wrestling,UK,cc_001772,IOC
+c_001714,Michael James,67,11,decathlon,China,cc_001714,IAAF
+c_001713,James Rodriguez,30,8,wrestling,France,cc_001713,IOC
+c_000818,Katie Reed,66,7,track,Italy,cc_000818,IAAF
+c_001657,Sally Singleton,37,8,sport climbing,Germany,cc_001657,IOC
+c_001553,Anna Morris,34,20,swimming,Canada,cc_001553,WA
+c_001413,Jenna Bush,51,11,cycling,India,cc_001413,IOC
+c_000550,Ryan Miller,37,15,fencing,USA,cc_000550,IOC
+c_000599,Danny Wagner,41,13,cycling,India,cc_000599,IOC
+c_000985,Matthew Skinner Jr.,54,2,gymnastics,Japan,cc_000985,FIG
+c_001069,Maria Becker,30,4,weightlifting,Canada,cc_001069,IOC
+c_001801,David Foster,53,9,gymnastics,France,cc_001801,FIG
+c_000190,Jacqueline Jones,64,5,cycling,Russia,cc_000190,IOC
+c_001636,Kevin Ayala,56,5,fencing,France,cc_001636,IOC
+c_000831,Danielle Harrington,37,4,boxing,Japan,cc_000831,IOC
+c_000309,Holly Wiggins,51,10,karate,UK,cc_000309,IOC
+c_000802,Kaitlyn Robinson,63,13,sport climbing,Australia,cc_000802,IOC
+c_000101,Andrea Strickland,58,14,cycling,Canada,cc_000101,IOC
+c_000963,Andrew Palmer,60,11,gymnastics,Japan,cc_000963,FIG
+c_000511,Ashley Mendez,53,8,surfing,India,cc_000511,IOC
+c_001037,Mark Jenkins,59,15,decathlon,Russia,cc_001037,IAAF
+c_000653,Pamela Sawyer,59,14,shooting,Italy,cc_000653,ISSF
+c_000195,Terri Williams,64,7,wrestling,France,cc_000195,IOC
+c_001702,Tyler Hill,69,1,rowing,France,cc_001702,IOC
+c_001575,Jocelyn Barnes,37,17,fencing,Canada,cc_001575,IOC
+c_000381,Rebecca Anderson,45,20,cycling,GERMANy,cc_000381,IOC
+c_000238,Erin Lowery,70,4,rowing,Germany,cc_000238,IOC
+c_000363,Todd Mercado,42,1,swimming,USA,cc_000363,WA
+c_001245,Jeffrey Forbes,63,11,swimming,Canada,cc_001245,WA
+c_000113,Jean Baldwin MD,63,6,surfing,Russia,cc_000113,IOC
+c_001183,Mark Martinez,68,7,gymnastics,Japan,cc_001183,FIG
+c_000389,Dr. Matthew Davidson,43,11,shooting,Italy,cc_000389,ISSF
+c_000442,Robert Hawkins,38,6,track,Canada,cc_000442,IAAF
+c_001324,Madeline Henson,60,6,weightlifting,Italy,cc_001324,IOC
+c_001895,Johnny Mcmillan,61,1,wrestling,Russia,cc_001895,IOC
+c_001458,Mark Richards,49,2,decathlon,Japan,cc_001458,IAAF
+c_001442,Mark Lopez,38,2,cycling,UK,cc_001442,IOC
+c_000764,Michael Flores,62,16,archery,India,cc_000764,WAF
+c_001856,Sandra Neal,65,10,fencing,fRAncE,cc_001856,IOC
+c_000895,Aaron Martin,65,13,boxing,Italy,cc_000895,IOC
+c_001643,Kenneth Harris,46,17,shooting,Italy,cc_001643,ISSF
+c_000915,Derek Ramirez,61,18,wrestling,Canada,cc_000915,IOC
+c_000010,Sarah White,54,9,karate,Australia,cc_000010,IOC
+c_001074,Julia Figueroa,65,6,shooting,Germany,cc_001074,ISSF
+c_000202,Xavier Massey,30,12,sport climbing,Italy,cc_000202,IOC
+c_001250,Debra Mendoza,31,1,weightlifting,Germany,cc_001250,IOC
+c_000034,Shannon Hall,39,1,archery,UK,cc_000034,WAF
+c_001255,Samuel Owens,54,6,cycling,UK,cc_001255,IOC
+c_000942,Ashley Chapman,61,2,weightlifting,Germany,cc_000942,IOC
+c_000112,Matthew Dunlap,47,13,boxing,Canada,cc_000112,IOC
+c_000035,Sheila Carson,40,20,boxing,Canada,cc_000035,IOC
+c_000891,Stephanie Lewis,53,15,decathlon,USA,cc_000891,IAAF
+c_001321,Justin Pierce,51,9,boxing,UK,cc_001321,IOC
+c_001661,John Webb,38,11,decathlon,USA,cc_001661,IAAF
+c_000154,Marie Boone,39,7,fencing,USA,cc_000154,IOC
+c_001059,Jessica King,35,19,cycling,Russia,cc_001059,IOC
+c_001098,Laura Humphrey,40,13,weightlifting,China,cc_001098,IOC
+c_001584,Jennifer Coleman,66,19,swimming,USA,cc_001584,WA
+c_000829,Sarah Wilson,53,3,track,Italy,cc_000829,IAAF
+c_000350,Tina Blair,52,7,wrestling,China,cc_000350,IOC
+c_000304,Cynthia Adams,60,2,weightlifting,Germany,cc_000304,IOC
+c_000131,Darrell Li,47,6,rowing,Australia,cc_000131,IOC
+c_001960,Jacob Green,65,10,fencing,Canada,cc_001960,IOC
+c_001731,Amy Perez,50,6,weightlifting,Italy,cc_001731,IOC
+c_000837,Mark Taylor,32,9,shooting,UK,cc_000837,ISSF
+c_000770,Pamela Roy,60,17,sport climbing,USA,cc_000770,IOC
+c_001845,Victoria Horton,30,9,track,France,cc_001845,IAAF
+c_000768,Jonathan Glover,49,20,karate,China,cc_000768,IOC
+c_001759,Sean Fields,34,13,surfing,AUStraLia,cc_001759,IOC
+c_000396,Mark Sims,53,7,weightlifting,USA,cc_000396,IOC
+c_000845,Gregory Holland,52,17,weightlifting,China,cc_000845,IOC
+c_000407,Hailey Alvarado,50,20,swimming,USA,cc_000407,WA
+c_001202,Tracy Hill,62,18,fencing,Russia,cc_001202,IOC
+c_000051,Michael Ellison,60,19,archery,Germany,cc_000051,WAF
+c_001533,Melanie Matthews DDS,53,4,boxing,Italy,cc_001533,IOC
+c_000930,Rhonda Greene,47,18,sport climbing,Japan,cc_000930,IOC
+c_001676,Ashley Sparks,52,8,surfing,Italy,cc_001676,IOC
+c_000397,Robin Hernandez,38,9,archery,UK,cc_000397,WAF
+c_001951,Mark Harper,57,16,rowing,Italy,cc_001951,IOC
+c_000546,Erik Hernandez,63,17,sport climbing,Germany,cc_000546,IOC
+c_001063,Brandon Warren,54,3,weightlifting,Germany,cc_001063,IOC
+c_000235,Jennifer Hayes,47,10,cycling,Italy,cc_000235,IOC
+c_001152,Bonnie Tran,68,12,sport climbing,fRANCE,cc_001152,IOC
+c_001548,Joseph Joyce,50,11,surfing,France,cc_001548,IOC
+c_000008,Ryan Howard,48,18,rowing,France,cc_000008,IOC
+c_000151,Daniel Flores,53,6,surfing,France,cc_000151,IOC
+c_000724,Brianna Mercer,40,2,decathlon,China,cc_000724,IAAF
+c_000083,Darius Vasquez,33,14,fencing,Japan,cc_000083,IOC
+c_000508,Jennifer Jarvis,48,10,archery,Canada,cc_000508,WAF
+c_001230,Andrea Whitehead,43,13,rowing,China,cc_001230,IOC
+c_000279,Zachary Ramirez,50,13,archery,Italy,cc_000279,WAF
+c_000362,Xavier Smith,34,9,wrestling,Australia,cc_000362,IOC
+c_001867,Marc Gonzalez,36,11,surfing,France,cc_001867,IOC
+c_001141,Randall Taylor,49,11,karate,France,cc_001141,IOC
+c_001095,Kayla Hess,65,2,wrestling,Japan,cc_001095,IOC
+c_001356,Andre Campbell,68,6,archery,Russia,cc_001356,WAF
+c_000652,Nicole Kennedy,62,18,karate,Russia,cc_000652,IOC
+c_001621,Gregory Harris,58,13,fencing,Italy,cc_001621,IOC
+c_000547,Stephanie Eaton,35,1,swimming,France,cc_000547,WA
+c_000036,Amber Jensen,69,12,karate,Russia,cc_000036,IOC
+c_001834,Sarah Scott,68,19,track,fRANce,cc_001834,IAAF
+c_000472,Sarah Reed,70,17,track,Australia,cc_000472,IAAF
+c_001855,Adrienne Lee,59,19,boxing,Germany,cc_001855,IOC
+c_000323,Ashlee Nelson,53,10,surfing,Italy,cc_000323,IOC
+c_001463,Shannon Day,65,7,wrestling,USA,cc_001463,IOC
+c_000991,Linda Weber,43,4,swimming,UK,cc_000991,WA
+c_001377,Karen Patrick,45,10,gymnastics,Canada,cc_001377,FIG
+c_000861,Kimberly Orozco,33,17,decathlon,Russia,cc_000861,IAAF
+c_001278,Adam Matthews,36,7,archery,Canada,cc_001278,WAF
+c_001104,Craig Andrews,55,10,decathlon,Italy,cc_001104,IAAF
+c_001498,Courtney Russell,56,13,wrestling,cAnadA,cc_001498,IOC
+c_000987,Andre Flowers,52,3,surfing,France,cc_000987,IOC
+c_001219,Joseph Humphrey,40,7,surfing,China,cc_001219,IOC
+c_001267,Steven Rivera,54,5,karate,Canada,cc_001267,IOC
+c_001218,Latoya Johnson,34,17,fencing,France,cc_001218,IOC
+c_001090,Harry Mayo,60,7,boxing,UK,cc_001090,IOC
+c_001379,Donna White,68,20,archery,Italy,cc_001379,WAF
+c_001298,Garrett Walters,64,15,surfing,USA,cc_001298,IOC
+c_001293,Robert Smith,57,20,decathlon,Japan,cc_001293,IAAF
+c_001986,Robert Moore,33,17,swimming,Japan,cc_001986,WA
+c_000400,Veronica Hendricks,36,6,sport climbing,Italy,cc_000400,IOC
+c_001199,Daniel Love,46,16,gymnastics,USA,cc_001199,FIG
+c_000960,Jordan Lane,32,3,gymnastics,Russia,cc_000960,FIG
+c_000286,Isaac Fox,34,18,wrestling,USA,cc_000286,IOC
+c_001208,James Bender,42,20,decathlon,China,cc_001208,IAAF
+c_000555,Kevin Beck,36,14,wrestling,India,cc_000555,IOC
+c_001708,Rebecca Delgado,57,13,gymnastics,Russia,cc_001708,FIG
+c_000120,Ryan Perry,38,17,wrestling,AUSTRAlIa,cc_000120,IOC
+c_000595,Rachel Vega,48,8,swimming,UK,cc_000595,WA
+c_001036,Beth Chapman,50,17,archery,Canada,cc_001036,WAF
+c_001678,Spencer Wright,54,11,archery,Japan,cc_001678,WAF
+c_000542,William Hill,58,2,boxing,Russia,cc_000542,IOC
+c_000301,Jeffrey Michael,53,15,shooting,Italy,cc_000301,ISSF
+c_000782,Christine Jones,47,1,decathlon,UK,cc_000782,IAAF
+c_001158,Miguel Acevedo,61,5,fencing,Russia,cc_001158,IOC
+c_001873,Theodore Duncan,32,9,archery,Russia,cc_001873,WAF
+c_000765,Kaitlyn Park,67,3,shooting,Japan,cc_000765,ISSF
+c_001374,Dana Munoz,66,18,track,Australia,cc_001374,IAAF
+c_001058,Natalie Phillips,40,13,sport climbing,Canada,cc_001058,IOC
+c_001673,Jennifer Wells,35,3,rowing,UK,cc_001673,IOC
+c_000740,Patrick Thomas,67,11,rowing,Russia,cc_000740,IOC
+c_001401,Diana Miller,32,3,gymnastics,ITALY,cc_001401,FIG
+c_000847,David Bush,66,15,boxing,USA,cc_000847,IOC
+c_000868,Melissa Cox,48,7,archery,Australia,cc_000868,WAF
+c_001016,Mary Clark,62,13,decathlon,Italy,cc_001016,IAAF
+c_000347,Jeffrey Cardenas,38,10,rowing,Japan,cc_000347,IOC
+c_001794,John Dominguez,39,5,decathlon,UK,cc_001794,IAAF
+c_001378,Christopher Perez,70,6,boxing,Russia,cc_001378,IOC
+c_001833,Cody Roberts,36,9,swimming,Germany,cc_001833,WA
+c_000497,Angela Sanchez,48,5,track,Canada,cc_000497,IAAF
+c_001864,Jeffrey Smith,50,15,sport climbing,India,cc_001864,IOC
+c_000879,Matthew King,42,7,decathlon,Australia,cc_000879,IAAF
+c_000075,Elizabeth Mcclain,42,1,weightlifting,China,cc_000075,IOC
+c_001675,Paula Quinn,68,18,fencing,Russia,cc_001675,IOC
+c_001390,Jennifer Berry,31,1,rowing,Italy,cc_001390,IOC
+c_001100,Catherine Gonzalez,56,7,rowing,USA,cc_001100,IOC
+c_001190,Stephen Flores,45,4,weightlifting,Canada,cc_001190,IOC
+c_000993,Alexis Jackson,53,5,surfing,Russia,cc_000993,IOC
+c_001367,Michelle Guerrero,54,5,rowing,RusSiA,cc_001367,IOC
+c_000797,Renee Harrison,36,6,karate,India,cc_000797,IOC
+c_000265,Patricia Collins,49,19,track,UK,cc_000265,IAAF
+c_000784,Dylan Carlson,56,15,shooting,Russia,cc_000784,ISSF
+c_000418,Jason Berry,45,14,shooting,USA,cc_000418,ISSF
+c_000857,Breanna Shaw,35,1,gymnastics,Australia,cc_000857,FIG
+c_000476,Alexander Moore,40,11,archery,Russia,cc_000476,WAF
+c_001605,Ian Burch,31,15,surfing,Australia,cc_001605,IOC
+c_000613,Janet Cook,62,5,cycling,France,cc_000613,IOC
+c_000470,David Clark,40,13,fencing,France,cc_000470,IOC
+c_001717,Michelle Johnston,48,19,shooting,UK,cc_001717,ISSF
+c_001980,Alan Scott,40,6,decathlon,USA,cc_001980,IAAF
+c_001265,Shannon Fernandez,48,18,archery,USA,cc_001265,WAF
+c_001617,Jeffery Rowe,62,19,wrestling,USA,cc_001617,IOC
+c_001009,Cristian Austin,67,20,rowing,France,cc_001009,IOC
+c_001302,Leah Simmons,32,7,shooting,Italy,cc_001302,ISSF
+c_000073,Christopher Evans,31,6,swimming,Germany,cc_000073,WA
+c_001927,Matthew Rose,54,5,swimming,Canada,cc_001927,WA
+c_000949,Vicki Bell,34,7,boxing,Russia,cc_000949,IOC
+c_000399,Mrs. Courtney Skinner,61,1,gymnastics,Russia,cc_000399,FIG
+c_001954,Kevin Jordan,30,17,weightlifting,Germany,cc_001954,IOC
+c_000243,Lindsay Taylor,37,16,cycling,UK,cc_000243,IOC
+c_001454,Alexandra Foster,60,6,cycling,Canada,cc_001454,IOC
+c_000618,James Bailey,33,20,shooting,Canada,cc_000618,ISSF
+c_000435,Terri Anderson,58,17,gymnastics,Japan,cc_000435,FIG
+c_000604,Jamie Koch,38,4,wrestling,Australia,cc_000604,IOC
+c_001509,Theresa Gomez,69,20,shooting,Canada,cc_001509,ISSF
+c_001807,Ryan Craig,54,20,sport climbing,Russia,cc_001807,IOC
+c_000751,Ashley Bennett,31,1,surfing,Russia,cc_000751,IOC
+c_000283,David Lawson,42,2,sport climbing,France,cc_000283,IOC
+c_000969,Jill Richards,67,13,karate,UK,cc_000969,IOC
+c_001323,Gerald Cortez,68,4,track,Russia,cc_001323,IAAF
+c_000947,Sean Moreno,59,15,wrestling,UK,cc_000947,IOC
+c_001527,Yvonne Cooper,45,15,cycling,China,cc_001527,IOC
+c_001423,Geoffrey Mora,67,10,swimming,Italy,cc_001423,WA
+c_000402,Jasmine Allen,68,16,swimming,Japan,cc_000402,WA
+c_001534,Amy Wright,51,2,sport climbing,India,cc_001534,IOC
+c_001360,Brianna Olson,36,1,rowing,Germany,cc_001360,IOC
+c_000693,Jacob Russell,34,14,boxing,USA,cc_000693,IOC
+c_000150,Jacob Moore MD,69,20,swimming,Germany,cc_000150,WA
+c_000127,Steven Boone,34,19,boxing,Japan,cc_000127,IOC
+c_000416,Carlos Jones,60,12,gymnastics,China,cc_000416,FIG
+c_001080,Jennifer Jackson,42,13,surfing,Canada,cc_001080,IOC
+c_001642,Emily Foster,37,18,boxing,Russia,cc_001642,IOC
+c_000493,Angela Moore,38,2,weightlifting,China,cc_000493,IOC
+c_001099,Dr. William Jimenez,40,2,archery,Australia,cc_001099,WAF
+c_000876,Jamie Giles,45,18,cycling,Germany,cc_000876,IOC
+c_000272,Chloe Kennedy,33,15,track,France,cc_000272,IAAF
+c_001994,George Ho,46,5,track,RUSSIA,cc_001994,IAAF
+c_001627,Daniel White,38,3,cycling,Australia,cc_001627,IOC
+c_001366,Larry Williams,32,20,fencing,Canada,cc_001366,IOC
+c_001589,Teresa Martin,50,5,weightlifting,India,cc_001589,IOC
+c_001946,Elizabeth Brewer,44,12,archery,Australia,cc_001946,WAF
+c_001410,Dana Baxter,46,3,cycling,Canada,cc_001410,IOC
+c_001853,Paige Shepherd,51,19,swimming,India,cc_001853,WA
+c_000330,Robert Shaw,69,12,sport climbing,USA,cc_000330,IOC
+c_001718,Dawn Rivera,52,6,wrestling,Canada,cc_001718,IOC
+c_000260,Lisa Martinez,34,6,rowing,Germany,cc_000260,IOC
+c_001503,Michael Thomas,67,12,sport climbing,Germany,cc_001503,IOC
+c_000361,Dr. Gloria Guzman,61,15,archery,China,cc_000361,WAF
+c_001238,Tonya Gordon,38,19,sport climbing,Japan,cc_001238,IOC
+c_001488,Jennifer May,37,7,fencing,Russia,cc_001488,IOC
+c_001997,Jennifer Mcguire,66,19,decathlon,Japan,cc_001997,IAAF
+c_000268,Diane Duran,40,6,cycling,Italy,cc_000268,IOC
+c_000888,Martha Wilson,47,4,gymnastics,France,cc_000888,FIG
+c_000249,Thomas Davis,63,19,cycling,Germany,cc_000249,IOC
+c_000994,Margaret Scott,30,6,shooting,Italy,cc_000994,ISSF
+c_001883,Kevin Macias,58,7,karate,Canada,cc_001883,IOC
+c_000909,Todd Griffin,64,19,karate,Germany,cc_000909,IOC
+c_001670,Andrea Lambert,45,9,swimming,China,cc_001670,WA
+c_001407,Amy Pearson,51,1,decathlon,Australia,cc_001407,IAAF
+c_000786,Steven Henson,61,4,decathlon,India,cc_000786,IAAF
+c_001570,Michael Patterson,69,9,swimming,France,cc_001570,WA
+c_000413,Alexis Crawford,33,8,weightlifting,Japan,cc_000413,IOC
+c_001384,Max Gonzalez,60,15,surfing,China,cc_001384,IOC
+c_000088,William Adams,46,14,weightlifting,USA,cc_000088,IOC
+c_000074,Eileen Flores,31,5,boxing,France,cc_000074,IOC
+c_000104,Richard Miller,59,14,weightlifting,India,cc_000104,IOC
+c_001832,Jacqueline Kelly,40,3,track,Japan,cc_001832,IAAF
+c_000188,David Fuentes MD,70,19,karate,UK,cc_000188,IOC
+c_000696,Russell Acosta,44,12,surfing,Russia,cc_000696,IOC
+c_000479,Matthew Gibson,53,5,karate,JaPAn,cc_000479,IOC
+c_001618,Lindsey Smith,57,9,karate,UK,cc_001618,IOC
+c_000180,Shawn Johnson,55,5,decathlon,Italy,cc_000180,IAAF
+c_000172,Keith Decker,59,8,decathlon,Germany,cc_000172,IAAF
+c_001854,Linda Velasquez,46,16,sport climbing,Japan,cc_001854,IOC
+c_000776,Emily Hernandez,69,20,fencing,Japan,cc_000776,IOC
+c_000320,Elizabeth Adams,41,11,gymnastics,UK,cc_000320,FIG
+c_001128,Jeffrey Thompson,58,19,fencing,Japan,cc_001128,IOC
+c_001520,Calvin Chan,37,17,boxing,CaNAdA,cc_001520,IOC
+c_001588,Catherine Joyce,39,14,decathlon,Italy,cc_001588,IAAF
+c_001066,Alan Collins,51,10,fencing,Australia,cc_001066,IOC
+c_001246,Michael Cox,37,3,weightlifting,Russia,cc_001246,IOC
+c_000584,Anthony Brown,63,8,boxing,UK,cc_000584,IOC
+c_001412,David Walker,49,18,boxing,Italy,cc_001412,IOC
+c_001726,Cathy Fuentes,70,14,wrestling,Australia,cc_001726,IOC
+c_001813,Michael Wiley,51,4,boxing,CHina,cc_001813,IOC
+c_001215,Joseph Thompson,48,20,sport climbing,India,cc_001215,IOC
+c_001831,Henry Torres,39,11,gymnastics,India,cc_001831,FIG
+c_000799,Michelle Joyce MD,66,12,decathlon,Germany,cc_000799,IAAF
+c_000298,Christina Tran,52,13,archery,UK,cc_000298,WAF
+c_000062,Sean Crosby,39,11,gymnastics,Germany,cc_000062,FIG
+c_000429,Mitchell White,42,10,karate,USA,cc_000429,IOC
+c_000344,Chad Miranda,46,9,sport climbing,Russia,cc_000344,IOC
+c_001929,Susan Black,47,9,cycling,Italy,cc_001929,IOC
+c_000596,Jeanette Watts,65,18,fencing,Canada,cc_000596,IOC
+c_000197,Dana Hernandez,38,12,track,Australia,cc_000197,IAAF
+c_000967,William Santana,61,17,fencing,Australia,cc_000967,IOC
+c_001764,Michael Morrison,43,6,gymnastics,Italy,cc_001764,FIG
+c_000355,Kevin Fernandez,61,17,swimming,Russia,cc_000355,WA
+c_000457,Christina Odom,43,3,surfing,Japan,cc_000457,IOC
+c_001848,Sandra Watkins,70,17,wrestling,USA,cc_001848,IOC
+c_001905,Dennis Burton,39,20,fencing,Canada,cc_001905,IOC
+c_001808,Jorge Mccormick,56,12,shooting,Italy,cc_001808,ISSF
+c_001076,Shelley Daniels,33,1,shooting,China,cc_001076,ISSF
+c_001846,Maria Graham DDS,37,4,surfing,China,cc_001846,IOC
+c_000454,Bryan Berger,63,10,sport climbing,Russia,cc_000454,IOC
+c_000708,Brandon Davis,41,2,gymnastics,Italy,cc_000708,FIG
+c_000729,Nicholas Mitchell,46,19,weightlifting,Russia,cc_000729,IOC
+c_001610,Kelsey Williams,43,15,swimming,Italy,cc_001610,WA
+c_000084,Lisa Rogers,33,2,boxing,Germany,cc_000084,IOC
+c_001318,Aaron Butler,44,17,fencing,China,cc_001318,IOC
+c_000938,Gerald Roberts,31,20,cycling,Russia,cc_000938,IOC
+c_000032,Ralph Delgado,60,15,swimming,Australia,cc_000032,WA
+c_000992,Keith Gonzalez,44,5,decathlon,Canada,cc_000992,IAAF
+c_000775,Kathleen Scott,61,3,surfing,India,cc_000775,IOC
+c_000705,Rita Alexander,40,10,swimming,UK,cc_000705,WA
+c_000840,Alexander Maxwell,65,16,wrestling,Italy,cc_000840,IOC
+c_001422,Adam Esparza,40,20,weightlifting,Russia,cc_001422,IOC
+c_000395,Todd Johnson,31,6,karate,Australia,cc_000395,IOC
+c_000404,Elaine Jefferson,67,3,decathlon,France,cc_000404,IAAF
+c_001495,Troy Burke,60,12,rowing,Australia,cc_001495,IOC
+c_000629,Daniel Reynolds,46,3,archery,Canada,cc_000629,WAF
+c_000946,Tyler Miller,40,11,shooting,USA,cc_000946,ISSF
+c_000342,Caleb Wilson,64,11,fencing,UK,cc_000342,IOC
+c_000338,Joseph Martin,38,11,rowing,France,cc_000338,IOC
+c_001703,Cynthia Williams,37,6,cycling,China,cc_001703,IOC
+c_001234,Denise Holland,32,7,archery,CanadA,cc_001234,WAF
+c_001182,Erica Johnson,48,13,boxing,India,cc_001182,IOC
+c_001212,Sean Bailey,39,19,track,Canada,cc_001212,IAAF
+c_000176,Whitney Love,37,14,rowing,USA,cc_000176,IOC
+c_000264,Jamie Miller,32,13,swimming,USA,cc_000264,WA
+c_001841,Vanessa Craig,34,8,boxing,Italy,cc_001841,IOC
+c_001896,Melissa Mullen,57,3,decathlon,Italy,cc_001896,IAAF
+c_000647,Shannon Sexton,43,7,weightlifting,China,cc_000647,IOC
+c_000277,Sarah Wilkerson,32,5,cycling,Canada,cc_000277,IOC
+c_001439,Sandra Vazquez,45,19,fencing,China,cc_001439,IOC
+c_001757,Ian Gibson,38,8,rowing,France,cc_001757,IOC
+c_001389,Bruce Greer,34,4,karate,Russia,cc_001389,IOC
+c_001157,John Johnson,41,19,sport climbing,Canada,cc_001157,IOC
+c_000605,Courtney Stafford,67,10,gymnastics,USA,cc_000605,FIG
+c_000390,Benjamin Lopez,55,11,decathlon,India,cc_000390,IAAF
+c_001539,David Richardson,63,15,boxing,Australia,cc_001539,IOC
+c_000965,Erika Harris,68,9,rowing,France,cc_000965,IOC
+c_000118,Allen Johnson,65,19,gymnastics,France,cc_000118,FIG
+c_001968,Donna Olson,32,16,swimming,Australia,cc_001968,WA
+c_001626,Daniel Williams,48,17,sport climbing,China,cc_001626,IOC
+c_001596,David Maldonado,66,1,sport climbing,UK,cc_001596,IOC
+c_001034,Travis Nelson,41,20,swimming,USA,cc_001034,WA
+c_001403,Toni Brown,59,9,track,Japan,cc_001403,IAAF
+c_000144,Henry Chandler,32,12,shooting,UK,cc_000144,ISSF
+c_001299,Marcus Hansen,69,11,sport climbing,UK,cc_001299,IOC
+c_000494,Donald Pope,68,14,rowing,Australia,cc_000494,IOC
+c_001758,Sierra Griffin,36,14,track,China,cc_001758,IAAF
+c_000427,Laura Walls,40,5,boxing,China,cc_000427,IOC
+c_001350,Phillip Smith,62,4,swimming,France,cc_001350,WA
+c_001027,Chris Wilson,33,1,surfing,Italy,cc_001027,IOC
+c_000667,Ryan Richardson,69,1,swimming,GeRMany,cc_000667,WA
+c_001790,Sheila Davis,41,5,shooting,fRance,cc_001790,ISSF
+c_000552,Kristina Roberson,32,9,archery,Canada,cc_000552,WAF
+c_001594,Kenneth Ortega,57,6,surfing,Australia,cc_001594,IOC
+c_000984,John Johnson,51,19,cycling,India,cc_000984,IOC
+c_001877,James Johnson,64,13,rowing,Germany,cc_001877,IOC
+c_001725,April Escobar,57,3,wrestling,China,cc_001725,IOC
+c_000559,Shawn Johnson,62,10,fencing,China,cc_000559,IOC
+c_000627,Amber Rivera,66,9,karate,USA,cc_000627,IOC
+c_001018,Jessica Shaw,52,3,track,Japan,cc_001018,IAAF
+c_001828,Zachary Powell,54,3,weightlifting,Canada,cc_001828,IOC
+c_001917,Johnathan Parker,32,17,track,Russia,cc_001917,IAAF
+c_000164,Cynthia Sherman,44,14,track,Australia,cc_000164,IAAF
+c_001017,Robert Lee,59,10,cycling,India,cc_001017,IOC
+c_000525,Trevor Roberts,53,4,weightlifting,France,cc_000525,IOC
+c_001782,Richard Evans,39,16,shooting,USA,cc_001782,ISSF
+c_001013,Samuel Sanchez,44,9,rowing,UK,cc_001013,IOC
+c_001420,Luke Rhodes,34,6,shooting,UK,cc_001420,ISSF
+c_001898,Jonathan Cantu,57,4,decathlon,Japan,cc_001898,IAAF
+c_000702,Debra Norton,35,8,gymnastics,China,cc_000702,FIG
+c_000822,Jessica Schmidt,57,9,archery,France,cc_000822,WAF
+c_001738,Marco Weaver,53,10,karate,USA,cc_001738,IOC
+c_000334,Laura Santana,37,10,decathlon,Italy,cc_000334,IAAF
+c_001353,Ryan Crawford,42,4,decathlon,USA,cc_001353,IAAF
+c_001262,Rhonda Bennett,63,13,boxing,France,cc_001262,IOC
+c_001987,Michelle Crawford,57,2,fencing,Germany,cc_001987,IOC
+c_001286,David Vance,31,1,sport climbing,Australia,cc_001286,IOC
+c_001681,Barry Smith,41,2,track,China,cc_001681,IAAF
+c_000585,Brooke Ross,49,2,track,Canada,cc_000585,IAAF
+c_000391,Jason Anderson,54,8,shooting,Japan,cc_000391,ISSF
+c_001365,Jennifer Davis,49,13,sport climbing,UK,cc_001365,IOC
+c_001940,Michael Morgan,70,9,track,Italy,cc_001940,IAAF
+c_001041,James Arroyo,55,6,swimming,Germany,cc_001041,WA
+c_001546,Rachael Miller,58,8,surfing,Japan,cc_001546,IOC
+c_001105,Matthew Goodman,46,4,fencing,India,cc_001105,IOC
+c_001122,Christine Williams,32,8,decathlon,USA,cc_001122,IAAF
+c_000324,Kenneth Jackson,61,1,fencing,India,cc_000324,IOC
+c_000892,Gabrielle Willis,44,12,cycling,UK,cc_000892,IOC
+c_001916,Amber Brooks,46,20,cycling,Canada,cc_001916,IOC
+c_000722,Darlene Browning,48,14,track,Germany,cc_000722,IAAF
+c_001440,David Wallace,54,16,rowing,Australia,cc_001440,IOC
+c_000233,Sandra Petersen,55,13,karate,Canada,cc_000233,IOC
+c_000602,John Powell,57,15,shooting,FrANcE,cc_000602,ISSF
+c_000601,Ebony Johnson,56,14,surfing,Germany,cc_000601,IOC
+c_000863,Martha Hays,58,2,wrestling,India,cc_000863,IOC
+c_000783,Zachary Rodriguez,69,7,karate,Canada,cc_000783,IOC
+c_000924,Henry Russell,33,2,fencing,USA,cc_000924,IOC
+c_001452,Billy Brown,64,2,swimming,usa,cc_001452,WA
+c_001666,Walter Chapman,69,17,rowing,India,cc_001666,IOC
+c_001974,Linda Jones,35,15,boxing,India,cc_001974,IOC
+c_001786,Michael Klein,40,10,karate,Italy,cc_001786,IOC
+c_001839,Ethan Rodriguez,35,4,track,Canada,cc_001839,IAAF
+c_000853,Martha Ross,54,5,archery,Japan,cc_000853,WAF
+c_001486,George Brooks,47,2,cycling,UK,cc_001486,IOC
+c_000754,Jonathan Gomez,54,11,decathlon,Japan,cc_000754,IAAF
+c_000230,Sean Green,31,4,surfing,Australia,cc_000230,IOC
+c_000447,Katherine Kelley,37,15,karate,Germany,cc_000447,IOC
+c_001507,John Moreno,59,16,gymnastics,USA,cc_001507,FIG
+c_001087,Kristen Sanchez,36,12,boxing,China,cc_001087,IOC
+c_000246,Edward Walker,37,18,weightlifting,Italy,cc_000246,IOC
+c_000586,Crystal Bell,49,6,rowing,Russia,cc_000586,IOC
+c_001955,Mary Roberson,64,3,decathlon,France,cc_001955,IAAF
+c_001734,David Thomas,63,4,rowing,Germany,cc_001734,IOC
+c_001679,Mike Barnes,56,6,weightlifting,Germany,cc_001679,IOC
+c_001121,David Long,33,20,archery,Australia,cc_001121,WAF
+c_001765,Shaun Hawkins,69,1,gymnastics,India,cc_001765,FIG
+c_000273,Donna Byrd PhD,50,4,surfing,China,cc_000273,IOC
+c_000885,Michael Flores,32,10,sport climbing,India,cc_000885,IOC
+c_000935,Philip Reed,49,12,decathlon,USA,cc_000935,IAAF
+c_000194,Melissa Moran,31,16,surfing,Germany,cc_000194,IOC
+c_001838,Dr. Pamela Jimenez,33,20,sport climbing,UK,cc_001838,IOC
+c_000733,Alyssa Ruiz,47,15,rowing,Germany,cc_000733,IOC
+c_001619,Colleen Butler,37,6,shooting,Canada,cc_001619,ISSF
+c_001879,Richard Morgan,44,9,track,China,cc_001879,IAAF
+c_001388,Brenda Gray,68,17,rowing,Canada,cc_001388,IOC
+c_001201,Katelyn Webb,65,19,swimming,Canada,cc_001201,WA
+c_000736,Heather Moore,31,20,archery,Australia,cc_000736,WAF
+c_001096,John Gonzalez,64,5,karate,Germany,cc_001096,IOC
+c_001159,Erica Morrow,53,8,boxing,Italy,cc_001159,IOC
+c_001739,Laura Cohen,55,16,decathlon,UK,cc_001739,IAAF
+c_001062,Alex Davis,30,14,weightlifting,Japan,cc_001062,IOC
+c_001373,David Mayer,60,9,decathlon,China,cc_001373,IAAF
+c_000382,Anthony Kennedy,53,4,decathlon,France,cc_000382,IAAF
+c_000561,James Horton,56,20,weightlifting,USA,cc_000561,IOC
+c_001010,Kevin Hall,46,16,archery,China,cc_001010,WAF
+c_001345,Michael Forbes,62,9,sport climbing,Russia,cc_001345,IOC
+c_001649,Joshua Bright,39,10,rowing,Australia,cc_001649,IOC
+c_001803,Todd Kennedy,57,15,karate,Australia,cc_001803,IOC
+c_000858,Bill Shea,62,14,track,USA,cc_000858,IAAF
+c_001652,Catherine Sherman,31,7,boxing,Canada,cc_001652,IOC
+c_000263,Jeffery Roberts,66,5,shooting,Australia,cc_000263,ISSF
+c_001344,James Fuentes,43,10,karate,Canada,cc_001344,IOC
+c_001338,Jasmine Mcintyre,55,18,fencing,Germany,cc_001338,IOC
+c_000156,Robert Lee,45,13,swimming,Canada,cc_000156,WA
+c_001448,Ashley Bridges,70,7,karate,Germany,cc_001448,IOC
+c_001612,Jessica Hayden,52,1,fencing,JAPAn,cc_001612,IOC
+c_000914,Mackenzie Davis,40,11,archery,UK,cc_000914,WAF
+c_000726,Janet Castro,60,17,sport climbing,USA,cc_000726,IOC
+c_000971,Wanda Henson,54,5,rowing,Russia,cc_000971,IOC
+c_000549,Jason Frost,56,19,wrestling,Australia,cc_000549,IOC
+c_001358,Monica Cannon,60,12,swimming,iNdiA,cc_001358,WA
+c_000060,Jessica Duncan,56,12,gymnastics,India,cc_000060,FIG
+c_000931,Michael Matthews,36,13,shooting,Germany,cc_000931,ISSF
+c_000787,Theresa Grant,61,9,karate,Japan,cc_000787,IOC
+c_000058,Kenneth Holmes,65,3,weightlifting,RuSSia,cc_000058,IOC
+c_000834,Matthew Rodriguez,42,12,fencing,China,cc_000834,IOC
+c_001347,Nicholas Morris,42,2,weightlifting,India,cc_001347,IOC
+c_001229,Luis Hays,31,2,gymnastics,France,cc_001229,FIG
+c_000321,Christopher Pierce,55,18,boxing,Canada,cc_000321,IOC
+c_001408,Mary Carter,33,12,surfing,USA,cc_001408,IOC
+c_000229,Michele Oconnor,56,14,wrestling,CHINa,cc_000229,IOC
+c_000177,Amber Lane,56,15,rowing,UK,cc_000177,IOC
+c_000024,Amanda Rogers,56,20,surfing,Canada,cc_000024,IOC
+c_000488,Jamie Vang,70,10,surfing,Italy,cc_000488,IOC
+c_000734,Emily Jones,38,8,surfing,France,cc_000734,IOC
+c_000437,William Ortega,50,14,cycling,France,cc_000437,IOC
+c_000803,Melinda Martinez,43,14,cycling,USA,cc_000803,IOC
+c_001005,Gina Morales,56,9,decathlon,Italy,cc_001005,IAAF
+c_001194,Lisa Chan,31,13,weightlifting,Japan,cc_001194,IOC
+c_001522,Dawn Sosa,63,11,cycling,Italy,cc_001522,IOC
+c_000178,Michael Powers,48,7,archery,Canada,cc_000178,WAF
+c_001156,Robert Powell,55,15,cycling,UK,cc_001156,IOC
+c_000269,Kenneth Harvey,42,7,archery,India,cc_000269,WAF
+c_001279,Jonathan Barker,47,2,fencing,Russia,cc_001279,IOC
+c_000499,Walter Davila,39,9,fencing,Italy,cc_000499,IOC
+c_001554,Destiny Wright,30,12,gymnastics,Russia,cc_001554,FIG
+c_001885,Darren Nguyen,54,9,archery,Italy,cc_001885,WAF
+c_001660,Andre Kelley,45,18,track,Australia,cc_001660,IAAF
+c_000611,Penny Howe,42,4,weightlifting,Japan,cc_000611,IOC
+c_001863,Jennifer Floyd,40,14,gymnastics,Italy,cc_001863,FIG
+c_001876,Joshua Jones,31,19,decathlon,Japan,cc_001876,IAAF
+c_001558,Michelle Kemp,46,6,shooting,Germany,cc_001558,ISSF
+c_000105,Paul Johnson,60,19,surfing,Japan,cc_000105,IOC
+c_001483,Thomas Santiago,67,1,boxing,chINa,cc_001483,IOC
+c_001847,Charlene Jacobson,39,20,fencing,Australia,cc_001847,IOC
+c_001733,Miguel Knight,57,5,surfing,Japan,cc_001733,IOC
+c_001150,Michael Brown,62,4,track,Japan,cc_001150,IAAF
+c_001691,Brittany Wang,34,13,archery,France,cc_001691,WAF
+c_000645,Joseph Ellis,48,4,surfing,Germany,cc_000645,IOC
+c_000043,Nicole Patel,52,8,surfing,Australia,cc_000043,IOC
+c_001351,Connor Kramer,44,2,wrestling,China,cc_001351,IOC
+c_000766,Troy Fry,38,14,rowing,Germany,cc_000766,IOC
+c_000336,Miranda Robinson,45,19,wrestling,jaPAn,cc_000336,IOC
+c_001809,Kari Mitchell,60,19,fencing,India,cc_001809,IOC
+c_000964,Kyle Rogers,41,1,archery,Germany,cc_000964,WAF
+c_000245,Richard Bowman,61,10,track,Russia,cc_000245,IAAF
+c_001136,Donna Mcclure,60,19,fencing,Russia,cc_001136,IOC
+c_001438,Jordan Johnston,40,12,sport climbing,France,cc_001438,IOC
+c_000873,Julie Doyle,70,5,gymnastics,Italy,cc_000873,FIG
+c_001060,Gary West,40,20,wrestling,Italy,cc_001060,IOC
+c_001203,Patrick Barrera,68,14,track,Italy,cc_001203,IAAF
+c_001549,Antonio Norton,42,2,weightlifting,China,cc_001549,IOC
+c_001480,Donald Gordon,64,16,boxing,Japan,cc_001480,IOC
+c_000713,Kelly Parks,59,3,boxing,China,cc_000713,IOC
+c_001244,Mrs. Alice Carter,56,10,rowing,UK,cc_001244,IOC
+c_001436,Chase Kelly,50,18,fencing,Japan,cc_001436,IOC
+c_001093,Richard Davis,47,2,cycling,Italy,cc_001093,IOC
+c_001132,Jason Roy,66,18,wrestling,Australia,cc_001132,IOC
+c_000959,Angela Coleman,67,1,cycling,canAda,cc_000959,IOC
+c_000916,Rachel Nguyen,30,4,archery,Russia,cc_000916,WAF
+c_000795,Charles Turner,47,1,sport climbing,Russia,cc_000795,IOC
+c_000556,Lisa Duncan,51,20,swimming,Japan,cc_000556,WA
+c_000621,Lori Malone,39,18,karate,India,cc_000621,IOC
+c_000467,Matthew Lee,31,10,archery,India,cc_000467,WAF
+c_000285,Eugene Martinez,63,11,gymnastics,Australia,cc_000285,FIG
+c_000673,Samantha Ward,48,2,boxing,Canada,cc_000673,IOC
+c_000193,William Young,49,12,surfing,Japan,cc_000193,IOC
+c_001602,Emily Eaton,70,6,swimming,Germany,cc_001602,WA
+c_000671,George Barnes,41,8,shooting,USA,cc_000671,ISSF
+c_000103,Terry Nixon,59,4,archery,Italy,cc_000103,WAF
+c_001777,Justin Atkins,56,17,wrestling,Japan,cc_001777,IOC
+c_001788,David Hoffman,68,5,swimming,Japan,cc_001788,WA
+c_000099,Jose Mckenzie,70,1,sport climbing,USA,cc_000099,IOC
+c_001536,Anthony Lawrence,43,6,shooting,Germany,cc_001536,ISSF
+c_000811,Tiffany Burgess,51,1,weightlifting,France,cc_000811,IOC
+c_000798,Kathryn Houston,41,14,weightlifting,Japan,cc_000798,IOC
+c_000340,Brandy Clay,49,6,sport climbing,Australia,cc_000340,IOC
+c_000789,Jason Spence,46,5,gymnastics,France,cc_000789,FIG
+c_000995,John Frost,42,19,sport climbing,India,cc_000995,IOC
+c_001630,Ashley Williams,52,2,swimming,Canada,cc_001630,WA
+c_000114,Kristen Bowers,56,17,fencing,Italy,cc_000114,IOC
+c_001992,Adam Li,55,10,track,UK,cc_001992,IAAF
+c_001622,Anthony Wagner,60,11,gymnastics,India,cc_001622,FIG
+c_001073,Brian Nielsen,37,10,surfing,Japan,cc_001073,IOC
+c_001433,Joseph Brewer,33,20,sport climbing,Russia,cc_001433,IOC
+c_001474,Kimberly Bentley,57,14,sport climbing,USA,cc_001474,IOC
+c_001581,Gina Leach,35,15,wrestling,France,cc_001581,IOC
+c_001466,Christopher Becker,60,13,swimming,Russia,cc_001466,WA
+c_001598,Michael Parker,66,6,sport climbing,Russia,cc_001598,IOC
+c_000290,Mr. Barry Rangel MD,59,2,shooting,Italy,cc_000290,ISSF
+c_001225,Lucas Smith,58,5,surfing,Italy,cc_001225,IOC
+c_001427,Scott Molina,51,4,rowing,France,cc_001427,IOC
+c_000830,Adriana Kelley,51,5,weightlifting,India,cc_000830,IOC
+c_001313,Donna Baker,33,20,karate,Italy,cc_001313,IOC
+c_000183,Peter Spencer,34,17,archery,Germany,cc_000183,WAF
+c_000025,Scott Lin,37,15,swimming,Russia,cc_000025,WA
+c_000944,Lindsay Gregory,55,17,shooting,China,cc_000944,ISSF
+c_001868,Edward Robinson,59,20,track,China,cc_001868,IAAF
+c_001700,Daniel Hardy,39,9,decathlon,Japan,cc_001700,IAAF
+c_001264,Craig Jordan,34,6,decathlon,Australia,cc_001264,IAAF
+c_000881,Jeffery Rodriguez,42,8,wrestling,UK,cc_000881,IOC
+c_001730,Jennifer Vaughn,36,18,archery,Russia,cc_001730,WAF
+c_000638,Joseph Perez,41,3,gymnastics,USA,cc_000638,FIG
+c_000325,Danielle Mitchell,67,18,wrestling,Japan,cc_000325,IOC
+c_000292,Eric Daugherty,47,6,swimming,Japan,cc_000292,WA
+c_001532,Sydney Mcdowell,54,8,rowing,Russia,cc_001532,IOC
+c_000159,Robert Miller,65,9,decathlon,India,cc_000159,IAAF
+c_001653,Stephen Olsen,68,19,cycling,Russia,cc_001653,IOC
+c_001625,William Liu,43,15,surfing,France,cc_001625,IOC
+c_001614,Kim Jones,35,3,shooting,France,cc_001614,ISSF
+c_001417,Amanda Brooks,52,17,track,China,cc_001417,IAAF
+c_000569,Danielle Parker,39,16,gymnastics,France,cc_000569,FIG
+c_001900,Zachary Rodriguez,67,17,karate,France,cc_001900,IOC
+c_000659,Lisa Morales DVM,68,5,gymnastics,Australia,cc_000659,FIG
+c_001962,James Reed,30,20,fencing,Italy,cc_001962,IOC
+c_000354,Sara Jackson,56,16,archery,Canada,cc_000354,WAF
+c_001381,Kimberly Knox,69,12,wrestling,jaPAn,cc_001381,IOC
+c_001756,Megan Mitchell,44,17,boxing,Germany,cc_001756,IOC
